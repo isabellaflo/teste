@@ -16,7 +16,9 @@ O objetivo será explicar os campos que compõe esse formulário, demonstrando c
 
 Análise de crédito *(Menu > Financeiro > Análise de crédito)* pode ser utilizada como uma análise de crédito dos mensalistas do cartório. Bastando cadastrar um limite de crédito e informar o nível de risco de habilitar crédito para determinado cliente.
 
-![2](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\2.png)
+<div align="center">
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/2_Analise_De_Credito.PNG" width="700" />
+</div>
 
 **a. Cedente:** Funcionário que realizou a análise de crédito.
 
@@ -24,11 +26,11 @@ Análise de crédito *(Menu > Financeiro > Análise de crédito)* pode ser utili
 
 **c.  Análise:**  Analisa a situação do mensalista *(Cliente)* antes de liberar o crédito.
 
-![2_1](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\2_1.png)selecionar as consultas realizadas durante a análise do cliente *(Mensalista)*.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/2_1.png" /> selecionar as consultas realizadas durante a análise do cliente *(Mensalista)*.
 
 **d. Nível de risco:**  O nível de risco varia de 0 a 9, sendo 0 muito seguro habilitar crédito e 9 muito arriscado. 
 
-![2_2](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\2_2.png)Crédito habilitado do nível de risco, é possível habilitar o crédito.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/2_2.png" /> Crédito habilitado do nível de risco, é possível habilitar o crédito.
 
 **e. Limite de crédito:**  Valor a liberar de crédito ao mensalista *(Cliente)*.
 
@@ -41,8 +43,10 @@ Análise de crédito *(Menu > Financeiro > Análise de crédito)* pode ser utili
 ##### 2. Bancos
 
 Bancos *(Menu > Financeiro > Bancos)* é possível cadastrar banco, inserindo informações de número, dígito verificador e nome do banco.
-
-![3](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\3.png)
+   
+<div align="center">
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/3_Banco.PNG" width="700" />
+</div>
 
 **a. Número:**  Número do banco.
 
@@ -50,7 +54,7 @@ Bancos *(Menu > Financeiro > Bancos)* é possível cadastrar banco, inserindo in
 
 **c. Nome:** Nome do banco.
 
-![3_1](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\3_1.png) É possível desativar o banco se necessário.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/3_1.png" /> É possível desativar o banco se necessário.
 
 
 
