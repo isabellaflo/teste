@@ -62,27 +62,30 @@ Bancos *(Menu > Financeiro > Bancos)* é possível cadastrar banco, inserindo in
 
 Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório emite boletos. Ao salvar, o Acsiv cria um registro em contas a Receber.  
 
-![4](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\4.png)
+<div align="center">
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/4_Boletos.PNG" width="700" />
+</div>
+<br>
 
 **a. Dt. entrada:** Data automática do dia da entrada, mas poderá ser alterada caso necessário.
 
-**b. Dt. vencimento: ** Data automática do dia do vencimento, mas poderá ser alterada caso necessário.
+**b. Dt. vencimento:** Data automática do dia do vencimento, mas poderá ser alterada caso necessário.
 
-**c. Valor: ** Valor do boleto a ser gerado.
+**c. Valor:** Valor do boleto a ser gerado.
 
 **d. Documento:** Opcional, se o cartório trabalhar com número de documento, preenche o campo, se não, pode deixar vazio.
 
 **e. Func. resp.:** Funcionário que esta realizando a emissão do boleto.
 
-**Devedor:** Utilizado para preencher o devedor do boleto.
+**f. Devedor:** Utilizado para preencher o devedor do boleto.
 
-**Plano de contas:** Escolhe o plano de contas que será efetivado a emissão do boleto.
+**g. Plano de contas:** Escolhe o plano de contas que será efetivado a emissão do boleto.
 
-**Histórico:** Preenche o histórico conforme necessário.
+**h. Histórico:** Preenche o histórico conforme necessário.
 
-**Forma de pagto.:** Forma de pagamento que será pago o boleto.
+**i. Forma de pagto.:** Forma de pagamento que será pago o boleto.
 
-**Conta:** Conta pela qual será creditado o boleto.
+**j. Conta:** Conta pela qual será creditado o boleto.
 
 
 
@@ -90,9 +93,10 @@ Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório em
 
  Caixa - Entradas (*Menu > Financeiro > Caixa > Entradas*) Utilizado para realizar os lançamentos das receitas do cartório. *Ex.: "Valores que entraram para o cartório".*  
 
-![5](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\5.png)
-
-
+<div align="center">
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/5_Caixa_Entradas.PNG" width="700" />
+</div>
+<br>
 
 **a. Dt. Vencimento:** Data vencimento do dia, mas poderá ser alterada caso necessário.
 
@@ -125,10 +129,10 @@ Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório em
 Caixa - Saídas (*Menu - Financeiro - Caixas - Saídas*) Utilizado para realizar todas as saídas (despesas) do cartório. *Ex.: "Valores que saíram do cartório".*  
 
 
-
-![6](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\6.png)
-
-
+<div align="center">
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/5_Caixa_Entradas.PNG" width="700" />
+</div>
+<br>
 
 **a. Dt. vencimento:** Data vencimento do dia, mas poderá ser alterada caso necessário.
 
@@ -162,13 +166,22 @@ Caixa - Saídas (*Menu - Financeiro - Caixas - Saídas*) Utilizado para realizar
 
 
 
-![7](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\7.PNG)
+<div align="center">
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/7_Centro_Custo_1.PNG" width="700" />
+</div>
+<br>
 
 É possível pesquisar, criar um novo, abrir um centro de custos.
 
-![8](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\8.PNG)
+<div align="center">
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/7_Centro_Custo_2.PNG" width="700" />
+</div>
+<br>
 
-![9](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\9.png)
+<div align="center">
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/7_Centro_Custo_3.PNG" width="700" />
+</div>
+<br>
 
 **a. Código:** Gerado automaticamente pelo sistema.
 
@@ -178,7 +191,7 @@ Caixa - Saídas (*Menu - Financeiro - Caixas - Saídas*) Utilizado para realizar
 
 **d. Conta superior:** Conta superior criada no Centro de custos.
 
-Para desativar a conta, basta clicar no botão ![3_1](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\3_1.png).
+Para desativar a conta, basta clicar no botão <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/3_1.png" />.
 
 
 
@@ -188,11 +201,17 @@ Condições de pagamentos *(Menu > Financeiro > Condições de pagamentos)* Util
 
 Ao abrir o formulário, é possível pesquisar, criar novas condições de pagamentos, abrir e excluir. 
 
-![10](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\10.PNG)
+<div align="center">
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/8_Condicoes_Pagamentos_1.PNG" width="700" />
+</div>
+<br>
 
 Exemplificando:
 
-![11](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\11.PNG)
+<div align="center">
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/8_Condicoes_Pagamentos_2.PNG" width="700" />
+</div>
+<br>
 
 **a. Código:**  Gerado automaticamente pelo sistema.
 
@@ -216,7 +235,7 @@ Exemplificando:
 
 Contas a pagar *(Menu > Financeiro > Contas a pagar)*, será apresentado todas as contas a pagar do cartório.
 
-É possível pesquisar os títulos por um credor em especifico ou apenas selecionar o botão ![pesquisar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\pesquisar.PNG) que será apresentado como na tela abaixo:
+É possível pesquisar os títulos por um credor em especifico ou apenas selecionar o botão <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/pesquisar.PNG" />. que será apresentado como na tela abaixo:
 
 
 
