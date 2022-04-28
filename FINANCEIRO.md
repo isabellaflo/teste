@@ -6,7 +6,7 @@ Vamos demonstrar o uso do formulário Financeiro, pesquisando informações, ins
 
 O objetivo será explicar os campos que compõe esse formulário, demonstrando com informações fictícias.
 
-<div align-"center">
+<div align="center">
 <img src="https://user-images.githubusercontent.com/98952804/165134558-1afde495-4ba3-4c4e-a538-123d637abf9b.png" width="450px" />
 </div>
 
