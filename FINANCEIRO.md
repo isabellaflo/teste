@@ -260,7 +260,7 @@ Os títulos apresentados na tela na parte superior <img src="https://github.com/
 
 
 
-<center><i>Mostraremos algumas funcionalidades:</i></center>
+<div align="center"><i>Mostraremos algumas funcionalidades:</i></div>
 
 ***
 
