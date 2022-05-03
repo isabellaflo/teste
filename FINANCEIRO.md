@@ -243,7 +243,7 @@ Contas a pagar *(Menu > Financeiro > Contas a pagar)*, será apresentado todas a
 
 Vamos utilizar apenas dois credores para exemplificar.
 
-Os títulos apresentados na tela na parte superior (<font color = 'red'> NÃO QUITADOS</font>) significa que são títulos em abertos que não foram quitados ainda, após quitar, o mesmo aparecerá na parte inferior da tela (<font color = 'green'> QUITADOS</font>). 
+Os títulos apresentados na tela na parte superior (<font-color = 'red'> NÃO QUITADOS</font>) significa que são títulos em abertos que não foram quitados ainda, após quitar, o mesmo aparecerá na parte inferior da tela (<font-color = 'green'> QUITADOS</font>). 
 
 **a. Credor:** Credor da conta a pagar.
 
@@ -365,7 +365,7 @@ Como ficará esse recibo no contas a receber:
 
 ![contas a receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\contas a receber.PNG)
 
-Os títulos apresentados na tela na parte superior (<font color = 'red'> NÃO QUITADOS</font>) significa que são títulos em abertos que não foram quitados ainda, após quitar, o mesmo aparecerá na parte inferior da tela (<font color = 'green'> QUITADOS</font>). 
+Os títulos apresentados na tela na parte superior (<font color = "#ff0000"> NÃO QUITADOS</font>) significa que são títulos em abertos que não foram quitados ainda, após quitar, o mesmo aparecerá na parte inferior da tela (<font color = "green"> QUITADOS</font>). 
 
 
 
