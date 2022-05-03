@@ -265,8 +265,7 @@ Os títulos apresentados na tela na parte superior <img src="https://github.com/
 ***
 
 
-
-![quitar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\quitar.PNG) Botão realizado para quitar os títulos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/quitar.PNG" /> Botão realizado para quitar os títulos.
 
 
 
