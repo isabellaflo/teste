@@ -237,23 +237,24 @@ Contas a pagar *(Menu > Financeiro > Contas a pagar)*, será apresentado todas a
 
 É possível pesquisar os títulos por um credor em especifico ou apenas selecionar o botão <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/pesquisar.PNG" />. que será apresentado como na tela abaixo:
 
-
-
-![Contas_a_Pagar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Contas_a_Pagar.PNG)
+<div align="center">
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_1.PNG" width="700" />
+</div>
+<br>
 
 Vamos utilizar apenas dois credores para exemplificar.
 
-Os títulos apresentados na tela na parte superior (<font-color = 'red'> NÃO QUITADOS</font>) significa que são títulos em abertos que não foram quitados ainda, após quitar, o mesmo aparecerá na parte inferior da tela (<font-color = 'green'> QUITADOS</font>). 
+Os títulos apresentados na tela na parte superior <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/N%C3%A3o_Quitados.PNG" /> significa que são títulos em abertos que não foram quitados ainda, após quitar, o mesmo aparecerá na parte inferior da tela <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Quitados.PNG" />. 
 
 **a. Credor:** Credor da conta a pagar.
 
 **b. Dt. vencimento:** Selecione entre as 5 datas *(Vencimento, pagamento, programação, liquidação).* 
 
-![datas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\datas.png)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/datas.png" />
 
 **c. Valor:** Ao clicar no campo Valor é possível alterar a opção de busca.
 
-![valor](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\valor.png)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/valor.png" />
 
 **d. Documento:** Campo utilizado para colocar informação do documento, não é campo obrigatório.
 
@@ -270,8 +271,7 @@ Os títulos apresentados na tela na parte superior (<font-color = 'red'> NÃO QU
 
 
 Selecione o título que deseja quitar.
-
-![titulo_a_quitar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\titulo_a_quitar.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_2.PNG" />
 
 Ao selecionar, será apresentado a seguinte tela:
 
