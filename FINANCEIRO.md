@@ -35,7 +35,8 @@
 [R. PLANO DE CONTAS](#rplanodecontas)<br>
 [R. RECEITA DIÁRIA](#rreceitadiária)<br>
 
-<div align="center"><b>FINANCEIRO</>
+<p align="center"><b>FINANCEIRO</b></p>
+
 
 *Caso o cartório trabalhe com controle de senhas através de dispensador manual, impressora de senha ou totem de atendimento, o Acsiv possui um módulo específico para isso. Entre em contato com nosso suporte técnico para solicitar  a configuração.*
 
@@ -273,7 +274,7 @@ Exemplificando:
 
 Contas a pagar *(Menu > Financeiro > Contas a pagar)*, será apresentado todas as contas a pagar do cartório.
 
-É possível pesquisar os títulos por um credor em especifico ou apenas selecionar o botão <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/pesquisar.PNG" />. que será apresentado como na tela abaixo:
+É possível pesquisar os títulos por um credor em especifico ou apenas selecionar o botão <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/pesquisar.PNG" /> para visualizar como exemplo a seguir:
 
 <div align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_1.PNG" width="700" />
@@ -287,15 +288,16 @@ Os títulos apresentados na tela na parte superior <img src="https://github.com/
 **a. Credor:** Credor da conta a pagar.
 
 **b. Dt. vencimento:** Selecione entre as 5 datas *(Vencimento, pagamento, programação, liquidação).* 
-
+<p align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/datas.png" />
+</p>   
 
 **c. Valor:** Ao clicar no campo Valor é possível alterar a opção de busca.
-
+<p align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/valor.png" />
+</p>
 
 **d. Documento:** Campo utilizado para colocar informação do documento, não é campo obrigatório.
-
 
 
 <div align="center"><i>Mostraremos algumas funcionalidades:</i></div>
@@ -306,25 +308,26 @@ Os títulos apresentados na tela na parte superior <img src="https://github.com/
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/quitar.PNG" /> Botão realizado para quitar os títulos.
 
 
-
 Selecione o título que deseja quitar.
+<p align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_2.PNG" />
+</p>
 
 Ao selecionar, será apresentado a seguinte tela:
 
-![titulo_tela_quitar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\titulo_tela_quitar.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_3.PNG" />
 
 Assim que a conta for quitada, na tela de contas a pagar será apresentada da seguinte maneira:
 
-<img src="C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\contas_a_pagar_quitadas.PNG" alt="contas_a_pagar_quitadas" style="zoom:75%;" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_4.PNG" />
 
-Botão ![abrir](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\abrir.PNG) é possível abrir a conta a pagar selecionada para ter acesso as informações.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/abrir.PNG" />  possível abrir a conta a pagar selecionada para ter acesso as informações.
 
-![Abrir_contas_a_pagar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Abrir_contas_a_pagar.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_5.PNG" />
 
 <center>
 
-​                     <i>Botão</i>  ![14](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\14.png)  <i>ferramentas (Atalho ALT + M), possui algumas funcionalidades, são elas:</i>     
+<i>Botão</i>  <img src="" />  <i>ferramentas (Atalho ALT + M), possui algumas funcionalidades, são elas:</i>     
 
 ---
 
