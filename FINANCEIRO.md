@@ -1,6 +1,39 @@
 <b>ÍNDICE:</b>
 
-[1.ANÁLISE DE CRÉDITO](#analise)
+[1. ANÁLISE DE CRÉDITO](#analise)<br>
+[2. BANCOS](#bancos)<br>
+[3. BOLETOS](#boletos)<br>
+[4. CAIXA - ENTRADAS](#caixaentradas)<br>
+[5. CAIXA SAÍDAS](#caixasaídas)<br>
+[6. CENTRO DE CUSTOS](#centrodecustos)<br>
+[7. CONDIÇÕES DE PAGAMENTOS](#condiçõesdepagamentos)<br>
+[8. CONTAS A PAGAR](#contasapagar)<br>
+[9. CONTAS A RECEBER](#contasareceber)<br>
+[10. CONTAS FINANCEIRAS](#contasfinanceiras)<br>
+[11. CRÉDITO COMERCIAL](#créditocomercial)<br>
+[12. DARF](#darf)<br>
+[13. DESPESAS FIXAS](#despesasfixas)<br>
+[14. DESPESAS RECORRENTES](#despesasrecorrentes)<br>
+[15. FORMAS DE PAGAMENTOS](#formasdepagamentos)<br>
+[16. LOGS FINANCEIROS](#logsfinanceiros)<br>
+[17. PASTAS](#pastas)<br>
+[18. PLANO DE CONTAS](#planodecontas)<br>
+[19. RECEITAS FIXAS](#receitasfixas)<br>
+[20. REMESSA DE BOLETOS](#remessadeboleto)<br>
+[21. RETORNO DE BOLETOS](#retornodeboleto)<br>
+[22. TABELA IR](#tabelair)<br>
+[23. TRANSFERÊNCIAS](#transferências)<br>
+[24. RELATÓRIOS](#relatórios)<br>
+[R. BOLETOS](#rboletos)<br>
+[R. CONTAS A PAGAR](#rcontasapagar)<br>
+[R. CONTAS A RECEBER](#rcontasareceber)<br>
+[R. EXTRATO DE CONTAS](#rextratodecontas)<br>
+[R. EXTRATO DE MENSALISTAS](#rextratodemensalistas)<br>
+[R. FECHAMENTO DE CAIXA](#rfechamentodecaixa)<br>
+[R. LIVRO AUXILIAR](#rlivroauxiliar)<br>
+[R. LIVRO CAIXA](#rlivrocaixa)<br>
+[R. PLANO DE CONTAS](#rplanodecontas)<br>
+[R. RECEITA DIÁRIA](#rreceitadiária)<br>
 
 # FINANCEIRO
 
@@ -43,8 +76,8 @@ Análise de crédito *(Menu > Financeiro > Análise de crédito)* pode ser utili
 **g. Observações:** É possível colocar alguma observação referente ao cliente (*Mensalista*).
 
 
-
-##### 2. Bancos
+<div id="bancos" />
+<b>2. Bancos</b>
 
 Bancos *(Menu > Financeiro > Bancos)* é possível cadastrar banco, inserindo informações de número, dígito verificador e nome do banco.
    
@@ -61,8 +94,8 @@ Bancos *(Menu > Financeiro > Bancos)* é possível cadastrar banco, inserindo in
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/3_1.png" /> É possível desativar o banco se necessário.
 
 
-
-##### 3. Boletos
+<div id="boletos" />
+<b>3. Boletos</b>
 
 Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório emite boletos. Ao salvar, o Acsiv cria um registro em contas a Receber.  
 
@@ -92,8 +125,9 @@ Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório em
 **j. Conta:** Conta pela qual será creditado o boleto.
 
 
+<div id="caixaentradas" />
+<b>4. Caixa - Entradas </b>
 
-##### 4. Caixa - Entradas 
 
  Caixa - Entradas (*Menu > Financeiro > Caixa > Entradas*) Utilizado para realizar os lançamentos das receitas do cartório. *Ex.: "Valores que entraram para o cartório".*  
 
@@ -127,8 +161,8 @@ Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório em
 **m. N°controle:** Possível colocar o número de controle, se o cartório trabalhar com ele.
 
 
-
-##### 5. Caixa - Saídas
+<div id="caixasaídas" />
+<b>5. Caixa - Saídas </b>
 
 Caixa - Saídas (*Menu - Financeiro - Caixas - Saídas*) Utilizado para realizar todas as saídas (despesas) do cartório. *Ex.: "Valores que saíram do cartório".*  
 
@@ -163,8 +197,8 @@ Caixa - Saídas (*Menu - Financeiro - Caixas - Saídas*) Utilizado para realizar
 **m. N° controle:**  Possível colocar o número de controle, se o cartório trabalhar com ele.
 
 
-
-##### 6. Centro de custos
+<div id="centrodecustos" />
+<b>6. Centro de custos</b>
 
 É utilizado para cadastrar algum centro de custo. Ex.: cartório possui dois veículos, por exemplo, e quer ter um controle sobre gastos/rendimento desses dois veículos. Nesse caso, eles poderiam cadastrar centros de custos sendo as placas dos veículos, por exemplo. Podemos acessar essa tela no *Menu > Financeiro > Centro de custos*.
 
@@ -198,8 +232,8 @@ Caixa - Saídas (*Menu - Financeiro - Caixas - Saídas*) Utilizado para realizar
 Para desativar a conta, basta clicar no botão <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/3_1.png" />.
 
 
-
-##### 7. Condições de pagamentos
+<div id="condiçõesdepagamentos" />
+<b>7. Condições de pagamentos</b>
 
 Condições de pagamentos *(Menu > Financeiro > Condições de pagamentos)* Utilizado somente em caso de parcelamentos. 
 
@@ -234,8 +268,8 @@ Exemplificando:
 **Ajuste de data:**  Ajuste de data. *Ex.: 15 dias pra frente.* 
 
 
-
-##### 8. Contas a pagar
+<div id="contasapagar" />
+<b>8. Contas a pagar</b>
 
 Contas a pagar *(Menu > Financeiro > Contas a pagar)*, será apresentado todas as contas a pagar do cartório.
 
@@ -343,8 +377,8 @@ Botão ![abrir](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\ab
 ![unificaçãoRealizada](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\unificaçãoRealizada.PNG)
 
 
-
-##### 9. Contas a receber
+<div id="contasareceber" />
+<b>9. Contas a receber</b>
 
 Conseguimos localizar todas as contas a receber do cartório,  pelo *(Menu > Financeiro > Contas a receber).* 
 
@@ -485,8 +519,8 @@ Após programada a data, será apresentado na tela de contas a receber com a *Dt
 ![Titulo_Unificado_Contas_receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Titulo_Unificado_Contas_receber.PNG)
 
 
-
-##### 10. Contas financeiras
+<div id="contasfinanceiras" />
+<b>10. Contas financeiras</b>
 
 Contas financeiras *(Menu > Financeiro > Contas financeiras)* , utilizado para realizar cadastro de alguma conta financeira,  se for o caixa físico do cartório, basta marcar tipo *Caixa* e colocar o nome desejado. Se for banco, deve-se preencher algumas outras informações, conforme imagem a seguir:
 
@@ -527,16 +561,16 @@ Contas financeiras *(Menu > Financeiro > Contas financeiras)* , utilizado para r
 **Aba Especial:** É preenchida quando a conta está em nome de pessoa jurídica, por exemplo, mas por alguma razão é necessário que o boleto saia no CPF.
 
 
-
-##### 11. Crédito comercial
+<div id="créditocomercial" />
+<b>11. Crédito comercial</b>
 
 Crédito comercial *(Menu > Financeiro > Crédito comercial)*, funciona como uma espécie de pré-pago, o cliente "compra créditos" antes de precisar usar.
 
 ![Credito_Comercial](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Credito_Comercial.PNG)
 
 
-
-##### 12. DARF
+<div id="darf" />
+<b>12. DARF</b>
 
 Darf *(Menu > Financeiro > DARF)* -  *Sigla para Documento de Arrecadação de Receitas Federais*, pode- se emitir guia pelo sistema.
 
@@ -553,8 +587,8 @@ Ao finalizar o preenchimento dos campos, clique em ![Botão_Visualizar](C:\Users
 ![Darf_gerada](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Darf_gerada.PNG)
 
 
-
-##### 13. Despesas fixas
+<div id="despesasfixas" />
+<b>13. Despesas fixas</b>
 
 Despesas fixas (*Menu > Financeiro > Despesas fixas*) *Ex.: Carnê de pagamento em 12 parcelas vão para o contas a pagar*.
 
@@ -579,8 +613,8 @@ Para encontrar o lançamento dessa despesa *(Menu > Financeiro > Contas a pagar)
 ![Contas_a_Pagar_Depesas_Fixas_lançadas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Contas_a_Pagar_Depesas_Fixas_lançadas.PNG)
 
 
-
-##### 14. Despesas recorrentes
+<div id="despesasrecorrentes" />
+<b>14. Despesas recorrentes</b>
 
 Despesas recorrentes *(Menu > Financeiro > Despesas recorrentes)*, é um facilitador das despesas fixas anuais. *Ex.:* Aluguel lançado no ano de 2021 em 12 parcelas, é possível lançar essa despesa para o ano de 2022.
 
@@ -605,8 +639,8 @@ Pode-se verificar o lançamento da despesa recorrente pelo *Menu > Financeiro > 
 ![Despesas_recorrentes_contas_pagar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Despesas_recorrentes_contas_pagar.PNG)
 
 
-
-##### 15. Formas de pagamentos
+<div id="formasdepagamentos" />
+<b>15. Formas de pagamentos</b>
 
 Formas de pagamentos *(Menu > Financeiro > Formas de pagamentos)*, possível cadastrar as formas de pagamentos.
 
@@ -643,8 +677,9 @@ Formas de pagamentos *(Menu > Financeiro > Formas de pagamentos)*, possível cad
 ![Formas_De_Pagamentos_Desativada](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Formas_De_Pagamentos_Desativada.PNG) Desativa a forma de pagamento.
 
 
+<div id="logsfinanceiros" />
+<b>16. Logs financeiros</b>
 
-##### 16. Logs financeiros
 
 Logs financeiros *(Menu > Financeiro > Logs financeiros)*  são registros de eventos ocorridos dentro do Menu financeiro.
 
@@ -663,8 +698,8 @@ Selecionando a forma de pesquisa, o sistema retornará da seguinte maneira:
 ![Logs_Financeiros_filtro_pesquisa](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Logs_Financeiros_filtro_pesquisa.PNG)
 
  
-
-##### 17. Pastas
+<div id="pastas" />
+<b>17. Pastas</b>
 
 Pastas *(Menu > Financeiro > Pastas)* , tem a funcionalidade de organizar em qual pasta a conta se encontra. ***Ex.:** Mensalistas com dívidas, mas não vão efetuar o pagamento, por exemplo, podem ser inseridos na pasta **"inadimplentes"***.
 
@@ -711,8 +746,9 @@ Também é possível pesquisar o título que foi arquivado na pasta inadimplente
 Como mostrado na imagem anterior, o título marcado como inadimplentes é a primeira linha.
 
 
+<div id="planodecontas" />
+<b>18. Plano de contas</b>
 
-##### 18. Plano de contas
 
 Plano de contas (*Menu > Financeiro > Plano de contas*) é possível cadastrar as contas de receitas e despesas do cartório.
 
@@ -783,8 +819,9 @@ Perceba que a subconta ficou com o número **1.2**, basta clicar em cima da subc
 ![Plano_Contas_Finalizado](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_Finalizado.PNG)
 
 
+<div id="receitasfixas" />
+<b>19. Receitas fixas</b>
 
-##### 19. Receitas fixas
 
 Receitas fixas *(Menu > Financeiro > Receitas fixas)*, é possível cadastrar uma receita fixa do cartório.  **Ex.:** O cartório vai receber determinado valor em dez vezes. As dez parcelas vão para o contas a receber.
 
@@ -825,8 +862,8 @@ Para conferência das receitas fixas lançadas, acesse o (*Menu > Financeiro > C
 ![Receitas_Fixas_Contas_Receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Receitas_Fixas_Contas_Receber.PNG) 
 
 
-
-##### 20. Remessa de boletos
+<div id="remessadeboleto" />
+<b>20. Remessa de boletos</b>
 
 Remessa de boletos *(Menu > Financeiro > Remessa de boletos)* , utilizada para gerar arquivo de remessa ao banco, para que o banco tenha conhecimento da cobrança registrada.  ![Remessa_Boleto](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Remessa_Boleto.PNG) 
 
@@ -855,7 +892,8 @@ Esse arquivo será salvo na pasta conforme imagem a seguir:
 
 *Obs:* Esse caminho é salvo quando realizamos as configurações das contas financeiras para emissão de boleto autorizada pelo *(Menu > Financeiro > Contas Financeiras)*.
 
- ##### 21. Retorno de boletos
+<div id="retornodeboleto" />
+<b>21. Retorno de boletos</b>
 
 Retorno de boletos *(Menu > Financeiro > Retorno de boletos)* Utilizado para fazer download dos boletos pagos no dia anterior no banco para importar e dar baixa no Acsiv.
 
@@ -863,7 +901,9 @@ Retorno de boletos *(Menu > Financeiro > Retorno de boletos)* Utilizado para faz
 
 Como estamos em uma base de homologação não será possível apresentar a tela com os devidos títulos*(boletos)* , mas ao clicar em ![Retorno_Boletos_Importar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Retorno_Boletos_Importar.PNG) é possível pegar os títulos*(boletos)* que foram exportados do sistema do banco para serem importados dentro da Acsiv. Ao finalizar a importação, basta clicar no botão confirmar para finalizar o processo de retorno de boletos dentro do Acsiv. 
 
-##### 22. Tabela IR
+<div id="tabelair" />
+<b>22. Tabela IR</b>   
+
 
 Tabela IR *(Menu > Financeiro > Tabela IR)*.
 
@@ -884,8 +924,8 @@ Ao clicar em ![Tabela_Gerar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\
 ![TabelaIR_Gerada](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\TabelaIR_Gerada.PNG)
 
 
-
-##### 23. Transferências
+<div id="transferências" />
+<b>23. Transferências</b> 
 
 Transferências *(Menu > Financeiro > Transferências)*, utilizado para realizar transferências entre contas do cartório.
 
@@ -910,8 +950,8 @@ Logo, a transferência será registrada no Contas a pagar / Contas a receber, ac
 **OBS:** Vale lembrar que essa transferência acontece apenas dentro do cartório pelas contas cadastradas no  no (*Menu > Financeiro > Contas financeiras*) não movimenta a conta bancária real do cartório (*Controle interno*).
 
 
-
-##### 24. Relatórios
+<div id="relatórios" />
+<b>24. Relatórios</b> 
 
 Os Relatórios concentram um conjunto de informações com o objetivo de reportar resultados parciais ou totais de uma determinada prática do cartório.
 
@@ -970,9 +1010,10 @@ Demonstraremos como inserir filtros nos relatórios:
   ![R.Livro_Auxiliar_botao_email](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_botao_email.PNG) Possibilidade de enviar o arquivo via e-mail, selecionando uma das opções ![R.Livro_Auxiliar_botao_email_opcoes](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_botao_email_opcoes.png).
 
   ![R.Livro_Auxiliar_checkbox_separador_linhas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_checkbox_separador_linhas.PNG) Tem a funcionalidade de organizar a visualização do relatório.   
+   
+<div id="rboletos" />
+<b>R. Boletos</b> 
 
-
-##### R. Boletos
 
 <center><i><font color = '#4889b1'>Relatório Boletos:</font></i></center>  
 
@@ -988,9 +1029,10 @@ Relatório de boletos retorna todos os boletos gerados dentro do sistema.
 
 **d. Conta:** É possível selecionar a conta pela qual será emitida o relatório.
 
+<div id="rcontasapagar" />
+<b>R. Contas a pagar</b> 
 
 
-##### R. Contas a pagar
 
 <center><i><font color = '#4889b1'>Relatório Contas a pagar:</font></i></center> 
 
@@ -1009,8 +1051,9 @@ No relatório de contas a pagar, é possível identificar o lançamento de todas
 **e. Relatório:** Pode-se filtrar entre as 4 opções  ![R.Contas_Pagar_Relatorio](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Contas_Pagar_Relatorio.png). 
 
 **f. Tipo:** Possibilidade de emissão por ![R.Contas_Pagar_Tipo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Contas_Pagar_Tipo.PNG). 
-
-##### R. Contas a receber
+     
+<div id="rcontasareceber" />
+<b>R. Contas a receber</b>
 
 <center><i><font color = '#4889b1'>Relatório Contas a receber:</font></i></center> 
 
@@ -1020,7 +1063,9 @@ Relatório de contas a receber, são concentrados todas as contas a receber do c
 
 Os campos tem as mesmas funcionalidades do relatório de contas a pagar, o que difere, que agora se trata do relatório de contas a receber.
 
-##### R. Extrato de contas
+<div id="rextratodecontas" />
+<b>R. Extrato de contas</b>
+ 
 
 <center><i><font color = '#4889b1'>Relatório Extrato de contas:</font></i></center> 
 
@@ -1044,7 +1089,9 @@ Possível visualizar registros de contas financeiras do cartório.
 
 ![R.Extrato_Contas_Filtro_Formas_Pagamento](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Extrato_Contas_Filtro_Formas_Pagamento.PNG)
 
-##### R. Extrato de mensalistas
+<div id="rextratodemensalistas" />
+<b>R. Extrato de mensalistas</b>
+   
 
 <center><i><font color = '#4889b1'>Relatório Extrato de mensalistas:</font></i></center> 
 
@@ -1064,9 +1111,8 @@ Na aba *Clientes (Mensalistas)*  é possível filtrar por um determinado cliente
 
 ![R.Extrato_Mensalistas_Filtro](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Extrato_Mensalistas_Filtro.PNG) 
 
-
-
-##### R. Fechamento de caixa
+<div id="rfechamentodecaixa" />
+<b>R. Fechamento de caixa</b>
 
 <center><i><font color = '#4889b1'>Relatório Fechamento de caixa:</font></i></center> 
 
@@ -1114,9 +1160,8 @@ O fechamento de caixa consiste no retorno do processo diário de conferência da
 
 ![R.Fechamento_caixa_exibir_troco_entrada](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_caixa_exibir_troco_entrada.PNG) Exibe troco como entrada.
 
-
-
-##### R. Livro auxiliar
+<div id="rlivroauxiliar" />
+<b>R. Livro auxiliar</b>
 
 <center><i><font color = '#4889b1'>Relatório Livro auxiliar:</font></i></center> 
 
@@ -1172,7 +1217,8 @@ Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as rece
 
 ![R.Livro_Auxiliar_Selecionar_Atos_Emissão_Final](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Selecionar_Atos_Emissão_Final.PNG)
 
-##### R. Livro caixa
+<div id="rlivrocaixa" />
+<b>R. Livro caixa</b>
 
 <center><i><font color = '#4889b1'>Relatório Livro caixa:</font></i></center> 
 
@@ -1203,8 +1249,9 @@ Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos
 ![ ](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Caixa_Exibir_deposito_previo.PNG) Exibe atos lançados no recibo (*Menu > Cartório > Recibos*) como depósito prévio.
 
 ![R.Livro_Caixa_Exibir_Emolumentos_liquidos](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Caixa_Exibir_Emolumentos_liquidos.PNG) Exibe emolumentos líquidos.
-
-##### R. Plano de contas
+   
+<div id="rplanodecontas" />
+<b>R. Plano de contas</b>
 
 <center><i><font color = '#4889b1'>Relatório Plano de contas:</font></i></center> 
 
@@ -1230,7 +1277,8 @@ Ao clicar em ![R.Plano_Contas_Botao_Visualizar](C:\Users\Usuário\Desktop\Backup
 
 ![R.Plano_Contas_Visualização](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Plano_Contas_Visualização.PNG)
 
-##### R. Receita diária
+<div id="rreceitadiária" />
+<b>R. Receita diária</b>
 
 <center><i><font color = '#4889b1'>Relatório Receita diária:</font></i></center> 
 
