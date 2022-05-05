@@ -35,7 +35,7 @@
 [R. PLANO DE CONTAS](#rplanodecontas)<br>
 [R. RECEITA DIÁRIA](#rreceitadiária)<br>
 
-# FINANCEIRO
+<div align="center"><b>FINANCEIRO</>
 
 *Caso o cartório trabalhe com controle de senhas através de dispensador manual, impressora de senha ou totem de atendimento, o Acsiv possui um módulo específico para isso. Entre em contato com nosso suporte técnico para solicitar  a configuração.*
 
