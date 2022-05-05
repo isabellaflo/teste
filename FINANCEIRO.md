@@ -323,64 +323,64 @@ Assim que a conta for quitada, na tela de contas a pagar será apresentada da se
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/abrir.PNG" />  possível abrir a conta a pagar selecionada para ter acesso as informações.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_5.PNG" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_5.PNG" /><br><br>
 
-<center>
 
-<i>Botão</i>  <img src="" />  <i>ferramentas (Atalho ALT + M), possui algumas funcionalidades, são elas:</i>     
+<p align="center">
+<i>Botão</i> <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/14.png" width="50" />  <i>ferramentas (Atalho ALT + M), possui algumas funcionalidades, são elas:</i>     
+</p>
 
 ---
 
 
-
-![13](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\13.png)
-
+<p align="center">
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Ferramentas_Receber.png" />
+</p>
 
 
 * *Alteração de valores:*  Ao selecionar o título é possível alterar os valores.
 
-![Alteração de valores](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Alteração de valores.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_6.PNG" />
 
 * *Alterações de vencimentos:*  É possível alterar os vencimentos dos títulos.
 
-![alterar vencimentos](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\alterar vencimentos.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_7.PNG" />
 
 * *Desmembrar*: É possível desmembrar o título. *obs.:* Para desmembrar o título além de selecionar a parcela, o credor precisa esta selecionado.
 
-![Desmembramento de titulos](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Desmembramento de titulos.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_8.PNG" />
 
-![desmembrado](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\desmembrado.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_9.PNG" />
 
 * *Estornar:* É possível estornar um título que foi quitado indevidamente.
 
-![estornar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\estornar.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_10.PNG" />
 
-![estornado](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\estornado.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_11.PNG" />
 
 * *Excluir títulos:* Possível excluir títulos lançados indevidamente. 
 
-![exclusão títulos](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\exclusão títulos.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_12.PNG" />
 
 * *Liquidar:*  **Falta pegar informação com Alisson de como funciona**.
 
 * *Programar:* É possível programar a data que será quitado o título.
 
-![Programação](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Programação.PNG)
-
-![data_Programaçaõ](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\data_Programaçaõ.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_13.PNG" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_15.PNG" />
 
 * *Taxas:*  **Falta pegar informação com Alisson de como funciona**.
 
 * *Unificar:* É possível unificar dois títulos para pagar de uma só vez. *Obs.:* Precisa selecionar o credor antes de unificar os títulos conforme exemplo.
 
-![paraUnificar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\paraUnificar.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_16.PNG" />
 
- ![unificação](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\unificação.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_17.PNG" />
 
-![unificaçãoRealizada](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\unificaçãoRealizada.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_18.PNG" /><br>
 
 
-<div id="contasareceber" />
+<div id="contasareceber"/>
 <b>9. Contas a receber</b>
 
 Conseguimos localizar todas as contas a receber do cartório,  pelo *(Menu > Financeiro > Contas a receber).* 
@@ -389,7 +389,7 @@ A movimentação da tela conta a receber se dá através do lançamento do recib
 
 
 
-<center><i> Demonstraremos um recibo para mensalista do Cartório.</i></center>
+<p align="center"<i> Demonstraremos um recibo para mensalista do Cartório.</i></p>
 
 ---
 
