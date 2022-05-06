@@ -395,7 +395,7 @@ A movimentação da tela conta a receber se dá através do lançamento do recib
 
 Detalharemos uma conta a receber através de um recibo para mensalista, pelo *(Menu > Cartório > Recibos)* para criar um novo recibo.
 
-![recibo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\recibo.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/10_Recibo.PNG" />
 
 Na forma de pagamento escolhemos o mensalista.
 
