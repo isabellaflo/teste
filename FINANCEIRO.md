@@ -334,7 +334,7 @@ Assim que a conta for quitada, na tela de contas a pagar será apresentada da se
 
 
 <p align="center">
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Ferramentas_Receber.png" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Ferramentas_Pagar.png" />
 </p>
 
 
@@ -439,49 +439,48 @@ Assim que a conta for quitada, na tela de contas a receber será apresentada da 
 
 
 
-![Botao_Ferramentas_Receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Botao_Ferramentas_Receber.png)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Ferramentas_Receber.png" />
 
 
 
 * *Alteração de valores:*  Ao selecionar o título é possível alterar os valores.
 
-![Alterção_De_Valores_Contas_Receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Alterção_De_Valores_Contas_Receber.png)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_5.PNG" />
 
 * *Alteração de vencimentos:* Altera a data de vencimento do título.
 
-![Alteração_Vencimentos_Contas_Receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Alteração_Vencimentos_Contas_Receber.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_6.PNG" />
 
 * *Boletos:* Para emissão de boletos pelo sistema. 
 
 **OBS:** *Para emitir boletos pelo sistema, precisa verificar se o banco é homologado no sistema, se sim, entrar em contato com o gerente do banco informando que gostaria de emitir boletos de terceiros.* 
 
-![EmissãoBoletos](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\EmissãoBoletos.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_7.PNG" />
 
 * *Desmembrar:* Utilizado para desmembrar títulos.
 
-![Desmembramento_Titulos_Contas_Receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Desmembramento_Titulos_Contas_Receber.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_8.PNG" />
 
-![Desmembrado_Contas_Receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Desmembrado_Contas_Receber.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_9.PNG" />
 
 * *Duplicatas:* É possível gerar duplicatas referente ao título selecionado.
 
-![Duplicatas_Contas_Receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Duplicatas_Contas_Receber.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_10.PNG" />
 
 
 
-![Duplicata_Gerada_Editada](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Duplicata_Gerada_Editada.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_11.PNG" />
 
 * *Estornar:* Pode-se estornar um título quitado.
-
-![Estorno_Titulos_Contas_Receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Estorno_Titulos_Contas_Receber.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_12.PNG " />
 
 * *Excluir títulos:* É Possível excluir títulos.
 
-![exclusão títulos_ContasReceber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\exclusão títulos_ContasReceber.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_13.PNG" />
 
 * *Liquidar:* Há possibilidade de liquidar um título após quitado.
 
-![liquidação_contas_receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\liquidação_contas_receber.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_14.PNG" />
 
 ![Data_liquidação_contas_receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Data_liquidação_contas_receber.PNG)
 
