@@ -415,25 +415,25 @@ Os títulos apresentados na tela na parte superior <img src="https://github.com/
 
 
 
-![pesquisar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\pesquisar.PNG)Pesquisa todas contas a receber do cartório. 
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/pesquisar.PNG" />Pesquisa todas contas a receber do cartório. 
 
-![quitar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\quitar.PNG) É possível quitar um ou mais títulos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/quitar.PNG" /> É possível quitar um ou mais títulos.
 
-![quitação_receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\quitação_receber.PNG)
-
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_2.PNG" />
 Assim que a conta for quitada, na tela de contas a receber será apresentada da seguinte maneira:
 
-![Contas_a_receber_quitada](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Contas_a_receber_quitada.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_3.png" /><br>
 
-![Novo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Novo.PNG) Para criar um novo título direto do contas a receber.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Novo.PNG" /> Para criar um novo título direto do contas a receber.
 
-![abrir](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\abrir.PNG) Possível abrir um título.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/abrir.PNG" /> Possível abrir um título.
 
-<img src="C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\contas_receber_aberto.PNG" alt="contas_receber_aberto" style="zoom:75%;" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_4.PNG" />
 
 
-
-​                                                             <i>Botão ![14](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\14.png) ferramentas ( Atalho ALT + M):</i>
+<p align="center">
+<i>Botão</i> <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/14.png" width="50" />  <i>ferramentas (Atalho ALT + M), possui algumas funcionalidades, são elas:</i>     
+</p>
 
 ---
 
