@@ -399,13 +399,13 @@ Detalharemos uma conta a receber através de um recibo para mensalista, pelo *(M
 
 Na forma de pagamento escolhemos o mensalista.
 
-![Informações_Pagamento_Recibo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Informações_Pagamento_Recibo.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/10_Recibo_1.PNG" />
 
 Como ficará esse recibo no contas a receber:
 
-![contas a receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\contas a receber.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_1.PNG" />
 
-Os títulos apresentados na tela na parte superior (<font color = "#ff0000"> NÃO QUITADOS</font>) significa que são títulos em abertos que não foram quitados ainda, após quitar, o mesmo aparecerá na parte inferior da tela (<font color = "green"> QUITADOS</font>). 
+Os títulos apresentados na tela na parte superior <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/N%C3%A3o_Quitados.PNG" /> significa que são títulos em abertos que não foram quitados ainda, após quitar, o mesmo aparecerá na parte inferior da tela <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Quitados.PNG" />
 
 
 
