@@ -482,17 +482,16 @@ Assim que a conta for quitada, na tela de contas a receber será apresentada da 
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_14.PNG" />
 
-![Data_liquidação_contas_receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Data_liquidação_contas_receber.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_15.PNG" />
 
 * *Notas promissórias:* É possível emitir notas promissórias dos títulos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Notas_Promissorias_Contas_receber.PNG" />
 
-![Notas_Promissorias_Contas_receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Notas_Promissorias_Contas_receber.PNG)
-
-![Notas_Promissorias_Contas_receber_Editado](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Notas_Promissorias_Contas_receber_Editado.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Notas_Promissorias_Contas_receber_Editado.PNG" />
 
 * *Programar:* O sistema permite programar a data do recebimento do título.
 
-![Programação_Titulos_Constas_A_Receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Programação_Titulos_Constas_A_Receber.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_16.PNG" />
 
 Após programada a data, será apresentado na tela de contas a receber com a *Dt. Programação* preenchida.
 
