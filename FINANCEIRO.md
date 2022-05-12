@@ -576,17 +576,17 @@ Ao selecionar o histórico de créditos <img src="https://github.com/gislenetava
 
 Darf *(Menu > Financeiro > DARF)* -  *Sigla para Documento de Arrecadação de Receitas Federais*, pode- se emitir guia pelo sistema.
 
-![Darf_Sem_dados](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Darf_Sem_dados.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/14_Darf_1.PNG" />
 
 Basta preencher os dados para emissão da guia, conforme imagem a seguir:
 
-![Darf](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Darf.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/14_Darf_2.PNG" />
 
-Ao finalizar o preenchimento dos campos, clique em ![Botão_Visualizar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Botão_Visualizar.PNG) para imprimir a guia DARF.
+Ao finalizar o preenchimento dos campos, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Bot%C3%A3o_Visualizar.PNG" /> para imprimir a guia DARF.
 
 
 
-![Darf_gerada](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Darf_gerada.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/14_Darf_3.PNG" />
 
 
 <div id="despesasfixas" />
@@ -596,23 +596,22 @@ Despesas fixas (*Menu > Financeiro > Despesas fixas*) *Ex.: Carnê de pagamento 
 
 Em seguida, será apresentada a tela para preenchimento das despesas fixas. 
 
-![Despesas_Fixas_Em_Branco](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Despesas_Fixas_Em_Branco.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/15_Despesas_fixas_1.PNG" />
 
-Com todas informações preenchidas, clique em ![](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Botao_Gerar.PNG).
+Com todas informações preenchidas, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Gerar.PNG" />.
 
-![Despesas_Fixas_Contas_a_Pagar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Despesas_Fixas_Contas_a_Pagar.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/15_Despesas_fixas_2.PNG" />
 
 Agora, com as despesas fixas gerada será apresentada a seguinte tela:
 
-![Despesas_Fixas_Vencimentos](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Despesas_Fixas_Vencimentos.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/15_Despesas_fixas_5.PNG" />
 
-Clique novamente em ![Botao_Gerar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Botao_Gerar.PNG) para concluir a geração dos títulos.
+Clique novamente em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Gerar.PNG" /> para concluir a geração dos títulos.
 
-![Despesas_Geradas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Despesas_Geradas.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/15_Despesas_fixas_6.PNG" />
 
 Para encontrar o lançamento dessa despesa *(Menu > Financeiro > Contas a pagar)* ,pesquise pelo nome do credor para encontrar os títulos.
-
-![Contas_a_Pagar_Depesas_Fixas_lançadas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Contas_a_Pagar_Depesas_Fixas_lançadas.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/15_Despesas_fixas_7.PNG" />
 
 
 <div id="despesasrecorrentes" />
@@ -622,23 +621,23 @@ Despesas recorrentes *(Menu > Financeiro > Despesas recorrentes)*, é um facilit
 
 Exemplificando um fornecedor lançado no ano de 2021.
 
-![Despesas_recorrentes_em_branco](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Despesas_recorrentes_em_branco.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/16_Despesas_recorrentes_1.PNG" />
 
-Para gerar a despesa recorrente, clique em ![Despesas_recorrentes_pesquisar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Despesas_recorrentes_pesquisar.PNG), depois em (*Adicionar/Remover filtro*)  ![Despesas_recorrentes_filtro](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Despesas_recorrentes_filtro.PNG) para buscar a despesa.
+Para gerar a despesa recorrente, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Despesas_recorrentes_pesquisar.PNG" />, depois em (*Adicionar/Remover filtro*) <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Despesas_recorrentes_filtro.PNG" /> para buscar a despesa.
 
-![Despesas_recorrentes_gerar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Despesas_recorrentes_gerar.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/16_Despesas_recorrentes_2.PNG" />
 
-Selecione o botão ![Despesas_recorrentes_Botao_gerar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Despesas_recorrentes_Botao_gerar.PNG) para gerar a despesa recorrente.
+Selecione o botão <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Despesas_recorrentes_Botao_gerar.PNG" /> para gerar a despesa recorrente.
 
-![Despesas_recorrentes_vencimentos](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Despesas_recorrentes_vencimentos.png)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Despesas_recorrentes_vencimentos.png" />
 
 Processo finalizado.
 
-![Despesas_recorrentes_lançadas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Despesas_recorrentes_lançadas.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Despesas_recorrentes_lan%C3%A7adas.PNG" />
 
 Pode-se verificar o lançamento da despesa recorrente pelo *Menu > Financeiro > Contas a pagar.*
 
-![Despesas_recorrentes_contas_pagar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Despesas_recorrentes_contas_pagar.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/16_Despesas_recorrentes_3.PNG" />
 
 
 <div id="formasdepagamentos" />
@@ -646,13 +645,13 @@ Pode-se verificar o lançamento da despesa recorrente pelo *Menu > Financeiro > 
 
 Formas de pagamentos *(Menu > Financeiro > Formas de pagamentos)*, possível cadastrar as formas de pagamentos.
 
-![Formas_De_Pagamento](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Formas_De_Pagamento.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/17_Formas_pagamentos_2.PNG" />
 
 **a. Código:** Gerado automaticamente pelo sistema.
 
 **b. Ordem:** Ordem que vai aparecer na tela de pagamentos, em recibos quando for selecionar a forma de pagamento, veja que a forma de pagamento dinheiro é a primeira a ser apresentada, pois a mesma esta com a Ordem 1 conforme imagem anterior.
 
-![Pagamento_Formas_De_Pagamentos](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Pagamento_Formas_De_Pagamentos.png)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/17_Formas_pagamentos_3.PNG" />
 
 **c. Descrição:** Descrição do formato do pagamento. *Ex.: Dinheiro, cheque, cartão,pix,transferência,etc.*
 
@@ -660,23 +659,22 @@ Formas de pagamentos *(Menu > Financeiro > Formas de pagamentos)*, possível cad
 
 **e. Liquidação:**  Selecione entre as 4 opções *(Automática, Manual, Programada d+, Programada fixa)*.  
 
-![Formas_De_Pagamentos_Automatica](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Formas_De_Pagamentos_Automatica.PNG) Quando a forma de pagamento for dinheiro, cai automaticamente.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Automatica.PNG" /> Quando a forma de pagamento for dinheiro, cai automaticamente.
 
-![Formas_De_Pagamentos_Manual](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Formas_De_Pagamentos_Manual.PNG) Forma de pagamento cheque ou boleto, é necessário consultar o extrato bancário para validar se o dinheiro já se encontra na conta.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Manual.PNG" /> Forma de pagamento cheque ou boleto, é necessário consultar o extrato bancário para validar se o dinheiro já se encontra na conta.
 
-![Formas_De_Pagamentos_ProgramadaD+](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Formas_De_Pagamentos_ProgramadaD+.PNG) Data que será creditado na conta do cartório. *Ex.: Cartão de débito, usando d+1 o pagamento cairia no dia + 1*.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_ProgramadaD%2B.PNG" /> Data que será creditado na conta do cartório. *Ex.: Cartão de débito, usando d+1 o pagamento cairia no dia + 1*.
 
-![Formas_De_Pagamentos_ProgramadaFixa](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Formas_De_Pagamentos_ProgramadaFixa.PNG) Data fixa para ser creditada na conta do cartório. *Ex.: Cartão de crédito, dia fixo pro pagamento cair na conta.*
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_ProgramadaFixa.PNG" /> Data fixa para ser creditada na conta do cartório. *Ex.: Cartão de crédito, dia fixo pro pagamento cair na conta.*
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Taxa.PNG" /> Taxa administrativa, utilizada quando houver necessidade.
 
-![Formas_De_Pagamentos_Taxa](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Formas_De_Pagamentos_Taxa.PNG) Taxa administrativa, utilizada quando houver necessidade.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_N%C3%A3o_Acrescentar.PNG" /> Selecionar de acordo com a forma que trabalha o cartão *Ex.: Cartexpress,etc.* 
 
-![Formas_De_Pagamentos_Não_Acrescentar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Formas_De_Pagamentos_Não_Acrescentar.PNG)  Selecionar de acordo com a forma que trabalha o cartão *Ex.: Cartexpress,etc.* 
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Permitir_Parcelamento.PNG" /> Segue a mesma funcionalidade do item anterior.
 
-![Formas_De_Pagamentos_Permitir_Parcelamento](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Formas_De_Pagamentos_Permitir_Parcelamento.PNG) Segue a mesma funcionalidade do item anterior.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Realizar_analise.PNG" /> Refere-se ao item 1. Análise de crédito.
 
-![Formas_De_Pagamentos_Realizar_analise](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Formas_De_Pagamentos_Realizar_analise.PNG) Refere-se ao item 1. Análise de crédito.
-
-![Formas_De_Pagamentos_Desativada](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Formas_De_Pagamentos_Desativada.PNG) Desativa a forma de pagamento.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Desativada.PNG" /> Desativa a forma de pagamento.
 
 
 <div id="logsfinanceiros" />
@@ -685,19 +683,18 @@ Formas de pagamentos *(Menu > Financeiro > Formas de pagamentos)*, possível cad
 
 Logs financeiros *(Menu > Financeiro > Logs financeiros)*  são registros de eventos ocorridos dentro do Menu financeiro.
 
-![Logs_Financeiros_em_branco](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Logs_Financeiros_em_branco.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/18_Logs_financeiros_1.PNG" />
 
-Ao clicar em ![Logs_Financeiros_botao_pesquisar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Logs_Financeiros_botao_pesquisar.PNG) será apresentado todos os logs financeiros do cartório.
+Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Logs_Financeiros_botao_pesquisar.PNG" /> será apresentado todos os logs financeiros do cartório.
 
-![Logs_Financeiros_Retono_pesquisa](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Logs_Financeiros_Retono_pesquisa.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/18_Logs_financeiros_2.PNG" />
 
 Para realizar o filtro de um log especifico, preencha o campo com o filtro que necessita realizar a pesquisa.
 
-![Logs_Financeiros_Filtro](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Logs_Financeiros_Filtro.png)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/18_Logs_financeiros_3.png" />
 
 Selecionando a forma de pesquisa, o sistema retornará da seguinte maneira:
-
-![Logs_Financeiros_filtro_pesquisa](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Logs_Financeiros_filtro_pesquisa.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/18_Logs_financeiros_4.PNG" />
 
  
 <div id="pastas" />
@@ -705,45 +702,45 @@ Selecionando a forma de pesquisa, o sistema retornará da seguinte maneira:
 
 Pastas *(Menu > Financeiro > Pastas)* , tem a funcionalidade de organizar em qual pasta a conta se encontra. ***Ex.:** Mensalistas com dívidas, mas não vão efetuar o pagamento, por exemplo, podem ser inseridos na pasta **"inadimplentes"***.
 
-Clique em ![Pastas_Novo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Pastas_Novo.PNG) para criar a pasta.
+Clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Novo.PNG" /> para criar a pasta.
 
-![Pastas_criacao](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Pastas_criacao.PNG) 
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_2.PNG" />
 
 **a. Código:** Gerado automaticamente pelo sistema.
 
 **b. Descrição:** Nome da pasta que será criada.
 
-![Pastas_criacao_Arquivar_titulos_desta_pasta](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Pastas_criacao_Arquivar_titulos_desta_pasta.PNG) Ao marcar o CHECKBOX os títulos serão arquivados, não mais apresentados em telas como contas a receber, por exemplo.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_criacao_Arquivar_titulos_desta_pasta.PNG" /> Ao marcar o CHECKBOX os títulos serão arquivados, não mais apresentados em telas como contas a receber, por exemplo.
 
-![Plano_contas_Desativo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_contas_Desativo.PNG) A pasta será desativada.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_criacao_desativar.PNG" /> A pasta será desativada.
 
 Ao criar a pasta,  a mesma será apresentada da seguinte maneira:
-
-![Pastas_criacao_pasta_Criada](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Pastas_criacao_pasta_Criada.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_3.PNG" />
 
 Para utilizar esta pasta, basta acessar o (*Menu > Financeiro > Contas a receber*).
 
-Pesquise o mensalista que precisa ser arquivado na pasta inadimplentes pelo binóculo ![Pastas_Devedor](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Pastas_Devedor.PNG).
+Pesquise o mensalista que precisa ser arquivado na pasta inadimplentes pelo binóculo <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Devedor.PNG" />.
 
 Neste exemplo vamos filtrar o *mensalista teste:*
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Devedor.PNG" />
 
-![Pastas_Contas_Receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Pastas_Contas_Receber.PNG)
+Selecione os títulos que devem ser arquivados na pasta e clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Contas_Receber_Botao_Abrir.PNG" />, será apresentado a seguinte tela:
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_5.PNG" />
 
-Selecione os títulos que devem ser arquivados na pasta e clique em ![Pastas_Contas_Receber_Botao_Abrir](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Pastas_Contas_Receber_Botao_Abrir.PNG), será apresentado a seguinte tela:
+Basta selecionar a pasta criada <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pasta_selecionando_pasta.png" />.
 
-![Pastas_Contas_a_receber_arquivando_pasta](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Pastas_Contas_a_receber_arquivando_pasta.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_6.PNG" />
 
-Basta selecionar a pasta criada ![Pasta_selecionando_pasta](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Pasta_selecionando_pasta.png).
 
-![Pastas_Contas_a_receber_Preenchida](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Pastas_Contas_a_receber_Preenchida.PNG)
+Após preencher o campo pasta, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Contas_a_receber_Botao_Salvar.PNG" />
+para que o título seja salvo na pasta inadimplentes. Note que depois de salvo, o título não aparecerá mais na tela de contas as receber conforme imagem abaixo.
 
-Após preencher o campo pasta, clique em ![Pastas_Contas_a_receber_Botao_Salvar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Pastas_Contas_a_receber_Botao_Salvar.PNG) para que o título seja salvo na pasta inadimplentes. Note que depois de salvo, o título não aparecerá mais na tela de contas as receber conforme imagem abaixo.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_7.PNG" />
 
-![Pastas_contas_receber_Titulo_nao_aparece](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Pastas_contas_receber_Titulo_nao_aparece.PNG)
 
 Também é possível pesquisar o título que foi arquivado na pasta inadimplentes, acessando o (*Menu > Financeiro > Contas a receber*), e pesquise pelo nome do cliente para que possa aparecer o título arquivado como inadimplentes.
 
-![Pastas_Pesquisa_Fim](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Pastas_Pesquisa_Fim.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_8.PNG" />
 
 Como mostrado na imagem anterior, o título marcado como inadimplentes é a primeira linha.
 
@@ -754,11 +751,11 @@ Como mostrado na imagem anterior, o título marcado como inadimplentes é a prim
 
 Plano de contas (*Menu > Financeiro > Plano de contas*) é possível cadastrar as contas de receitas e despesas do cartório.
 
-![Plano de contas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_contas.png)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_1.PNG" />
 
 
 
-Para criar um novo plano de contas, clique em ![Plano_Contas_Novo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_Novo.PNG), depois em ![Plano_Contas_Botao_novo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_Botao_novo.PNG) , neste exemplo criaremos o plano de conta *Receitas*. 
+Para criar um novo plano de contas, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_2.PNG" />, depois em ![Plano_Contas_Botao_novo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_Botao_novo.PNG) , neste exemplo criaremos o plano de conta *Receitas*. 
 
 
 
