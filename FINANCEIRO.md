@@ -755,19 +755,19 @@ Plano de contas (*Menu > Financeiro > Plano de contas*) é possível cadastrar a
 
 
 
-Para criar um novo plano de contas, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_2.PNG" />, depois em ![Plano_Contas_Botao_novo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_Botao_novo.PNG) , neste exemplo criaremos o plano de conta *Receitas*. 
+Para criar um novo plano de contas, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_2.PNG" />, depois em !<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Botao_novo.PNG" /> , neste exemplo criaremos o plano de conta *Receitas*. 
 
 
 
-![Plano_Contas_Receitas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_Receitas.png)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_2.PNG" />
 
 A seguir, será demonstrado o plano de contas com suas subcontas.
 
-![Plano de contas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano de contas.png)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_3.PNG" />
 
-Para criar uma subconta, selecione a conta pela qual será criada a subconta *ex.:* ![Plano_Contas_Despesas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_Despesas.PNG), em seguida em ![Novo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Novo.PNG) .
+Para criar uma subconta, selecione a conta pela qual será criada a subconta *ex.:* <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Despesas.PNG" />, em seguida em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Novo.PNG" /> .
 
-![Plano_Contas_Aluguel](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_Aluguel.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_4.PNG" />
 
 **a. Código:** Gerado automaticamente pelo sistema.
 
@@ -785,31 +785,29 @@ Para criar uma subconta, selecione a conta pela qual será criada a subconta *ex
 
 **h. Observações:** Pode-se colocar observações referente ao plano de contas criado.
 
-![Plano_contas_Conta_de_resultados](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_contas_Conta_de_resultados.PNG) Apura resultado financeiro, se desmarcar não será apresentado no relatório de livro caixa.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Conta_de_resultados.PNG" /> Apura resultado financeiro, se desmarcar não será apresentado no relatório de livro caixa.
 
-![Plano_contas_Contas_receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_contas_Contas_receber.PNG) Deve-se marcar quando se tratar de contas a receber *Ex.:* <font color = 'green'> Receitas</font>.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Contas_receber.PNG" /> Deve-se marcar quando se tratar de contas a receber *Ex.:* <font color = 'green'> Receitas</font>.
 
-![Plano_contas_A_Pagar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_contas_A_Pagar.PNG) Marcar quando se referir a contas a pagar *Ex.:*  <font color = 'red'> Despesas</font>.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_A_Pagar.PNG" /> Marcar quando se referir a contas a pagar *Ex.:*  <font color = 'red'> Despesas</font>.
 
-![Plano_contas_Não_dedutivel](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_contas_Não_dedutivel.PNG) Com esta opção marcada o plano de conta não gera imposto de renda.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_N%C3%A3o_dedutivel.PNG" /> Com esta opção marcada o plano de conta não gera imposto de renda.
 
-![Plano_contas_Recorrente](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_contas_Recorrente.PNG)Quando se tratar de despesas recorrente, marque essa opção. *Ex.: Aluguel*.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Recorrente.PNG" /> Quando se tratar de despesas recorrente, marque essa opção. *Ex.: Aluguel*.
 
-![Plano_contas_Desativo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_contas_Desativo.PNG) Desativa o plano de contas.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Desativo.PNG" /> Desativa o plano de contas.
 
-![Plano_Contas_Transferir_Conta](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_Transferir_Conta.PNG) *Transferir conta:* Possível transferir uma conta para dentro de outra ou transferir para fora.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Transferir_Conta.PNG" /> *Transferir conta:* Possível transferir uma conta para dentro de outra ou transferir para fora.
 
-![Plano_Contas_Transferir_Conta_exemplo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_Transferir_Conta_exemplo.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_5.PNG" />
 
-Neste exemplo, foi criado a conta de aluguel como receita, mas se trata de uma despesa, basta clicar em ![Plano_Contas_Transferir_Conta](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_Transferir_Conta.PNG) para transferir a conta.
+Neste exemplo, foi criado a conta de aluguel como receita, mas se trata de uma despesa, basta clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Transferir_Conta.PNG" /> para transferir a conta.
 
-![Plano_Contas_para_transferir](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_para_transferir.PNG)  Subconta se encontra no plano de contas receitas com número **1.2**. Aluguel, a mesma será transferida para o plano de contas despesas número **2**..
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_6.PNG" />  Subconta se encontra no plano de contas receitas com número **1.2**. Aluguel, a mesma será transferida para o plano de contas despesas número **2**..
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_7.PNG" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_8.PNG" />
 
-![Plano_Contas_para_transferida](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_para_transferida.PNG)
-
-![Plano_Contas_para_transferida_Deseja](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_para_transferida_Deseja.PNG)
-
-Ao clicar em ![Plano_Contas_sim](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_sim.PNG) a subconta será transferida.
+Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_sim.PNG" /> a subconta será transferida.
 
 ![Plano_contas_Transferida](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_contas_Transferida.PNG)
 
