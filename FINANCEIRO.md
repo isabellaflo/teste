@@ -809,11 +809,11 @@ Neste exemplo, foi criado a conta de aluguel como receita, mas se trata de uma d
 
 Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_sim.PNG" /> a subconta será transferida.
 
-![Plano_contas_Transferida](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_contas_Transferida.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_9.PNG" /> 
 
-Perceba que a subconta ficou com o número **1.2**, basta clicar em cima da subconta ![Plano_Contas_Subconta_Aluguel](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_Subconta_Aluguel.PNG) em seguida ![abrir](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\abrir.PNG) para alterar para a numeração correta *ex.:*  **2.2**..
+Perceba que a subconta ficou com o número **1.2**, basta clicar em cima da subconta <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Subconta_Aluguel.PNG" />  em seguida <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/abrir.PNG" />  para alterar para a numeração correta *ex.:*  **2.2**..
 
-![Plano_Contas_Finalizado](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Plano_Contas_Finalizado.PNG)
+<img src="" />
 
 
 <div id="receitasfixas" />
@@ -822,7 +822,7 @@ Perceba que a subconta ficou com o número **1.2**, basta clicar em cima da subc
 
 Receitas fixas *(Menu > Financeiro > Receitas fixas)*, é possível cadastrar uma receita fixa do cartório.  **Ex.:** O cartório vai receber determinado valor em dez vezes. As dez parcelas vão para o contas a receber.
 
-![Receitas_Fixas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Receitas_Fixas.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/21_Receitas_fixas_1.PNG" />
 
 **a. Devedor:** Devedor do título a receber.
 
@@ -842,29 +842,29 @@ Receitas fixas *(Menu > Financeiro > Receitas fixas)*, é possível cadastrar um
 
 Preencha as informações conforme os passos passados:
 
-![Receitas_Fixas_Preenchida](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Receitas_Fixas_Preenchida.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/21_Receitas_fixas_2.PNG" />
 
-Após preencher, basta selecionar o botão ![Despesas_recorrentes_Botao_gerar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Despesas_recorrentes_Botao_gerar.PNG) para gerar a receita fixa.
+Após preencher, basta selecionar o botão <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Gerar.PNG" /> para gerar a receita fixa.
 
 Será apresentado a seguinte tela:
 
-![Receita_Fixa_Gerada](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Receita_Fixa_Gerada.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/21_Receitas_fixas_3.PNG" />
 
-As parcelas foram geradas, mas para finalizar o processo, clique em ![Despesas_recorrentes_Botao_gerar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Despesas_recorrentes_Botao_gerar.PNG). 
+As parcelas foram geradas, mas para finalizar o processo, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Gerar.PNG" />.
 
-![Receitas_Fixas_Geradas_Com_Sucesso](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Receitas_Fixas_Geradas_Com_Sucesso.PNG) 
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/21_Receitas_fixas_4.PNG" />
 
 Para conferência das receitas fixas lançadas, acesse o (*Menu > Financeiro > Contas a receber*), pesquise pelo nome do devedor como imagem a seguir:
 
-![Receitas_Fixas_Contas_Receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Receitas_Fixas_Contas_Receber.PNG) 
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/21_Receitas_fixas_5.PNG" />
 
 
 <div id="remessadeboleto" />
 <b>20. Remessa de boletos</b>
 
-Remessa de boletos *(Menu > Financeiro > Remessa de boletos)* , utilizada para gerar arquivo de remessa ao banco, para que o banco tenha conhecimento da cobrança registrada.  ![Remessa_Boleto](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Remessa_Boleto.PNG) 
+Remessa de boletos *(Menu > Financeiro > Remessa de boletos)* , utilizada para gerar arquivo de remessa ao banco, para que o banco tenha conhecimento da cobrança registrada.  <img src="" />
 
-**Tipo:** Selecione entre os 2 tipos ![Remessa_Boleto_Tipo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Remessa_Boleto_Tipo.png) .
+**Tipo:** Selecione entre os 2 tipos <img src="" /> .
 
 **Dt. emissão:** Data automática do dia da  emissão, mas poderá ser alterada.  
 
@@ -880,12 +880,12 @@ Remessa de boletos *(Menu > Financeiro > Remessa de boletos)* , utilizada para g
 
 **Tabela de títulos:** Apresenta todos os boletos gerados para a conta seleciona.
 
-Após realizar o preenchimento dos campos, basta clicar em ![Remessa_Boleto_Botao_Gerar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Remessa_Boleto_Botao_Gerar.PNG), será gerado um arquivo em txt ,pelo qual será usado para importar dentro do sistema do banco, nesse exemplo utilizamos a conta Sicoob.
+Após realizar o preenchimento dos campos, basta clicar em <img src="" />, será gerado um arquivo em txt ,pelo qual será usado para importar dentro do sistema do banco, nesse exemplo utilizamos a conta Sicoob.
 
-![Remessa_Boleto_Gerado](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Remessa_Boleto_Gerado.PNG)  
+<img src="" />  
 
 Esse arquivo será salvo na pasta conforme imagem a seguir:
-![Remessa_Boleto_Salva](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Remessa_Boleto_Salva.PNG) 
+<img src="" />
 
 *Obs:* Esse caminho é salvo quando realizamos as configurações das contas financeiras para emissão de boleto autorizada pelo *(Menu > Financeiro > Contas Financeiras)*.
 
@@ -894,9 +894,9 @@ Esse arquivo será salvo na pasta conforme imagem a seguir:
 
 Retorno de boletos *(Menu > Financeiro > Retorno de boletos)* Utilizado para fazer download dos boletos pagos no dia anterior no banco para importar e dar baixa no Acsiv.
 
-![Retorno_Boletos](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Retorno_Boletos.PNG) 
+<img src="" />
 
-Como estamos em uma base de homologação não será possível apresentar a tela com os devidos títulos*(boletos)* , mas ao clicar em ![Retorno_Boletos_Importar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Retorno_Boletos_Importar.PNG) é possível pegar os títulos*(boletos)* que foram exportados do sistema do banco para serem importados dentro da Acsiv. Ao finalizar a importação, basta clicar no botão confirmar para finalizar o processo de retorno de boletos dentro do Acsiv. 
+Como estamos em uma base de homologação não será possível apresentar a tela com os devidos títulos*(boletos)* , mas ao clicar em <img src="" /> é possível pegar os títulos*(boletos)* que foram exportados do sistema do banco para serem importados dentro da Acsiv. Ao finalizar a importação, basta clicar no botão confirmar para finalizar o processo de retorno de boletos dentro do Acsiv. 
 
 <div id="tabelair" />
 <b>22. Tabela IR</b>   
@@ -908,7 +908,7 @@ Tabela IR *(Menu > Financeiro > Tabela IR)*.
 
 É por meio dessa tabela que o sistema consegue calcular a porcentagem para gerar o imposto de renda. 
 
-![TabelaIR](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\TabelaIR.PNG)
+<img src="" />
 
 **a. Ano:** Selecione o ano para gerar a tabela IR.
 
@@ -916,9 +916,9 @@ Tabela IR *(Menu > Financeiro > Tabela IR)*.
 
 
 
-Ao clicar em ![Tabela_Gerar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Tabela_Gerar.PNG) é possível visualizar.
+Ao clicar em <img src="" /> é possível visualizar.
 
-![TabelaIR_Gerada](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\TabelaIR_Gerada.PNG)
+<img src="" />
 
 
 <div id="transferências" />
@@ -926,23 +926,23 @@ Ao clicar em ![Tabela_Gerar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\
 
 Transferências *(Menu > Financeiro > Transferências)*, utilizado para realizar transferências entre contas do cartório.
 
-![Transferencias](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Transferencias.PNG)
+<img src="" />
 
 Preencha os campos para a realização da transferência, nesse exemplo foi transferido um valor do *CAIXA* (caixa físico do cartório) para a conta bancária *ITAÚ* (conta bancário do cartório).
 
-Após o preenchimento dos campos, clique em ![Transferir_Botão](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Transferir_Botão.PNG) para efetivar a transferência entre as contas.
+Após o preenchimento dos campos, clique em <img src="" /> para efetivar a transferência entre as contas.
 
-![Transferencia_Realizada_Com_Sucesso](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Transferencia_Realizada_Com_Sucesso.PNG)
+<img src="" />
 
 Logo, a transferência será registrada no Contas a pagar / Contas a receber, acesse o (*Menu > Financeiro > contas a pagar / contas a receber).*
 
 *Contas a pagar:*
 
-![Transferencias_Contas_Pagar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Transferencias_Contas_Pagar.PNG)
+<img src="" />
 
 *Contas a receber:* 
 
-![Transferencias_Contas_Receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Transferencias_Contas_Receber.PNG)
+<img src="" />
 
 **OBS:** Vale lembrar que essa transferência acontece apenas dentro do cartório pelas contas cadastradas no  no (*Menu > Financeiro > Contas financeiras*) não movimenta a conta bancária real do cartório (*Controle interno*).
 
@@ -960,13 +960,13 @@ Os Relatórios concentram um conjunto de informações com o objetivo de reporta
 
 Vale lembrar, que existe a possibilidade de realizar filtros na emissão do relatório. Com base no relatório de *contas a pagar* , segue exemplo: 
 
-![R.Contas_Pagar_Filtro](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Contas_Pagar_Filtro.PNG) 
+<img src="" />
 
 Demonstraremos como inserir filtros nos relatórios:
 
 * **Credores:** É possível colocar o credor para realizar o filtro.
 
-  Ao clicar em ![Botao_Inserir_linha_filtro_relatorio](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Botao_Inserir_linha_filtro_relatorio.PNG) há a possibilidade de buscar no cadastro do sistema o credor para realizar o filtro.
+  Ao clicar em <img src="" /> há a possibilidade de buscar no cadastro do sistema o credor para realizar o filtro.
 
 * **Plano de contas:** Selecione o plano de contas que será utilizado no filtro.
 
@@ -978,35 +978,35 @@ Demonstraremos como inserir filtros nos relatórios:
 
 * **Grupos econômicos:**  Possibilidade de colocar grupo econômico no filtro.
 
-  ![ConsolidarCartorios](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\ConsolidarCartorios.PNG) Utilizado para o cartório que tem mais de um cartório em um banco.
+  <img src="" /> Utilizado para o cartório que tem mais de um cartório em um banco.
 
-  ![R.Contas_Pagar_Curva](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Contas_Pagar_Curva.PNG) Aplica a curva de experiência ABC, também chamada de análise de Pareto ou regra 80/20.
+  <img src="" /> Aplica a curva de experiência ABC, também chamada de análise de Pareto ou regra 80/20.
 
-  Ao selecionar o checkbox *aplicar curva abc* será apresentado a porcentagem ![R.Contas_A_Pagar_Porcentagem_Curva](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Contas_A_Pagar_Porcentagem_Curva.PNG). 
+  Ao selecionar o checkbox *aplicar curva abc* será apresentado a porcentagem <img src="" />. 
 
   
 
-  Ao selecionar o período desejado, basta clicar em ![R.Contas_A_Pagar_Botão_Visualizar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Contas_A_Pagar_Botão_Visualizar.PNG)  para emissão do relatório conforme imagem a seguir.
+  Ao selecionar o período desejado, basta clicar em <img src="" />  para emissão do relatório conforme imagem a seguir.
 
-  ![Visualização do relatório](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Visualização do relatório.PNG)
+  <img src="" />
 
   
 
   <center><i>Botões:</i></center> 
 
-  ![R.Livro_Auxiliar_botao_visualizar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_botao_visualizar.PNG) Ao realizar os filtros necessários, clique em visualizar para ter acesso ao relatório.
+  <img src="" /> Ao realizar os filtros necessários, clique em visualizar para ter acesso ao relatório.
 
-  ![R.Livro_Auxiliar_botao_imprimir](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_botao_imprimir.PNG) Direciona o relatório para sua impressora.
+  <img src="" /> Direciona o relatório para sua impressora.
 
-  ![R.Livro_Auxiliar_botao_fecha](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_botao_fecha.PNG) Fecha a tela.
+ <img src="" /> Fecha a tela.
 
-  ![R.Livro_Auxiliar_botao_pdf](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_botao_pdf.PNG) Exporta o relatório em arquivo pdf.
+  <img src="" /> Exporta o relatório em arquivo pdf.
 
-  ![R.Livro_Auxiliar_botao_xls](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_botao_xls.PNG) Exporta o relatório em arquivo xls. 
+  <img src="" /> Exporta o relatório em arquivo xls. 
 
-  ![R.Livro_Auxiliar_botao_email](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_botao_email.PNG) Possibilidade de enviar o arquivo via e-mail, selecionando uma das opções ![R.Livro_Auxiliar_botao_email_opcoes](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_botao_email_opcoes.png).
+  <img src="" /> Possibilidade de enviar o arquivo via e-mail, selecionando uma das opções <img src="" />.
 
-  ![R.Livro_Auxiliar_checkbox_separador_linhas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_checkbox_separador_linhas.PNG) Tem a funcionalidade de organizar a visualização do relatório.   
+  <img src="" /> Tem a funcionalidade de organizar a visualização do relatório.   
    
 <div id="rboletos" />
 <b>R. Boletos</b> 
@@ -1016,9 +1016,9 @@ Demonstraremos como inserir filtros nos relatórios:
 
 Relatório de boletos retorna todos os boletos gerados dentro do sistema.
 
-![R.Boletos](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Boletos.PNG) 
+<img src="" />
 
-**a. Data:** Selecione entre as 3  opções para visualização ![Boletos_Datas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\Boletos_Datas.png).
+**a. Data:** Selecione entre as 3  opções para visualização <img src="" />.
 
 **b. Dt. inicial:** Data inicial automática do dia, mas poderá ser alterada caso necessário. 
 
@@ -1035,19 +1035,19 @@ Relatório de boletos retorna todos os boletos gerados dentro do sistema.
 
 No relatório de contas a pagar, é possível identificar o lançamento de todas as contas a pagar do cartório.
 
-![R.Contas_Pagar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Contas_Pagar.PNG)
+<img src="" />
 
-**a. Situação:** Poderá selecionar entre as 4 situações  ![R.Contas_Pagar_Situacao](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Contas_Pagar_Situacao.png) .
+**a. Situação:** Poderá selecionar entre as 4 situações  <img src="" /> .
 
-**b. Data:**  Possível selecionar entre as 3 datas  ![R.Contas_Pagar_Data](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Contas_Pagar_Data.png).
+**b. Data:**  Possível selecionar entre as 3 datas  <img src="" />.
 
 **c. Dt. inicial:** Data inicial automática do dia, mas poderá ser alterada caso necessário.
 
 **d. Dt. final:** Data final automática do dia, mas poderá ser alterada caso necessário.
 
-**e. Relatório:** Pode-se filtrar entre as 4 opções  ![R.Contas_Pagar_Relatorio](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Contas_Pagar_Relatorio.png). 
+**e. Relatório:** Pode-se filtrar entre as 4 opções  <img src="" />. 
 
-**f. Tipo:** Possibilidade de emissão por ![R.Contas_Pagar_Tipo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Contas_Pagar_Tipo.PNG). 
+**f. Tipo:** Possibilidade de emissão por <img src="" />. 
      
 <div id="rcontasareceber" />
 <b>R. Contas a receber</b>
@@ -1056,7 +1056,7 @@ No relatório de contas a pagar, é possível identificar o lançamento de todas
 
 Relatório de contas a receber, são concentrados todas as contas a receber do cartório.
 
-![R.Contas_A_Receber](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Contas_A_Receber.PNG) 
+<img src="" /> 
 
 Os campos tem as mesmas funcionalidades do relatório de contas a pagar, o que difere, que agora se trata do relatório de contas a receber.
 
@@ -1068,7 +1068,7 @@ Os campos tem as mesmas funcionalidades do relatório de contas a pagar, o que d
 
 Possível visualizar registros de contas financeiras do cartório.
 
-![R.Extrato_Contas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Extrato_Contas.PNG) 
+<img src="" /> 
 
 **a. Dt. inicial:** Data inicial do dia, mas poderá ser alterada.
 
@@ -1078,13 +1078,13 @@ Possível visualizar registros de contas financeiras do cartório.
 
 **d. Tipo:** Selecione entre os 2 tipos (Resumido ou Detalhado).
 
-![R.Extrato_Contas_Exibir_Saldo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Extrato_Contas_Exibir_Saldo.PNG) Exibe o saldo da conta.
+<img src="" />.
 
 *Para filtrar uma determinada conta financeira, basta inserir os dados nas abas contas financeiras e formas de pagamento conforme exemplo abaixo:*
 
-![R.Extrato_contas_Filtro_Contas_financeiras](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Extrato_contas_Filtro_Contas_financeiras.PNG)
+<img src="" />
 
-![R.Extrato_Contas_Filtro_Formas_Pagamento](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Extrato_Contas_Filtro_Formas_Pagamento.PNG)
+<img src="" />
 
 <div id="rextratodemensalistas" />
 <b>R. Extrato de mensalistas</b>
@@ -1100,13 +1100,13 @@ Possível visualizar os registros dos mensalistas do cartório.
 
 **b. Dt. final:**  Data final do dia, mas poderá ser alterada.
 
-![R.Extrato_Mensalistas_Nao_Exibir_Mensalistas_Com_Credito](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Extrato_Mensalistas_Nao_Exibir_Mensalistas_Com_Credito.PNG) Não exibe no relatório os mensalistas com crédito.
+<img src="" /> Não exibe no relatório os mensalistas com crédito.
 
-![R.Extrato_Mensalistas_Nao_Exibir_Saldo_Anterior](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Extrato_Mensalistas_Nao_Exibir_Saldo_Anterior.PNG) Não exibe o saldo anterior dos mensalistas no relatório.
+<img src="" /> Não exibe o saldo anterior dos mensalistas no relatório.
 
 Na aba *Clientes (Mensalistas)*  é possível filtrar por um determinado cliente.
 
-![R.Extrato_Mensalistas_Filtro](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Extrato_Mensalistas_Filtro.PNG) 
+<img src="" /> 
 
 <div id="rfechamentodecaixa" />
 <b>R. Fechamento de caixa</b>
@@ -1115,47 +1115,47 @@ Na aba *Clientes (Mensalistas)*  é possível filtrar por um determinado cliente
 
 O fechamento de caixa consiste no retorno do processo diário de conferência das entradas e saídas do cartório.
 
-![R.Fechamento_De_caixa_atualizado](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_De_caixa_atualizado.PNG)    
+<img src="" />    
 
 **a. Dt. inicial:** Data inicial do dia, mas poderá ser alterada.
 
 **b. Dt. final:** Data final do dia, mas poderá ser alterada.
 
-**c. Relatório:** Selecione entre as 3 formas para apresentação ![R.Fechamento_De_caixa_Relatorio](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_De_caixa_Relatorio.png).
+**c. Relatório:** Selecione entre as 3 formas para apresentação <img src="" />.
 
-**d. Atendente:** Emitir o relatório por um atendente em específico. ![R.Fechamento_De_caixa_Atendente](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_De_caixa_Atendente.png) 
+**d. Atendente:** Emitir o relatório por um atendente em específico. <img src="" />
 
-**e. Origem:** Selecione entre as 2 origem, Se foi praticado pelo caixa ou pelo balcão de notas ![ ](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_De_caixa_Origem.png). 
+**e. Origem:** Selecione entre as 2 origem, Se foi praticado pelo caixa ou pelo balcão de notas <img src="" />. 
 
-**f. Forma PG:** Selecione a forma que deseja visualizar no relatório,pois retorna no relatório apenas a forma de pagamento selecionada ![R.Fechamento_De_caixa_Forma_De_Pagamento](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_De_caixa_Forma_De_Pagamento.png) .
+**f. Forma PG:** Selecione a forma que deseja visualizar no relatório,pois retorna no relatório apenas a forma de pagamento selecionada !<img src="" /> .
 
-![R.Fechamento_De_caixa_Exibir_saldo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_De_caixa_Exibir_saldo.PNG) Exibe o saldo anterior do caixa. 
+<img src="" /> Exibe o saldo anterior do caixa. 
 
-![R.Fechamento_Caixa_exibir_saldo_marcado](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_Caixa_exibir_saldo_marcado.PNG)
+<img src="" />
 
-![R.Fechamento_De_caixa_Agrupar_funcionario](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_De_caixa_Agrupar_funcionario.PNG) Agrupa os atos por funcionário.
+<img src="" /> Agrupa os atos por funcionário.
 
-![R.Fechamento_caixa_agrupar_func_emissao](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_caixa_agrupar_func_emissao.PNG)![R.Fechamento_De_caixa_Agrupar_plano_contas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_De_caixa_Agrupar_plano_contas.PNG) Agrupa o plano de contas.
+<img src="" /><img src="" /> Agrupa o plano de contas.
 
-![R.Fechamento_caixa_agrupar_plano_contas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_caixa_agrupar_plano_contas.PNG)
+<img src="" />
 
-![R.Fechamento_De_caixa_Exibir_taxas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_De_caixa_Exibir_taxas.PNG) Exibe a taxa do cartão como uma saída no relatório.
+<img src="" /> Exibe a taxa do cartão como uma saída no relatório.
 
-![R.Fechamento_caixa_taxa_cartao](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_caixa_taxa_cartao.PNG)
+<img src="" />
 
-![R.Fechamento_De_caixa_Exibir_caixa_entrada](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_De_caixa_Exibir_caixa_entrada.PNG) Apresentadas apenas as contas "Caixa" entradas.
+<img src="" /> Apresentadas apenas as contas "Caixa" entradas.
 
-![R.Fechamento_De_caixa_Exibir_caixa_saida](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_De_caixa_Exibir_caixa_saida.PNG) Retorna as contas "Caixas" para saídas.
+<img src="" /> Retorna as contas "Caixas" para saídas.
 
-![R.Fechamento_De_caixa_Exibir_contas_resultado](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_De_caixa_Exibir_contas_resultado.PNG) Exibe as contas de resultado definidas no plano de contas como conta de resultado.
+<img src="" /> Exibe as contas de resultado definidas no plano de contas como conta de resultado.
 
-![R.Fechamento_De_caixa_com_credito_mensalista](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_De_caixa_com_credito_mensalista.PNG) Pagamentos com créditos de mensalista serão apresentados.
+<img src="" /> Pagamentos com créditos de mensalista serão apresentados.
 
-![.](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_De_caixa_exibir_troco.PNG) Exibe troco devolvido ao cliente como uma saída no relatório. *Ex.: Valor total do recibo  58.83, valor recebido 60.00, troco 1.17 devolvido ao cliente*.
+<img src="" /> Exibe troco devolvido ao cliente como uma saída no relatório. *Ex.: Valor total do recibo  58.83, valor recebido 60.00, troco 1.17 devolvido ao cliente*.
 
-![R.Fechamento_caixa_exibir_troco_saida_emissão](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_caixa_exibir_troco_saida_emissão.PNG)
+<img src="" />
 
-![R.Fechamento_caixa_exibir_troco_entrada](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Fechamento_caixa_exibir_troco_entrada.PNG) Exibe troco como entrada.
+<img src="" /> Exibe troco como entrada.
 
 <div id="rlivroauxiliar" />
 <b>R. Livro auxiliar</b>
@@ -1166,53 +1166,53 @@ Segundo a corregedoria do CNJ (*Conselho Nacional de Justiça*), a escrituraçã
 
 Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as receitas e despesas do cartório.
 
-![R.Livro_Auxiliar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar.PNG)
+<img src="" />
 
-![R.Livro_Auxiliar_botao_termo_abertura](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_botao_termo_abertura.PNG) Termo de abertura  utilizado para assinatura digital do livro, se configurado pelo *(Menu > Cartório > Configurações > Aba Livros)*  é possível  criar um texto pre definido *(Texto criado conforme a necessidade do cartório)* , podendo criar o texto no termo de  abertura quanto no termo de encerramento conforme imagem a seguir:
+<img src="" /> Termo de abertura  utilizado para assinatura digital do livro, se configurado pelo *(Menu > Cartório > Configurações > Aba Livros)*  é possível  criar um texto pre definido *(Texto criado conforme a necessidade do cartório)* , podendo criar o texto no termo de  abertura quanto no termo de encerramento conforme imagem a seguir:
 
-![R.Livro_Auxiliar_Botao_termo_abertura_Configuracao](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Botao_termo_abertura_Configuracao.PNG)
+<img src="" />
 
    
 
-**Data do lançamento:** Data do dia do lançamento da despesa/receita ![r.Livro_Auxiliar_Data_lancamento](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\r.Livro_Auxiliar_Data_lancamento.PNG).
+**Data do lançamento:** Data do dia do lançamento da despesa/receita <img src="" />.
 
-**Tipo:** Selecione entre os 4 tipos ![R.Livro_Auxiliar_Tipo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Tipo.PNG) de acordo com a necessidade.
+**Tipo:** Selecione entre os 4 tipos <img src="" /> de acordo com a necessidade.
 
-**Apuração:** Selecione a apuração correspondente ![R.Livro_Auxiliar_Apuracao](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Apuracao.PNG).
+**Apuração:** Selecione a apuração correspondente <img src="" />.
 
-**Complemento:** Complemento para colocar no livro auxiliar conforme provimento nº 45/2015. Nele é possível colocar o número do livro, folha inicial, folha final para controle interno ![R.Livro_Auxiliar_Complemento](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Complemento.PNG). 
+**Complemento:** Complemento para colocar no livro auxiliar conforme provimento nº 45/2015. Nele é possível colocar o número do livro, folha inicial, folha final para controle interno <img src="" />. 
 
 **Mais opções:**
 
-![R.Livro_Auxiliar_Exibir_Emolumentos](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Exibir_Emolumentos.PNG) Exibe os emolumentos líquidos.
+<img src="" /> Exibe os emolumentos líquidos.
 
-![R.Livro_Auxiliar_Agrupar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Agrupar.PNG) Agrupa os códigos dos atos.
+<img src="" /> Agrupa os códigos dos atos.
 
-![ ](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Agrupar_Servicos.PNG) Agrupa atos que tenha o mesmo código de tabela. *Ex.: Código da tabela 1401 Declaratória e 1401 Emancipação.*
+<img src="" /> Agrupa atos que tenha o mesmo código de tabela. *Ex.: Código da tabela 1401 Declaratória e 1401 Emancipação.*
 
-![R.Livro_Auxiliar_Impressao_sequencial](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Impressao_sequencial.PNG) Exibe impressão sequencial dos atos pela data da pratica.
+<img src="" /> Exibe impressão sequencial dos atos pela data da pratica.
 
-![R.Livro_Auxiliar_Exibir_Plano_Contas_Despesas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Exibir_Plano_Contas_Despesas.PNG) Exibe o plano de contas nas despesas.
+<img src="" /> Exibe o plano de contas nas despesas.
 
-![R.Livro_Auxiliar_Nao_Exibir_Ato_Especial](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Nao_Exibir_Ato_Especial.PNG) O ato especial não será apresentado no relatório.
+<img src="" /> O ato especial não será apresentado no relatório.
 
-![R.Livro_Auxiliar_Nao_Exibir_Quantidade](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Nao_Exibir_Quantidade.PNG) Não exibe a quantidade de atos realizados.
+<img src="" /> Não exibe a quantidade de atos realizados.
 
-![R.Livro_Auxiliar_Acrescentar_Valor_Selo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Acrescentar_Valor_Selo.PNG) Acrescenta o valor do selo.
+<img src="" /> Acrescenta o valor do selo.
 
-![R.Livro_Auxiliar_Exibir_Total_Por_Atribuicao](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Exibir_Total_Por_Atribuicao.PNG) Exibe o total por atribuição.
+<img src="" /> Exibe o total por atribuição.
 
-![R.Livro_Auxiliar_Exibir_Descricao_Tabela](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Exibir_Descricao_Tabela.PNG) Exibe a descrição da tabela de emolumentos.
+<img src="" /> Exibe a descrição da tabela de emolumentos.
 
-![R.Livro_Auxiliar_Atos_Gratuitos](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Atos_Gratuitos.PNG) Exibe os atos gratuitos.
+<img src="" /> Exibe os atos gratuitos.
 
-![R.Livro_Auxiliar_Termo_Abertura_Encerramento](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Termo_Abertura_Encerramento.PNG) Exibe o termo de abertura e encerramento.
+<img src="" /> Exibe o termo de abertura e encerramento.
 
-![R.Livro_Auxiliar_Selecionar_Atos](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Selecionar_Atos.PNG) Seleciona os atos específicos para ser apresentados no relatório.
+<img src="" /> Seleciona os atos específicos para ser apresentados no relatório.
 
-![R.Livro_Auxiliar_Selecionar_Atos_Emissao](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Selecionar_Atos_Emissao.PNG)
+<img src="" />
 
-![R.Livro_Auxiliar_Selecionar_Atos_Emissão_Final](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Auxiliar_Selecionar_Atos_Emissão_Final.PNG)
+<img src="" />
 
 <div id="rlivrocaixa" />
 <b>R. Livro caixa</b>
@@ -1221,9 +1221,8 @@ Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as rece
 
 Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos dos serviços notariais e cartoriais que serão tributados mensalmente pelo imposto de renda pessoa física(*IRPF*) .
 
-![R.Livro_caixa](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_caixa.PNG)
-
- *Gerar Documentos*![R.Livro_Caixa_Carne_Leao_Opcoes](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Caixa_Carne_Leao_Opcoes.png) é possível gerar guia DARF/Exportar Carnê Leão.
+<img src="" />
+ *Gerar Documentos* <img src="" /> é possível gerar guia DARF/Exportar Carnê Leão.
 
 **a. Data inicial:** Data inicial automática do dia, mas poderá ser alterada caso necessário. 
 
@@ -1231,21 +1230,21 @@ Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos
 
 **c. Marcação PC:** Quando criado o plano de contas (*PC*) pelo (*Menu > Financeiro > Plano de contas*), com o campo *Marcação PC* preenchido, é possível filtrar essa marcação para ser apresentada no relatório.
 
-![R.Livro_Caixa_Agrupar_Plano_Contas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Caixa_Agrupar_Plano_Contas.PNG) Agrupa plano de contas  na apresentação do relatório.
+<img src="" /> Agrupa plano de contas  na apresentação do relatório.
 
-![R.Livro_Caixa_Detalhar_receitas_codigo_tabela](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Caixa_Detalhar_receitas_codigo_tabela.PNG) Detalha as receitas por código da tabela.
+<img src="" /> Detalha as receitas por código da tabela.
 
-![R.Livro_Caixa_Detalhar_receitas_codigo_recibo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Caixa_Detalhar_receitas_codigo_recibo.PNG) Detalha as receitas por código do recibo.
+<img src="" /> Detalha as receitas por código do recibo.
 
-![R.Livro_Caixa_nao_exibir_ato_especial](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Caixa_nao_exibir_ato_especial.PNG) O ato especial não será apresentado.
+<img src="" /> O ato especial não será apresentado.
 
-![R.Livro_Caixa_Não_Exibir_Lancamentos_nao_dedutiveis](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Caixa_Não_Exibir_Lancamentos_nao_dedutiveis.PNG) Não será apresentado lançamentos que foi definido no plano de contas *(Menu > Financeiro > Plano de contas)*  como "Não dedutíveis".
+<img src="" /> Não será apresentado lançamentos que foi definido no plano de contas *(Menu > Financeiro > Plano de contas)*  como "Não dedutíveis".
 
-![R.Livro_Caixa_Exibir_Somente_Contas_Resultado](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Caixa_Exibir_Somente_Contas_Resultado.PNG) Exibe apenas contas que foram definidas como contas de resultado no plano de contas.  
+<img src="" /> Exibe apenas contas que foram definidas como contas de resultado no plano de contas.  
 
-![ ](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Caixa_Exibir_deposito_previo.PNG) Exibe atos lançados no recibo (*Menu > Cartório > Recibos*) como depósito prévio.
+<img src="" /> Exibe atos lançados no recibo (*Menu > Cartório > Recibos*) como depósito prévio.
 
-![R.Livro_Caixa_Exibir_Emolumentos_liquidos](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Livro_Caixa_Exibir_Emolumentos_liquidos.PNG) Exibe emolumentos líquidos.
+<img src="" /> Exibe emolumentos líquidos.
    
 <div id="rplanodecontas" />
 <b>R. Plano de contas</b>
@@ -1254,7 +1253,7 @@ Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos
 
 Relatório plano de contas, retorna todos os lançamentos praticados no cartório que foram definidos no  plano de contas (*Menu > Financeiro > Plano de contas*).
 
- ![R.Relatorio_Plano_Contas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Relatorio_Plano_Contas.PNG)
+ <img src="" />
 
 **Data:** Selecione entre as 4 datas (Lançamento, vencimento, pagamento, liquidação).
 
@@ -1262,17 +1261,17 @@ Relatório plano de contas, retorna todos os lançamentos praticados no cartóri
 
 **Dt. final:** Data final do dia, mas poderá ser alterada se necessário.
 
-![R.Plano_Contas_Aplicar_Somatorio](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Plano_Contas_Aplicar_Somatorio.PNG) Aplica somatório no início de cada grupo.
+<img src="" /> Aplica somatório no início de cada grupo.
 
-![R.Plano_Contas_Exibir_Somente](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Plano_Contas_Exibir_Somente.PNG) Exibe somente contas que foram marcadas como contas de resultados na criação do plano de contas *(Menu > Financeiro > Plano de contas)*.
+<img src="" /> Exibe somente contas que foram marcadas como contas de resultados na criação do plano de contas *(Menu > Financeiro > Plano de contas)*.
 
 *Para visualizar apenas um plano de contas em específico, basta inserir o mesmo conforme imagem a seguir:* 
 
-![R.Plano_Contas_Filtro](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Plano_Contas_Filtro.PNG)
+<img src="" />
 
-Ao clicar em ![R.Plano_Contas_Botao_Visualizar](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Plano_Contas_Botao_Visualizar.PNG) será exibido o relatório como abaixo:
+Ao clicar em <img src="" /> será exibido o relatório como abaixo:
 
-![R.Plano_Contas_Visualização](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Plano_Contas_Visualização.PNG)
+<img src="" />
 
 <div id="rreceitadiária" />
 <b>R. Receita diária</b>
@@ -1281,7 +1280,7 @@ Ao clicar em ![R.Plano_Contas_Botao_Visualizar](C:\Users\Usuário\Desktop\Backup
 
 Relatório Receita diário exibe as receitas diárias do cartório.
 
-![R.Receita_Diaria](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Receita_Diaria.PNG) 
+<img src="" />
 
 **Data inicial:** Data inicial do dia, mas poderá ser alterada se necessário.
 
@@ -1295,27 +1294,27 @@ Relatório Receita diário exibe as receitas diárias do cartório.
 
 **Origem:** Origem que foi realizado o ato. Se foi praticado pelo caixa ou pelo balcão de notas.
 
-![R.Receita_Diaria_CB_Exibir_Deposito_Previo_Convertido](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Receita_Diaria_CB_Exibir_Deposito_Previo_Convertido.PNG) Exibe depósito prévio convertido.
+<img src="" />
 
-![R.Receita_Diaria_CB_Nao_Agrupar_Por_Atendente](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Receita_Diaria_CB_Nao_Agrupar_Por_Atendente.PNG) Não agrupa por atendente.
+<img src="" /> Não agrupa por atendente.
 
-![R.Receita_Diaria_CB_Exibir_Recibos_Mensalistas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Receita_Diaria_CB_Exibir_Recibos_Mensalistas.PNG) Exibe recibos de mensalistas.
+<img src="" /> Exibe recibos de mensalistas.
 
-![R.Receita_Diaria_CB_Exibir_Saidas_Caixa](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Receita_Diaria_CB_Exibir_Saidas_Caixa.PNG) Exibe saídas de caixa.
+<img src="" /> Exibe saídas de caixa.
 
-![R.Receita_Diaria_CB_Nao_Exibir_Deposito_Previo](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Receita_Diaria_CB_Nao_Exibir_Deposito_Previo.PNG) Não exibe depósito prévio.
+<img src="" /> Não exibe depósito prévio.
 
-![R.Receita_Diaria_Exibir_Adiantamentos_Processos](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Receita_Diaria_Exibir_Adiantamentos_Processos.PNG) Exibe adiantamentos de processos.
+<img src="" /> Exibe adiantamentos de processos.
 
-![R.Receita_Diaria_CB_Exibir_Pagamentos_Mensalistas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Receita_Diaria_CB_Exibir_Pagamentos_Mensalistas.PNG) Exibe pagamentos de mensalistas.
+<img src="" /> Exibe pagamentos de mensalistas.
 
-![R.Receita_Diaria_Nao_Exibir_Ato_Especial](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Receita_Diaria_Nao_Exibir_Ato_Especial.PNG) Não exibe ato especial.
+<img src="" /> Não exibe ato especial.
 
 **Observações:** Ao preencher será exibida no relatório.
 
-![R.Receita_Diaria_CB_Observacao](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Receita_Diaria_CB_Observacao.PNG)
+<img src="" />
 
-![R.Receita_Diaria_Relatorio](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Receita_Diaria_Relatorio.PNG)
+<img src="" />
 
 
 
