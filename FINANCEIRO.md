@@ -885,7 +885,7 @@ Após realizar o preenchimento dos campos, basta clicar em <img src="https://git
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/22_Remessa_Boletos_2.PNG" />  
 
 Esse arquivo será salvo na pasta conforme imagem a seguir:
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Remessa_Boleto_Salva.PNG" />
 
 *Obs:* Esse caminho é salvo quando realizamos as configurações das contas financeiras para emissão de boleto autorizada pelo *(Menu > Financeiro > Contas Financeiras)*.
 
@@ -894,9 +894,9 @@ Esse arquivo será salvo na pasta conforme imagem a seguir:
 
 Retorno de boletos *(Menu > Financeiro > Retorno de boletos)* Utilizado para fazer download dos boletos pagos no dia anterior no banco para importar e dar baixa no Acsiv.
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Retorno_Boletos.PNG" />
 
-Como estamos em uma base de homologação não será possível apresentar a tela com os devidos títulos*(boletos)* , mas ao clicar em <img src="" /> é possível pegar os títulos*(boletos)* que foram exportados do sistema do banco para serem importados dentro da Acsiv. Ao finalizar a importação, basta clicar no botão confirmar para finalizar o processo de retorno de boletos dentro do Acsiv. 
+Como estamos em uma base de homologação não será possível apresentar a tela com os devidos títulos*(boletos)* , mas ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Retorno_Boletos_Importar.PNG" /> é possível pegar os títulos*(boletos)* que foram exportados do sistema do banco para serem importados dentro da Acsiv. Ao finalizar a importação, basta clicar no botão confirmar para finalizar o processo de retorno de boletos dentro do Acsiv. 
 
 <div id="tabelair" />
 <b>22. Tabela IR</b>   
