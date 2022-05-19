@@ -952,11 +952,11 @@ Logo, a transferência será registrada no Contas a pagar / Contas a receber, ac
 
 Os Relatórios concentram um conjunto de informações com o objetivo de reportar resultados parciais ou totais de uma determinada prática do cartório.
 
-<center>Para acessar um relatório (<i>Menu > Financeiro > Relatórios</i>).</center> 
-
-​                                            ![1](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\1.png) 
-
- 
+<div align="center">
+ Para acessar um relatório (<i>Menu > Financeiro > Relatórios</i>)<br></br>
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_1.png" width="450" />
+</div>
+<br>
 
 Vale lembrar, que existe a possibilidade de realizar filtros na emissão do relatório. Com base no relatório de *contas a pagar* , segue exemplo: 
 
