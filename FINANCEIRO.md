@@ -1011,9 +1011,9 @@ Demonstraremos como inserir filtros nos relatórios:
 <div id="rboletos" />
 <b>R. Boletos</b> 
 
-
-<center><i><font color = '#4889b1'>Relatório Boletos:</font></i></center>  
-
+<br></br>
+<div align="center"><i>Relatório Boletos:</i></div>  
+<br></br>
 Relatório de boletos retorna todos os boletos gerados dentro do sistema.
 
 <img src="" />
@@ -1030,8 +1030,9 @@ Relatório de boletos retorna todos os boletos gerados dentro do sistema.
 <b>R. Contas a pagar</b> 
 
 
-
-<center><i><font color = '#4889b1'>Relatório Contas a pagar:</font></i></center> 
+<br></br>
+<div align="center"><i>Relatório Contas a pagar:</i></div>  
+<br></br>
 
 No relatório de contas a pagar, é possível identificar o lançamento de todas as contas a pagar do cartório.
 
@@ -1051,8 +1052,9 @@ No relatório de contas a pagar, é possível identificar o lançamento de todas
      
 <div id="rcontasareceber" />
 <b>R. Contas a receber</b>
-
-<center><i><font color = '#4889b1'>Relatório Contas a receber:</font></i></center> 
+<br></br>
+<div align="center"><i>Relatório Contas a receber:</i></div>  
+<br></br>
 
 Relatório de contas a receber, são concentrados todas as contas a receber do cartório.
 
@@ -1063,8 +1065,10 @@ Os campos tem as mesmas funcionalidades do relatório de contas a pagar, o que d
 <div id="rextratodecontas" />
 <b>R. Extrato de contas</b>
  
+<br></br>
+<div align="center"><i>Relatório Extrato de contas:</i></div>  
+<br></br>
 
-<center><i><font color = '#4889b1'>Relatório Extrato de contas:</font></i></center> 
 
 Possível visualizar registros de contas financeiras do cartório.
 
@@ -1089,8 +1093,9 @@ Possível visualizar registros de contas financeiras do cartório.
 <div id="rextratodemensalistas" />
 <b>R. Extrato de mensalistas</b>
    
-
-<center><i><font color = '#4889b1'>Relatório Extrato de mensalistas:</font></i></center> 
+<br></br>
+<div align="center"><i>Relatório Extrato de mensalistas:</i></div>  
+<br></br>
 
 Possível visualizar os registros dos mensalistas do cartório.
 
@@ -1110,8 +1115,10 @@ Na aba *Clientes (Mensalistas)*  é possível filtrar por um determinado cliente
 
 <div id="rfechamentodecaixa" />
 <b>R. Fechamento de caixa</b>
+<br></br>
+<div align="center"><i>Relatório Fechamento de caixa:</i></div>  
+<br></br>
 
-<center><i><font color = '#4889b1'>Relatório Fechamento de caixa:</font></i></center> 
 
 O fechamento de caixa consiste no retorno do processo diário de conferência das entradas e saídas do cartório.
 
@@ -1159,8 +1166,10 @@ O fechamento de caixa consiste no retorno do processo diário de conferência da
 
 <div id="rlivroauxiliar" />
 <b>R. Livro auxiliar</b>
+<br></br>
+<div align="center"><i>Relatório Livro auxiliar:</i></div>  
+<br></br>
 
-<center><i><font color = '#4889b1'>Relatório Livro auxiliar:</font></i></center> 
 
 Segundo a corregedoria do CNJ (*Conselho Nacional de Justiça*), a escrituração do livro auxiliar se trata da receita e da despesa pelos responsáveis pelas delegações do serviço extrajudicial de notas e de registro. 
 
@@ -1216,8 +1225,10 @@ Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as rece
 
 <div id="rlivrocaixa" />
 <b>R. Livro caixa</b>
+<br></br>
+<div align="center"><i>Relatório Livro caixa:</i></div>  
+<br></br>
 
-<center><i><font color = '#4889b1'>Relatório Livro caixa:</font></i></center> 
 
 Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos dos serviços notariais e cartoriais que serão tributados mensalmente pelo imposto de renda pessoa física(*IRPF*) .
 
@@ -1248,8 +1259,9 @@ Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos
    
 <div id="rplanodecontas" />
 <b>R. Plano de contas</b>
-
-<center><i><font color = '#4889b1'>Relatório Plano de contas:</font></i></center> 
+<br></br>
+<div align="center"><i>Relatório Plano de contas:</i></div>  
+<br></br>
 
 Relatório plano de contas, retorna todos os lançamentos praticados no cartório que foram definidos no  plano de contas (*Menu > Financeiro > Plano de contas*).
 
@@ -1275,8 +1287,9 @@ Ao clicar em <img src="" /> será exibido o relatório como abaixo:
 
 <div id="rreceitadiária" />
 <b>R. Receita diária</b>
-
-<center><i><font color = '#4889b1'>Relatório Receita diária:</font></i></center> 
+<br></br>
+<div align="center"><i>Relatório Receita diária:</i></div>  
+<br></br>
 
 Relatório Receita diário exibe as receitas diárias do cartório.
 
