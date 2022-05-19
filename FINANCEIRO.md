@@ -1016,9 +1016,9 @@ Demonstraremos como inserir filtros nos relatórios:
 <br></br>
 Relatório de boletos retorna todos os boletos gerados dentro do sistema.
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_4.PNG" />
 
-**a. Data:** Selecione entre as 3  opções para visualização <img src="" />.
+**a. Data:** Selecione entre as 3  opções para visualização <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Boletos_Datas.png" />.
 
 **b. Dt. inicial:** Data inicial automática do dia, mas poderá ser alterada caso necessário. 
 
@@ -1036,7 +1036,7 @@ Relatório de boletos retorna todos os boletos gerados dentro do sistema.
 
 No relatório de contas a pagar, é possível identificar o lançamento de todas as contas a pagar do cartório.
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_5.PNG" />
 
 **a. Situação:** Poderá selecionar entre as 4 situações  <img src="" /> .
 
