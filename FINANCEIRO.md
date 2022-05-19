@@ -1058,7 +1058,7 @@ No relatório de contas a pagar, é possível identificar o lançamento de todas
 
 Relatório de contas a receber, são concentrados todas as contas a receber do cartório.
 
-<img src="" /> 
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_6.PNG" /> 
 
 Os campos tem as mesmas funcionalidades do relatório de contas a pagar, o que difere, que agora se trata do relatório de contas a receber.
 
@@ -1072,7 +1072,7 @@ Os campos tem as mesmas funcionalidades do relatório de contas a pagar, o que d
 
 Possível visualizar registros de contas financeiras do cartório.
 
-<img src="" /> 
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_7.PNG" /> 
 
 **a. Dt. inicial:** Data inicial do dia, mas poderá ser alterada.
 
@@ -1082,7 +1082,7 @@ Possível visualizar registros de contas financeiras do cartório.
 
 **d. Tipo:** Selecione entre os 2 tipos (Resumido ou Detalhado).
 
-<img src="" />.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Extrato_Contas_Exibir_Saldo.PNG" />.
 
 *Para filtrar uma determinada conta financeira, basta inserir os dados nas abas contas financeiras e formas de pagamento conforme exemplo abaixo:*
 
