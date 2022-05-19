@@ -813,7 +813,7 @@ Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bo
 
 Perceba que a subconta ficou com o número **1.2**, basta clicar em cima da subconta <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Subconta_Aluguel.PNG" />  em seguida <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/abrir.PNG" />  para alterar para a numeração correta *ex.:*  **2.2**..
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_Contas_Finalizado.PNG" />
 
 
 <div id="receitasfixas" />
@@ -862,9 +862,9 @@ Para conferência das receitas fixas lançadas, acesse o (*Menu > Financeiro > C
 <div id="remessadeboleto" />
 <b>20. Remessa de boletos</b>
 
-Remessa de boletos *(Menu > Financeiro > Remessa de boletos)* , utilizada para gerar arquivo de remessa ao banco, para que o banco tenha conhecimento da cobrança registrada.  <img src="" />
+Remessa de boletos *(Menu > Financeiro > Remessa de boletos)* , utilizada para gerar arquivo de remessa ao banco, para que o banco tenha conhecimento da cobrança registrada.  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/22_Remessa_Boletos_1.PNG" />
 
-**Tipo:** Selecione entre os 2 tipos <img src="" /> .
+**Tipo:** Selecione entre os 2 tipos <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Remessa_Boleto_Tipo.png" /> .
 
 **Dt. emissão:** Data automática do dia da  emissão, mas poderá ser alterada.  
 
@@ -880,9 +880,9 @@ Remessa de boletos *(Menu > Financeiro > Remessa de boletos)* , utilizada para g
 
 **Tabela de títulos:** Apresenta todos os boletos gerados para a conta seleciona.
 
-Após realizar o preenchimento dos campos, basta clicar em <img src="" />, será gerado um arquivo em txt ,pelo qual será usado para importar dentro do sistema do banco, nesse exemplo utilizamos a conta Sicoob.
+Após realizar o preenchimento dos campos, basta clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Remessa_Boleto_Botao_Gerar.PNG" />, será gerado um arquivo em txt ,pelo qual será usado para importar dentro do sistema do banco, nesse exemplo utilizamos a conta Sicoob.
 
-<img src="" />  
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/22_Remessa_Boletos_2.PNG" />  
 
 Esse arquivo será salvo na pasta conforme imagem a seguir:
 <img src="" />
