@@ -960,13 +960,13 @@ Os Relatórios concentram um conjunto de informações com o objetivo de reporta
 
 Vale lembrar, que existe a possibilidade de realizar filtros na emissão do relatório. Com base no relatório de *contas a pagar* , segue exemplo: 
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_2.PNG" />
 
 Demonstraremos como inserir filtros nos relatórios:
 
 * **Credores:** É possível colocar o credor para realizar o filtro.
 
-  Ao clicar em <img src="" /> há a possibilidade de buscar no cadastro do sistema o credor para realizar o filtro.
+  Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Inserir_linha_filtro_relatorio.PNG" /> há a possibilidade de buscar no cadastro do sistema o credor para realizar o filtro.
 
 * **Plano de contas:** Selecione o plano de contas que será utilizado no filtro.
 
@@ -978,35 +978,35 @@ Demonstraremos como inserir filtros nos relatórios:
 
 * **Grupos econômicos:**  Possibilidade de colocar grupo econômico no filtro.
 
-  <img src="" /> Utilizado para o cartório que tem mais de um cartório em um banco.
+  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/ConsolidarCartorios.PNG" /> Utilizado para o cartório que tem mais de um cartório em um banco.
 
-  <img src="" /> Aplica a curva de experiência ABC, também chamada de análise de Pareto ou regra 80/20.
+  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Contas_Pagar_Curva.PNG" /> Aplica a curva de experiência ABC, também chamada de análise de Pareto ou regra 80/20.
 
-  Ao selecionar o checkbox *aplicar curva abc* será apresentado a porcentagem <img src="" />. 
+  Ao selecionar o checkbox *aplicar curva abc* será apresentado a porcentagem <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Contas_A_Pagar_Porcentagem_Curva.PNG" />. 
 
   
 
-  Ao selecionar o período desejado, basta clicar em <img src="" />  para emissão do relatório conforme imagem a seguir.
+  Ao selecionar o período desejado, basta clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Contas_A_Pagar_Bot%C3%A3o_Visualizar.PNG" />  para emissão do relatório conforme imagem a seguir.
 
-  <img src="" />
+  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_3.PNG" />
 
   
 
   <center><i>Botões:</i></center> 
 
-  <img src="" /> Ao realizar os filtros necessários, clique em visualizar para ter acesso ao relatório.
+  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_visualizar.PNG" /> Ao realizar os filtros necessários, clique em visualizar para ter acesso ao relatório.
 
-  <img src="" /> Direciona o relatório para sua impressora.
+  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_imprimir.PNG" /> Direciona o relatório para sua impressora.
 
- <img src="" /> Fecha a tela.
+ <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_fecha.PNG" /> Fecha a tela.
 
-  <img src="" /> Exporta o relatório em arquivo pdf.
+  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_pdf.PNG" /> Exporta o relatório em arquivo pdf.
 
-  <img src="" /> Exporta o relatório em arquivo xls. 
+  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_xls.PNG" /> Exporta o relatório em arquivo xls. 
 
-  <img src="" /> Possibilidade de enviar o arquivo via e-mail, selecionando uma das opções <img src="" />.
+  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_email.PNG" /> Possibilidade de enviar o arquivo via e-mail, selecionando uma das opções <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_email_opcoes.png" />.
 
-  <img src="" /> Tem a funcionalidade de organizar a visualização do relatório.   
+  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_checkbox_separador_linhas.PNG" /> Tem a funcionalidade de organizar a visualização do relatório.   
    
 <div id="rboletos" />
 <b>R. Boletos</b> 
