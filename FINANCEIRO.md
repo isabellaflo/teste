@@ -1038,7 +1038,7 @@ No relatório de contas a pagar, é possível identificar o lançamento de todas
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_5.PNG" />
 
-**a. Situação:** Poderá selecionar entre as 4 situações  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Contas_Pagar_Situacao.png" /> .
+**a. Situação:** Poderá selecionar entre as 4 situações  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Contas_Pagar_Situacao.png" />.
 
 **b. Data:**  Possível selecionar entre as 3 datas  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Contas_Pagar_Data.png" />.
 
