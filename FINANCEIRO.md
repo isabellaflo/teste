@@ -908,7 +908,7 @@ Tabela IR *(Menu > Financeiro > Tabela IR)*.
 
 É por meio dessa tabela que o sistema consegue calcular a porcentagem para gerar o imposto de renda. 
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/TabelaIR.PNG" />
 
 **a. Ano:** Selecione o ano para gerar a tabela IR.
 
@@ -916,9 +916,9 @@ Tabela IR *(Menu > Financeiro > Tabela IR)*.
 
 
 
-Ao clicar em <img src="" /> é possível visualizar.
+Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Tabela_Gerar.PNG" /> é possível visualizar.
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/TabelaIR_Gerada.PNG" />
 
 
 <div id="transferências" />
@@ -926,23 +926,23 @@ Ao clicar em <img src="" /> é possível visualizar.
 
 Transferências *(Menu > Financeiro > Transferências)*, utilizado para realizar transferências entre contas do cartório.
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/24_Transferencias_1.PNG" />
 
 Preencha os campos para a realização da transferência, nesse exemplo foi transferido um valor do *CAIXA* (caixa físico do cartório) para a conta bancária *ITAÚ* (conta bancário do cartório).
 
-Após o preenchimento dos campos, clique em <img src="" /> para efetivar a transferência entre as contas.
+Após o preenchimento dos campos, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Transferir_Bot%C3%A3o.PNG" /> para efetivar a transferência entre as contas.
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/24_Transferencias_2.PNG" />
 
 Logo, a transferência será registrada no Contas a pagar / Contas a receber, acesse o (*Menu > Financeiro > contas a pagar / contas a receber).*
 
 *Contas a pagar:*
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/24_Transferencias_3.PNG" />
 
 *Contas a receber:* 
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/24_Transferencias_4.PNG" />
 
 **OBS:** Vale lembrar que essa transferência acontece apenas dentro do cartório pelas contas cadastradas no  no (*Menu > Financeiro > Contas financeiras*) não movimenta a conta bancária real do cartório (*Controle interno*).
 
