@@ -990,15 +990,15 @@ Demonstraremos como inserir filtros nos relatórios:
 
   <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_3.PNG" />
 
-  
+  <br></br>
 
-  <center><i>Botões:</i></center> 
+  <div align="center"><i>Botões:</i></div> 
 
   <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_visualizar.PNG" /> Ao realizar os filtros necessários, clique em visualizar para ter acesso ao relatório.
 
   <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_imprimir.PNG" /> Direciona o relatório para sua impressora.
 
- <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_fecha.PNG" /> Fecha a tela.
+  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_fecha.PNG" /> Fecha a tela.
 
   <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_pdf.PNG" /> Exporta o relatório em arquivo pdf.
 
