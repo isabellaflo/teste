@@ -949,7 +949,7 @@ Logo, a transferência será registrada no Contas a pagar / Contas a receber, ac
 
 <div id="relatórios" />
 <b>24. Relatórios</b> 
-
+<br></br>
 Os Relatórios concentram um conjunto de informações com o objetivo de reportar resultados parciais ou totais de uma determinada prática do cartório.
 
 <div align="center">
