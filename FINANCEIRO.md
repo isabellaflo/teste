@@ -751,11 +751,11 @@ Como mostrado na imagem anterior, o título marcado como inadimplentes é a prim
 
 Plano de contas (*Menu > Financeiro > Plano de contas*) é possível cadastrar as contas de receitas e despesas do cartório.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_1.PNG" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_Contas.PNG" />
 
 
 
-Para criar um novo plano de contas, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_2.PNG" />, depois em !<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Botao_novo.PNG" /> , neste exemplo criaremos o plano de conta *Receitas*. 
+Para criar um novo plano de contas, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Novo.PNG" />, depois em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Botao_novo.PNG" /> , neste exemplo criaremos o plano de conta *Receitas*. 
 
 
 
