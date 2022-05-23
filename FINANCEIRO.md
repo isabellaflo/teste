@@ -1087,6 +1087,7 @@ Possível visualizar registros de contas financeiras do cartório.
 *Para filtrar uma determinada conta financeira, basta inserir os dados nas abas contas financeiras e formas de pagamento conforme exemplo abaixo:*
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Extrato_contas_Filtro_Contas_financeiras.PNG" />
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Extrato_Contas_Filtro_Formas_Pagamento.PNG" />
 
