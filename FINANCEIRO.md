@@ -1149,23 +1149,23 @@ O fechamento de caixa consiste no retorno do processo diário de conferência da
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_caixa_agrupar_plano_contas.PNG" />
 
-<img src="" /> Exibe a taxa do cartão como uma saída no relatório.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Exibir_taxas.PNG" />  Exibe a taxa do cartão como uma saída no relatório.
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_caixa_taxa_cartao.PNG" />
 
-<img src="" /> Apresentadas apenas as contas "Caixa" entradas.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Exibir_caixa_entrada.PNG" /> Apresentadas apenas as contas "Caixa" entradas.
 
-<img src="" /> Retorna as contas "Caixas" para saídas.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Exibir_caixa_saida.PNG" /> Retorna as contas "Caixas" para saídas.
 
-<img src="" /> Exibe as contas de resultado definidas no plano de contas como conta de resultado.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Exibir_contas_resultado.PNG" /> Exibe as contas de resultado definidas no plano de contas como conta de resultado.
 
-<img src="" /> Pagamentos com créditos de mensalista serão apresentados.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_com_credito_mensalista.PNG" /> Pagamentos com créditos de mensalista serão apresentados.
 
-<img src="" /> Exibe troco devolvido ao cliente como uma saída no relatório. *Ex.: Valor total do recibo  58.83, valor recebido 60.00, troco 1.17 devolvido ao cliente*.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_exibir_troco.PNG" /> Exibe troco devolvido ao cliente como uma saída no relatório. *Ex.: Valor total do recibo  58.83, valor recebido 60.00, troco 1.17 devolvido ao cliente*.
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_caixa_exibir_troco_saida_emiss%C3%A3o.PNG" />
 
-<img src="" /> Exibe troco como entrada.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_caixa_exibir_troco_entrada.PNG" /> Exibe troco como entrada.
 
 <div id="rlivroauxiliar" />
 <b>R. Livro auxiliar</b>
