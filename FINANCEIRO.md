@@ -1086,9 +1086,9 @@ Possível visualizar registros de contas financeiras do cartório.
 
 *Para filtrar uma determinada conta financeira, basta inserir os dados nas abas contas financeiras e formas de pagamento conforme exemplo abaixo:*
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Extrato_contas_Filtro_Contas_financeiras.PNG" />
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Extrato_Contas_Filtro_Formas_Pagamento.PNG" />
 
 <div id="rextratodemensalistas" />
 <b>R. Extrato de mensalistas</b>
@@ -1099,19 +1099,19 @@ Possível visualizar registros de contas financeiras do cartório.
 
 Possível visualizar os registros dos mensalistas do cartório.
 
-​                   ![R.Extrato_Mensalistas](C:\Users\Usuário\Desktop\BackupPC\Gislene\MANUAIS\Financeiro\R.Extrato_Mensalistas.PNG)
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_8.PNG" />
 
 **a. Dt. inicial:** Data inicial do dia, mas poderá ser alterada.
 
 **b. Dt. final:**  Data final do dia, mas poderá ser alterada.
 
-<img src="" /> Não exibe no relatório os mensalistas com crédito.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Extrato_Mensalistas_Nao_Exibir_Mensalistas_Com_Credito.PNG" /> Não exibe no relatório os mensalistas com crédito.
 
-<img src="" /> Não exibe o saldo anterior dos mensalistas no relatório.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Extrato_Mensalistas_Nao_Exibir_Saldo_Anterior.PNG" /> Não exibe o saldo anterior dos mensalistas no relatório.
 
 Na aba *Clientes (Mensalistas)*  é possível filtrar por um determinado cliente.
 
-<img src="" /> 
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_9.PNG" /> 
 
 <div id="rfechamentodecaixa" />
 <b>R. Fechamento de caixa</b>
@@ -1122,29 +1122,31 @@ Na aba *Clientes (Mensalistas)*  é possível filtrar por um determinado cliente
 
 O fechamento de caixa consiste no retorno do processo diário de conferência das entradas e saídas do cartório.
 
-<img src="" />    
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_10.PNG" />    
 
 **a. Dt. inicial:** Data inicial do dia, mas poderá ser alterada.
 
 **b. Dt. final:** Data final do dia, mas poderá ser alterada.
 
-**c. Relatório:** Selecione entre as 3 formas para apresentação <img src="" />.
+**c. Relatório:** Selecione entre as 3 formas para apresentação <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Relatorio.png" />.
 
-**d. Atendente:** Emitir o relatório por um atendente em específico. <img src="" />
+**d. Atendente:** Emitir o relatório por um atendente em específico. <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Atendente.png" />
 
-**e. Origem:** Selecione entre as 2 origem, Se foi praticado pelo caixa ou pelo balcão de notas <img src="" />. 
+**e. Origem:** Selecione entre as 2 origem, Se foi praticado pelo caixa ou pelo balcão de notas <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Origem.png" />. 
 
-**f. Forma PG:** Selecione a forma que deseja visualizar no relatório,pois retorna no relatório apenas a forma de pagamento selecionada !<img src="" /> .
+**f. Forma PG:** Selecione a forma que deseja visualizar no relatório,pois retorna no relatório apenas a forma de pagamento selecionada !<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Forma_De_Pagamento.png" /> .
 
-<img src="" /> Exibe o saldo anterior do caixa. 
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Exibir_saldo.PNG" /> Exibe o saldo anterior do caixa. 
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_Caixa_exibir_saldo_marcado.PNG" />
 
-<img src="" /> Agrupa os atos por funcionário.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Agrupar_funcionario.PNG" /> Agrupa os atos por funcionário.
 
-<img src="" /><img src="" /> Agrupa o plano de contas.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_caixa_agrupar_func_emissao.PNG" />
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Agrupar_plano_contas.PNG" /> Agrupa o plano de contas.
+
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_caixa_agrupar_plano_contas.PNG" />
 
 <img src="" /> Exibe a taxa do cartão como uma saída no relatório.
 
