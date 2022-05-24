@@ -1178,17 +1178,17 @@ Segundo a corregedoria do CNJ (*Conselho Nacional de Justiça*), a escrituraçã
 
 Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as receitas e despesas do cartório.
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_11.PNG" />
 
-<img src="" /> Termo de abertura  utilizado para assinatura digital do livro, se configurado pelo *(Menu > Cartório > Configurações > Aba Livros)*  é possível  criar um texto pre definido *(Texto criado conforme a necessidade do cartório)* , podendo criar o texto no termo de  abertura quanto no termo de encerramento conforme imagem a seguir:
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_termo_abertura.PNG" /> Termo de abertura  utilizado para assinatura digital do livro, se configurado pelo *(Menu > Cartório > Configurações > Aba Livros)*  é possível  criar um texto pre definido *(Texto criado conforme a necessidade do cartório)* , podendo criar o texto no termo de  abertura quanto no termo de encerramento conforme imagem a seguir:
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Botao_termo_abertura_Configuracao.PNG" />
 
    
 
-**Data do lançamento:** Data do dia do lançamento da despesa/receita <img src="" />.
+**Data do lançamento:** Data do dia do lançamento da despesa/receita <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/r.Livro_Auxiliar_Data_lancamento.PNG" />.
 
-**Tipo:** Selecione entre os 4 tipos <img src="" /> de acordo com a necessidade.
+**Tipo:** Selecione entre os 4 tipos <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Tipo.PNG" /> de acordo com a necessidade.
 
 **Apuração:** Selecione a apuração correspondente <img src="" />.
 
