@@ -1250,15 +1250,15 @@ Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Detalhar_receitas_codigo_recibo.PNG" /> Detalha as receitas por código do recibo.
 
-<img src="" /> O ato especial não será apresentado.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Nao_Exibir_Ato_Especial.PNG" /> O ato especial não será apresentado.
 
-<img src="" /> Não será apresentado lançamentos que foi definido no plano de contas *(Menu > Financeiro > Plano de contas)*  como "Não dedutíveis".
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_N%C3%A3o_Exibir_Lancamentos_nao_dedutiveis.PNG" /> Não será apresentado lançamentos que foi definido no plano de contas *(Menu > Financeiro > Plano de contas)*  como "Não dedutíveis".
 
-<img src="" /> Exibe apenas contas que foram definidas como contas de resultado no plano de contas.  
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Exibir_Somente_Contas_Resultado.PNG" /> Exibe apenas contas que foram definidas como contas de resultado no plano de contas.  
 
-<img src="" /> Exibe atos lançados no recibo (*Menu > Cartório > Recibos*) como depósito prévio.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Exibir_deposito_previo.PNG" /> Exibe atos lançados no recibo (*Menu > Cartório > Recibos*) como depósito prévio.
 
-<img src="" /> Exibe emolumentos líquidos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Exibir_Emolumentos_liquidos.PNG" /> Exibe emolumentos líquidos.
    
 <div id="rplanodecontas" />
 <b>R. Plano de contas</b>
