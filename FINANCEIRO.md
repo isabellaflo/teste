@@ -1190,41 +1190,41 @@ Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as rece
 
 **Tipo:** Selecione entre os 4 tipos <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Tipo.PNG" /> de acordo com a necessidade.
 
-**Apuração:** Selecione a apuração correspondente <img src="" />.
+**Apuração:** Selecione a apuração correspondente <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Apuracao.PNG" />.
 
-**Complemento:** Complemento para colocar no livro auxiliar conforme provimento nº 45/2015. Nele é possível colocar o número do livro, folha inicial, folha final para controle interno <img src="" />. 
+**Complemento:** Complemento para colocar no livro auxiliar conforme provimento nº 45/2015. Nele é possível colocar o número do livro, folha inicial, folha final para controle interno <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Complemento.PNG" />. 
 
 **Mais opções:**
 
-<img src="" /> Exibe os emolumentos líquidos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Exibir_Emolumentos.PNG" /> Exibe os emolumentos líquidos.
 
-<img src="" /> Agrupa os códigos dos atos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Agrupar.PNG" /> Agrupa os códigos dos atos.
 
-<img src="" /> Agrupa atos que tenha o mesmo código de tabela. *Ex.: Código da tabela 1401 Declaratória e 1401 Emancipação.*
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Agrupar_Servicos.PNG" /> Agrupa atos que tenha o mesmo código de tabela. *Ex.: Código da tabela 1401 Declaratória e 1401 Emancipação.*
 
-<img src="" /> Exibe impressão sequencial dos atos pela data da pratica.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Impressao_sequencial.PNG" /> Exibe impressão sequencial dos atos pela data da pratica.
 
-<img src="" /> Exibe o plano de contas nas despesas.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Exibir_Plano_Contas_Despesas.PNG" /> Exibe o plano de contas nas despesas.
 
-<img src="" /> O ato especial não será apresentado no relatório.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Nao_Exibir_Ato_Especial.PNG" /> O ato especial não será apresentado no relatório.
 
-<img src="" /> Não exibe a quantidade de atos realizados.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Nao_Exibir_Quantidade.PNG" /> Não exibe a quantidade de atos realizados.
 
-<img src="" /> Acrescenta o valor do selo.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Acrescentar_Valor_Selo.PNG" /> Acrescenta o valor do selo.
 
-<img src="" /> Exibe o total por atribuição.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Exibir_Total_Por_Atribuicao.PNG" /> Exibe o total por atribuição.
 
-<img src="" /> Exibe a descrição da tabela de emolumentos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Exibir_Descricao_Tabela.PNG" /> Exibe a descrição da tabela de emolumentos.
 
-<img src="" /> Exibe os atos gratuitos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Atos_Gratuitos.PNG" /> Exibe os atos gratuitos.
 
-<img src="" /> Exibe o termo de abertura e encerramento.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Termo_Abertura_Encerramento.PNG" /> Exibe o termo de abertura e encerramento.
 
-<img src="" /> Seleciona os atos específicos para ser apresentados no relatório.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Selecionar_Atos.PNG" /> Seleciona os atos específicos para ser apresentados no relatório.
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/R.Livro_Auxiliar_Selecionar_Atos_Emissao.PNG" />
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Selecionar_Atos_Emiss%C3%A3o_fim.PNG" />
 
 <div id="rlivrocaixa" />
 <b>R. Livro caixa</b>
