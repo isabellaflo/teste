@@ -1296,7 +1296,7 @@ Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bo
 
 Relatório Receita diário exibe as receitas diárias do cartório.
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_16.PNG" />
 
 **Data inicial:** Data inicial do dia, mas poderá ser alterada se necessário.
 
@@ -1310,27 +1310,27 @@ Relatório Receita diário exibe as receitas diárias do cartório.
 
 **Origem:** Origem que foi realizado o ato. Se foi praticado pelo caixa ou pelo balcão de notas.
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_CB_Exibir_Deposito_Previo_Convertido.PNG" />
 
-<img src="" /> Não agrupa por atendente.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_CB_Nao_Agrupar_Por_Atendente.PNG" /> Não agrupa por atendente.
 
-<img src="" /> Exibe recibos de mensalistas.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_CB_Exibir_Recibos_Mensalistas.PNG" /> Exibe recibos de mensalistas.
 
-<img src="" /> Exibe saídas de caixa.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_CB_Exibir_Saidas_Caixa.PNG" /> Exibe saídas de caixa.
 
-<img src="" /> Não exibe depósito prévio.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_CB_Nao_Exibir_Deposito_Previo.PNG" /> Não exibe depósito prévio.
 
-<img src="" /> Exibe adiantamentos de processos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_Exibir_Adiantamentos_Processos.PNG" /> Exibe adiantamentos de processos.
 
-<img src="" /> Exibe pagamentos de mensalistas.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_CB_Exibir_Pagamentos_Mensalistas.PNG" /> Exibe pagamentos de mensalistas.
 
-<img src="" /> Não exibe ato especial.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_Nao_Exibir_Ato_Especial.PNG" /> Não exibe ato especial.
 
 **Observações:** Ao preencher será exibida no relatório.
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_CB_Observacao.PNG" />
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_Relatorio.PNG" />
 
 
 
