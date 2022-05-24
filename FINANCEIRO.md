@@ -1235,8 +1235,8 @@ Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as rece
 
 Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos dos serviços notariais e cartoriais que serão tributados mensalmente pelo imposto de renda pessoa física(*IRPF*) .
 
-<img src="" />
- *Gerar Documentos* <img src="" /> é possível gerar guia DARF/Exportar Carnê Leão.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_14.PNG" />
+ *Gerar Documentos* <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Carne_Leao_Opcoes.png" /> é possível gerar guia DARF/Exportar Carnê Leão.
 
 **a. Data inicial:** Data inicial automática do dia, mas poderá ser alterada caso necessário. 
 
@@ -1244,11 +1244,11 @@ Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos
 
 **c. Marcação PC:** Quando criado o plano de contas (*PC*) pelo (*Menu > Financeiro > Plano de contas*), com o campo *Marcação PC* preenchido, é possível filtrar essa marcação para ser apresentada no relatório.
 
-<img src="" /> Agrupa plano de contas  na apresentação do relatório.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Agrupar_Plano_Contas.PNG" /> Agrupa plano de contas  na apresentação do relatório.
 
-<img src="" /> Detalha as receitas por código da tabela.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Detalhar_receitas_codigo_tabela.PNG" /> Detalha as receitas por código da tabela.
 
-<img src="" /> Detalha as receitas por código do recibo.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Detalhar_receitas_codigo_recibo.PNG" /> Detalha as receitas por código do recibo.
 
 <img src="" /> O ato especial não será apresentado.
 
