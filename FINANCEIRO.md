@@ -1190,41 +1190,41 @@ Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as rece
 
 **Tipo:** Selecione entre os 4 tipos <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Tipo.PNG" /> de acordo com a necessidade.
 
-**Apuração:** Selecione a apuração correspondente <img src="" />.
+**Apuração:** Selecione a apuração correspondente <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Apuracao.PNG" />.
 
-**Complemento:** Complemento para colocar no livro auxiliar conforme provimento nº 45/2015. Nele é possível colocar o número do livro, folha inicial, folha final para controle interno <img src="" />. 
+**Complemento:** Complemento para colocar no livro auxiliar conforme provimento nº 45/2015. Nele é possível colocar o número do livro, folha inicial, folha final para controle interno <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Complemento.PNG" />. 
 
 **Mais opções:**
 
-<img src="" /> Exibe os emolumentos líquidos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Exibir_Emolumentos.PNG" /> Exibe os emolumentos líquidos.
 
-<img src="" /> Agrupa os códigos dos atos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Agrupar.PNG" /> Agrupa os códigos dos atos.
 
-<img src="" /> Agrupa atos que tenha o mesmo código de tabela. *Ex.: Código da tabela 1401 Declaratória e 1401 Emancipação.*
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Agrupar_Servicos.PNG" /> Agrupa atos que tenha o mesmo código de tabela. *Ex.: Código da tabela 1401 Declaratória e 1401 Emancipação.*
 
-<img src="" /> Exibe impressão sequencial dos atos pela data da pratica.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Impressao_sequencial.PNG" /> Exibe impressão sequencial dos atos pela data da pratica.
 
-<img src="" /> Exibe o plano de contas nas despesas.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Exibir_Plano_Contas_Despesas.PNG" /> Exibe o plano de contas nas despesas.
 
-<img src="" /> O ato especial não será apresentado no relatório.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Nao_Exibir_Ato_Especial.PNG" /> O ato especial não será apresentado no relatório.
 
-<img src="" /> Não exibe a quantidade de atos realizados.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Nao_Exibir_Quantidade.PNG" /> Não exibe a quantidade de atos realizados.
 
-<img src="" /> Acrescenta o valor do selo.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Acrescentar_Valor_Selo.PNG" /> Acrescenta o valor do selo.
 
-<img src="" /> Exibe o total por atribuição.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Exibir_Total_Por_Atribuicao.PNG" /> Exibe o total por atribuição.
 
-<img src="" /> Exibe a descrição da tabela de emolumentos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Exibir_Descricao_Tabela.PNG" /> Exibe a descrição da tabela de emolumentos.
 
-<img src="" /> Exibe os atos gratuitos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Atos_Gratuitos.PNG" /> Exibe os atos gratuitos.
 
-<img src="" /> Exibe o termo de abertura e encerramento.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Termo_Abertura_Encerramento.PNG" /> Exibe o termo de abertura e encerramento.
 
-<img src="" /> Seleciona os atos específicos para ser apresentados no relatório.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Selecionar_Atos.PNG" /> Seleciona os atos específicos para ser apresentados no relatório.
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/R.Livro_Auxiliar_Selecionar_Atos_Emissao.PNG" />
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Selecionar_Atos_Emiss%C3%A3o_fim.PNG" />
 
 <div id="rlivrocaixa" />
 <b>R. Livro caixa</b>
@@ -1235,8 +1235,8 @@ Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as rece
 
 Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos dos serviços notariais e cartoriais que serão tributados mensalmente pelo imposto de renda pessoa física(*IRPF*) .
 
-<img src="" />
- *Gerar Documentos* <img src="" /> é possível gerar guia DARF/Exportar Carnê Leão.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_14.PNG" />
+ *Gerar Documentos* <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Carne_Leao_Opcoes.png" /> é possível gerar guia DARF/Exportar Carnê Leão.
 
 **a. Data inicial:** Data inicial automática do dia, mas poderá ser alterada caso necessário. 
 
@@ -1244,21 +1244,21 @@ Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos
 
 **c. Marcação PC:** Quando criado o plano de contas (*PC*) pelo (*Menu > Financeiro > Plano de contas*), com o campo *Marcação PC* preenchido, é possível filtrar essa marcação para ser apresentada no relatório.
 
-<img src="" /> Agrupa plano de contas  na apresentação do relatório.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Agrupar_Plano_Contas.PNG" /> Agrupa plano de contas  na apresentação do relatório.
 
-<img src="" /> Detalha as receitas por código da tabela.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Detalhar_receitas_codigo_tabela.PNG" /> Detalha as receitas por código da tabela.
 
-<img src="" /> Detalha as receitas por código do recibo.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Detalhar_receitas_codigo_recibo.PNG" /> Detalha as receitas por código do recibo.
 
-<img src="" /> O ato especial não será apresentado.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Nao_Exibir_Ato_Especial.PNG" /> O ato especial não será apresentado.
 
-<img src="" /> Não será apresentado lançamentos que foi definido no plano de contas *(Menu > Financeiro > Plano de contas)*  como "Não dedutíveis".
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_N%C3%A3o_Exibir_Lancamentos_nao_dedutiveis.PNG" /> Não será apresentado lançamentos que foi definido no plano de contas *(Menu > Financeiro > Plano de contas)*  como "Não dedutíveis".
 
-<img src="" /> Exibe apenas contas que foram definidas como contas de resultado no plano de contas.  
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Exibir_Somente_Contas_Resultado.PNG" /> Exibe apenas contas que foram definidas como contas de resultado no plano de contas.  
 
-<img src="" /> Exibe atos lançados no recibo (*Menu > Cartório > Recibos*) como depósito prévio.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Exibir_deposito_previo.PNG" /> Exibe atos lançados no recibo (*Menu > Cartório > Recibos*) como depósito prévio.
 
-<img src="" /> Exibe emolumentos líquidos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Exibir_Emolumentos_liquidos.PNG" /> Exibe emolumentos líquidos.
    
 <div id="rplanodecontas" />
 <b>R. Plano de contas</b>
@@ -1268,7 +1268,7 @@ Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos
 
 Relatório plano de contas, retorna todos os lançamentos praticados no cartório que foram definidos no  plano de contas (*Menu > Financeiro > Plano de contas*).
 
- <img src="" />
+ <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_15.PNG" />
 
 **Data:** Selecione entre as 4 datas (Lançamento, vencimento, pagamento, liquidação).
 
@@ -1276,17 +1276,17 @@ Relatório plano de contas, retorna todos os lançamentos praticados no cartóri
 
 **Dt. final:** Data final do dia, mas poderá ser alterada se necessário.
 
-<img src="" /> Aplica somatório no início de cada grupo.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Aplicar_Somatorio.PNG" /> Aplica somatório no início de cada grupo.
 
-<img src="" /> Exibe somente contas que foram marcadas como contas de resultados na criação do plano de contas *(Menu > Financeiro > Plano de contas)*.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Exibir_Somente.PNG" /> Exibe somente contas que foram marcadas como contas de resultados na criação do plano de contas *(Menu > Financeiro > Plano de contas)*.
 
 *Para visualizar apenas um plano de contas em específico, basta inserir o mesmo conforme imagem a seguir:* 
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Filtro.PNG" />
 
-Ao clicar em <img src="" /> será exibido o relatório como abaixo:
+Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Botao_Visualizar.PNG" /> será exibido o relatório como abaixo:
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Visualiza%C3%A7%C3%A3o.PNG" />
 
 <div id="rreceitadiária" />
 <b>R. Receita diária</b>
