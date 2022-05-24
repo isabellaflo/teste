@@ -1268,7 +1268,7 @@ Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos
 
 Relatório plano de contas, retorna todos os lançamentos praticados no cartório que foram definidos no  plano de contas (*Menu > Financeiro > Plano de contas*).
 
- <img src="" />
+ <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_15.PNG" />
 
 **Data:** Selecione entre as 4 datas (Lançamento, vencimento, pagamento, liquidação).
 
@@ -1276,17 +1276,17 @@ Relatório plano de contas, retorna todos os lançamentos praticados no cartóri
 
 **Dt. final:** Data final do dia, mas poderá ser alterada se necessário.
 
-<img src="" /> Aplica somatório no início de cada grupo.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Aplicar_Somatorio.PNG" /> Aplica somatório no início de cada grupo.
 
-<img src="" /> Exibe somente contas que foram marcadas como contas de resultados na criação do plano de contas *(Menu > Financeiro > Plano de contas)*.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Exibir_Somente.PNG" /> Exibe somente contas que foram marcadas como contas de resultados na criação do plano de contas *(Menu > Financeiro > Plano de contas)*.
 
 *Para visualizar apenas um plano de contas em específico, basta inserir o mesmo conforme imagem a seguir:* 
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Filtro.PNG" />
 
-Ao clicar em <img src="" /> será exibido o relatório como abaixo:
+Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Botao_Visualizar.PNG" /> será exibido o relatório como abaixo:
 
-<img src="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Visualiza%C3%A7%C3%A3o.PNG" />
 
 <div id="rreceitadiária" />
 <b>R. Receita diária</b>
