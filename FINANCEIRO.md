@@ -235,8 +235,8 @@ Para desativar a conta, clique em <img src="https://github.com/gislenetavaresacs
 
 <div id="condiçõesdepagamentos" />
 <b>7. Condições de pagamentos</b>
-
-Condições de pagamentos *(Menu > Financeiro > Condições de pagamentos)* Utilizado somente em caso de parcelamentos. 
+<br></br>
+Condições de pagamentos <i>(Menu > Financeiro > Condições de pagamentos)</i> utilizado somente em caso de parcelamentos. 
 
 Ao abrir o formulário, é possível pesquisar, criar novas condições de pagamentos, abrir e excluir. 
 
@@ -256,25 +256,25 @@ Exemplificando:
 
 **b. Ordem:**  Ordem que será apresentado a condição de pagamento.
 
-**c. Descrição:** Descrição do parcelamento *Ex.:* CARTEXPRESS.
+**c. Descrição:** Descrição do parcelamento <i>Ex.:</i> CARTEXPRESS.
 
-**d. Vencimentos:**  Utilizado para colocar a forma que o pagamento deverá ocorrer. *Ex.:* 30/60/90 ou 0/15/45 dias.
+**d. Vencimentos:**  Utilizado para colocar a forma que o pagamento deverá ocorrer. <i>Ex.:</i> 30/60/90 ou 0/15/45 dias.
 
-**e. Fórmula:** Selecione entre os 5 fórmulas *(Nenhuma, Juro simples, Juro composto, Taxa de acréscimo, Taxa de desconto).* 
+**e. Fórmula:** Selecione entre os 5 fórmulas <i>(Nenhuma, Juro simples, Juro composto, Taxa de acréscimo, Taxa de desconto).</i> 
 
 **f. Porcentual%:**  Percentual da condição de pagamento ao mês.
 
-**Parcela mínima:** Valor da parcela mínima da condição do parcelamento.
+**g. Parcela mínima:** Valor da parcela mínima da condição do parcelamento.
 
-**Ajuste de data:**  Ajuste de data. *Ex.: 15 dias pra frente.* 
+**h. Ajuste de data:**  Ajuste de data. <i>Ex.: 15 dias pra frente.</i> 
 
 
 <div id="contasapagar" />
 <b>8. Contas a pagar</b>
+<br></br>
+Contas a pagar <i>(Menu > Financeiro > Contas a pagar)</i>, será apresentado todas as contas a pagar do cartório.
 
-Contas a pagar *(Menu > Financeiro > Contas a pagar)*, será apresentado todas as contas a pagar do cartório.
-
-É possível pesquisar os títulos por um credor em especifico ou apenas selecionar o botão <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/pesquisar.PNG" /> para visualizar como exemplo a seguir:
+É possível pesquisar os títulos por um credor em especifico ou apenas selecionar o botão <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/pesquisar.PNG" /> para visualizar, como exemplo a seguir:
 
 <div align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_1.PNG" width="700" />
@@ -287,7 +287,7 @@ Os títulos apresentados na tela na parte superior <img src="https://github.com/
 
 **a. Credor:** Credor da conta a pagar.
 
-**b. Dt. vencimento:** Selecione entre as 5 datas *(Vencimento, pagamento, programação, liquidação).* 
+**b. Dt. vencimento:** Selecione entre ás 5 datas <i>(Vencimento, pagamento, programação, liquidação e lançamento).</i> 
 <p align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/datas.png" />
 </p>   
