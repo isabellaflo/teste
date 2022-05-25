@@ -80,16 +80,16 @@ Análise de crédito *(Menu > Financeiro > Análise de crédito)* pode ser utili
 
 <div id="bancos" />
 <b>2. Bancos</b>
-
-Bancos *(Menu > Financeiro > Bancos)* é possível cadastrar banco, inserindo informações de número, dígito verificador e nome do banco.
-   
+<br></br>
+Bancos <i>(Menu > Financeiro > Bancos)</i> é possível cadastrar banco, inserindo informações de número, dígito verificador e nome do banco.
+<br></br>   
 <div align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/3_Banco.PNG" width="700" />
 </div>
 
 **a. Número:**  Número do banco.
 
-**b. Dígito verificador:**  Acrescentar o dígito verificador.
+**b. Dígito verificador:**  Número do dígito verificador.
 
 **c. Nome:** Nome do banco.
 
@@ -98,6 +98,7 @@ Bancos *(Menu > Financeiro > Bancos)* é possível cadastrar banco, inserindo in
 
 <div id="boletos" />
 <b>3. Boletos</b>
+<br></br>
 
 Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório emite boletos. Ao salvar, o Acsiv cria um registro em contas a Receber.  
 
