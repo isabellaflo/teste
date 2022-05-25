@@ -130,7 +130,7 @@ Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório em
 
 <div id="caixaentradas" />
 <b>4. Caixa - Entradas </b>
-
+<br></br>
 
  Caixa - Entradas (*Menu > Financeiro > Caixa > Entradas*) Utilizado para realizar os lançamentos das receitas do cartório. *Ex.: "Valores que entraram para o cartório".*  
 
@@ -149,24 +149,24 @@ Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório em
 
 **e. Func. resp.:** Funcionário que esta realizando a entrada. 
 
-**f. Devedor:** Nome do devedor da entrada.
+**f. Devedor:** Nome do devedor.
 
 **g. Plano de contas:** Selecione o plano de contas para o recebimento da entrada.
 
-**h. Histórico:** Histórico conforme achar viável. Ex: Recebimentos diversos ref. mês 08/2021.
+**h. Histórico:** Histórico conforme achar viável. <i>Ex: Recebimentos diversos ref. mês 08/2021.</i>
 
 **i. Forma de pagto.:** Forma de pagamento escolhida para realizada da entrada.
 
 **j. Conta:** Conta escolhida para receber o valor da entrada.
 
-**l. Dt. liquidação:** Data liquidação do dia, mas poderá preencher com a data da liquidação da entrada. *Ex.: Entrada realizada via pix programado para o dia seguinte, a data de liquidação, será o dia que foi liquidado na conta do cartório.* 
+**l. Dt. liquidação:** Data da efetivação do valor na conta do cartório. <i>Ex.: Entrada realizada via pix programado para o dia seguinte, a data de liquidação, será o dia que foi liquidado na conta do cartório.</i> 
 
 **m. N°controle:** Possível colocar o número de controle, se o cartório trabalhar com ele.
 
 
 <div id="caixasaídas" />
 <b>5. Caixa - Saídas </b>
-
+<br></br>
 Caixa - Saídas (*Menu - Financeiro - Caixas - Saídas*) Utilizado para realizar todas as saídas (despesas) do cartório. *Ex.: "Valores que saíram do cartório".*  
 
 
@@ -202,7 +202,7 @@ Caixa - Saídas (*Menu - Financeiro - Caixas - Saídas*) Utilizado para realizar
 
 <div id="centrodecustos" />
 <b>6. Centro de custos</b>
-
+<br></br>
 É utilizado para cadastrar algum centro de custo. Ex.: cartório possui dois veículos, por exemplo, e quer ter um controle sobre gastos/rendimento desses dois veículos. Nesse caso, eles poderiam cadastrar centros de custos sendo as placas dos veículos, por exemplo. Podemos acessar essa tela no *Menu > Financeiro > Centro de custos*.
 
 
