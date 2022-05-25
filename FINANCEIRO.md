@@ -167,11 +167,11 @@ Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório em
 <div id="caixasaídas" />
 <b>5. Caixa - Saídas </b>
 <br></br>
-Caixa - Saídas (*Menu - Financeiro - Caixas - Saídas*) Utilizado para realizar todas as saídas (despesas) do cartório. *Ex.: "Valores que saíram do cartório".*  
+Caixa - Saídas <i>(Menu - Financeiro - Caixas - Saídas)</i> Utilizado para realizar todas as saídas (despesas) do cartório. <i>Ex.: "Valores que saíram do cartório".</i>  
 
 
 <div align="center">
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/5_Caixa_Entradas.PNG" width="700" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/6_Caixa_Saidas.PNG" width="700" />
 </div>
 <br>
 
@@ -183,7 +183,7 @@ Caixa - Saídas (*Menu - Financeiro - Caixas - Saídas*) Utilizado para realizar
 
 **d. Documento:** Opcional, se o cartório trabalhar com número de documento, preenche o campo.
 
-**e. Func.resp.:** Selecione o funcionário responsável pelo registro da entrada no sistema.
+**e. Func.resp.:** Selecione o funcionário responsável pelo registro da saída no sistema.
 
 **f. Credor:**  Possível colocar o credor da saída. 
 
@@ -195,7 +195,7 @@ Caixa - Saídas (*Menu - Financeiro - Caixas - Saídas*) Utilizado para realizar
 
 **j. Conta:**  Conta que será realizado a saída.
 
-**l. Dt. liquidação:**  Data liquidação do dia, mas poderá preencher com a data da liquidação da saída. *Ex.: E Saída realizada via Transferência bancária  programada para o dia seguinte, a data de liquidação, será o dia que foi liquidado na conta do cartório.* 
+**l. Dt. liquidação:**  Data da efetivação do valor na conta do cartório. <i>Ex.: Saída realizada via Transferência bancária  programada para o dia seguinte, a data de liquidação, será o dia que foi liquidado na conta do cartório.</i>
 
 **m. N° controle:**  Possível colocar o número de controle, se o cartório trabalhar com ele.
 
@@ -203,10 +203,8 @@ Caixa - Saídas (*Menu - Financeiro - Caixas - Saídas*) Utilizado para realizar
 <div id="centrodecustos" />
 <b>6. Centro de custos</b>
 <br></br>
-É utilizado para cadastrar algum centro de custo. Ex.: cartório possui dois veículos, por exemplo, e quer ter um controle sobre gastos/rendimento desses dois veículos. Nesse caso, eles poderiam cadastrar centros de custos sendo as placas dos veículos, por exemplo. Podemos acessar essa tela no *Menu > Financeiro > Centro de custos*.
-
-
-
+É utilizado para cadastrar algum centro de custo. <i>Ex.: cartório possui dois veículos, e quer ter controle sobre gastos/rendimento desses dois veículos. Nesse caso, eles poderiam cadastrar centros de custos, sendo as placas dos veículos.</i> Podemos acessar essa tela pelo <i>Menu > Financeiro > Centro de custos</i>.
+<br></br>
 <div align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/7_Centro_Custo_1.PNG" width="700" />
 </div>
@@ -228,11 +226,11 @@ Caixa - Saídas (*Menu - Financeiro - Caixas - Saídas*) Utilizado para realizar
 
 **b. Conta:** Conta criada no centro de custos.
 
-**c. Descrição:** Neste exemplo estamos usando a placa de um veículo como a descrição.
+**c. Descrição:** Neste exemplo foi utilizado a placa de um veículo com descrição.
 
 **d. Conta superior:** Conta superior criada no Centro de custos.
 
-Para desativar a conta, basta clicar no botão <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/3_1.png" />.
+Para desativar a conta, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/3_1.png" /> para concluir a operação.
 
 
 <div id="condiçõesdepagamentos" />
