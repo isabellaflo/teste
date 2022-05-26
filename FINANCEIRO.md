@@ -132,12 +132,18 @@ Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório em
 <b>4. Caixa - Apuração</b>
 <br></br>
 
+Caixa - Apuração <i>(Menu > Financeiro > Caixa - Apuração)</i> Possível realizar abertura e fechamento do caixa do cartório.
+<div align="center">
+<img src="" width="" />
+</div>
+<br>
+
 
 <div id="caixaentradas" />
 <b>5. Caixa - Entradas </b>
 <br></br>
 
- Caixa - Entradas (*Menu > Financeiro > Caixa > Entradas*) Utilizado para realizar os lançamentos das receitas do cartório. *Ex.: "Valores que entraram para o cartório".*  
+ Caixa - Entradas <i>(Menu > Financeiro > Caixa - Entradas)</i> Utilizado para realizar os lançamentos das receitas do cartório. <i>Ex.: "Valores que entraram para o cartório".</i> 
 
 <div align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/5_Caixa_Entradas.PNG" width="700" />
