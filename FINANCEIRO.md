@@ -3,27 +3,28 @@
 [1. ANÁLISE DE CRÉDITO](#analise)<br>
 [2. BANCOS](#bancos)<br>
 [3. BOLETOS](#boletos)<br>
-[4. CAIXA - ENTRADAS](#caixaentradas)<br>
-[5. CAIXA SAÍDAS](#caixasaídas)<br>
-[6. CENTRO DE CUSTOS](#centrodecustos)<br>
-[7. CONDIÇÕES DE PAGAMENTOS](#condiçõesdepagamentos)<br>
-[8. CONTAS A PAGAR](#contasapagar)<br>
-[9. CONTAS A RECEBER](#contasareceber)<br>
-[10. CONTAS FINANCEIRAS](#contasfinanceiras)<br>
-[11. CRÉDITO COMERCIAL](#créditocomercial)<br>
-[12. DARF](#darf)<br>
-[13. DESPESAS FIXAS](#despesasfixas)<br>
-[14. DESPESAS RECORRENTES](#despesasrecorrentes)<br>
-[15. FORMAS DE PAGAMENTOS](#formasdepagamentos)<br>
-[16. LOGS FINANCEIROS](#logsfinanceiros)<br>
-[17. PASTAS](#pastas)<br>
-[18. PLANO DE CONTAS](#planodecontas)<br>
-[19. RECEITAS FIXAS](#receitasfixas)<br>
-[20. REMESSA DE BOLETOS](#remessadeboleto)<br>
-[21. RETORNO DE BOLETOS](#retornodeboleto)<br>
-[22. TABELA IR](#tabelair)<br>
-[23. TRANSFERÊNCIAS](#transferências)<br>
-[24. RELATÓRIOS](#relatórios)<br>
+[4. CAIXA - APURAÇÃO](#caixaapuração)<br>
+[5. CAIXA - ENTRADAS](#caixaentradas)<br>
+[6. CAIXA SAÍDAS](#caixasaídas)<br>
+[7. CENTRO DE CUSTOS](#centrodecustos)<br>
+[8. CONDIÇÕES DE PAGAMENTOS](#condiçõesdepagamentos)<br>
+[9. CONTAS A PAGAR](#contasapagar)<br>
+[10. CONTAS A RECEBER](#contasareceber)<br>
+[11. CONTAS FINANCEIRAS](#contasfinanceiras)<br>
+[12. CRÉDITO COMERCIAL](#créditocomercial)<br>
+[13. DARF](#darf)<br>
+[14. DESPESAS FIXAS](#despesasfixas)<br>
+[15. DESPESAS RECORRENTES](#despesasrecorrentes)<br>
+[16. FORMAS DE PAGAMENTOS](#formasdepagamentos)<br>
+[17. LOGS FINANCEIROS](#logsfinanceiros)<br>
+[18. PASTAS](#pastas)<br>
+[19. PLANO DE CONTAS](#planodecontas)<br>
+[20. RECEITAS FIXAS](#receitasfixas)<br>
+[21. REMESSA DE BOLETOS](#remessadeboleto)<br>
+[22. RETORNO DE BOLETOS](#retornodeboleto)<br>
+[23. TABELA IR](#tabelair)<br>
+[24. TRANSFERÊNCIAS](#transferências)<br>
+[25. RELATÓRIOS](#relatórios)<br>
 [R. BOLETOS](#rboletos)<br>
 [R. CONTAS A PAGAR](#rcontasapagar)<br>
 [R. CONTAS A RECEBER](#rcontasareceber)<br>
@@ -127,9 +128,13 @@ Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório em
 
 **j. Conta:** Conta pela qual será creditado o boleto.
 
+<div id="caixaapuração" />
+<b>4. Caixa - Apuração</b>
+<br></br>
+
 
 <div id="caixaentradas" />
-<b>4. Caixa - Entradas </b>
+<b>5. Caixa - Entradas </b>
 <br></br>
 
  Caixa - Entradas (*Menu > Financeiro > Caixa > Entradas*) Utilizado para realizar os lançamentos das receitas do cartório. *Ex.: "Valores que entraram para o cartório".*  
@@ -165,7 +170,7 @@ Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório em
 
 
 <div id="caixasaídas" />
-<b>5. Caixa - Saídas </b>
+<b>6. Caixa - Saídas </b>
 <br></br>
 Caixa - Saídas <i>(Menu - Financeiro - Caixas - Saídas)</i> Utilizado para realizar todas as saídas (despesas) do cartório. <i>Ex.: "Valores que saíram do cartório".</i>  
 
@@ -201,7 +206,7 @@ Caixa - Saídas <i>(Menu - Financeiro - Caixas - Saídas)</i> Utilizado para rea
 
 
 <div id="centrodecustos" />
-<b>6. Centro de custos</b>
+<b>7. Centro de custos</b>
 <br></br>
 É utilizado para cadastrar algum centro de custo. <i>Ex.: cartório possui dois veículos, e quer ter controle sobre gastos/rendimento desses dois veículos. Nesse caso, eles poderiam cadastrar centros de custos, sendo as placas dos veículos.</i> Podemos acessar essa tela pelo <i>Menu > Financeiro > Centro de custos</i>.
 <br></br>
@@ -234,7 +239,7 @@ Para desativar a conta, clique em <img src="https://github.com/gislenetavaresacs
 
 
 <div id="condiçõesdepagamentos" />
-<b>7. Condições de pagamentos</b>
+<b>8. Condições de pagamentos</b>
 <br></br>
 Condições de pagamentos <i>(Menu > Financeiro > Condições de pagamentos)</i> utilizado somente em caso de parcelamentos. 
 
@@ -270,7 +275,7 @@ Exemplificando:
 
 
 <div id="contasapagar" />
-<b>8. Contas a pagar</b>
+<b>9. Contas a pagar</b>
 <br></br>
 Contas a pagar <i>(Menu > Financeiro > Contas a pagar)</i>, será apresentado todas as contas a pagar do cartório.
 
@@ -381,7 +386,7 @@ Assim que a conta for quitada, na tela de contas a pagar será apresentada da se
 
 
 <div id="contasareceber"/>
-<b>9. Contas a receber</b>
+<b>10. Contas a receber</b>
 
 Conseguimos localizar todas as contas a receber do cartório,  pelo *(Menu > Financeiro > Contas a receber).* 
 
@@ -520,7 +525,7 @@ Após programada a data, será apresentado na tela de contas a receber com a *Dt
 
 
 <div id="contasfinanceiras" />
-<b>10. Contas financeiras</b>
+<b>11. Contas financeiras</b>
 
 Contas financeiras *(Menu > Financeiro > Contas financeiras)* , utilizado para realizar cadastro de alguma conta financeira,  se for o caixa físico do cartório, basta marcar tipo *Caixa* e colocar o nome desejado. Se for banco, deve-se preencher algumas outras informações, conforme imagem a seguir:
 
@@ -561,7 +566,7 @@ Contas financeiras *(Menu > Financeiro > Contas financeiras)* , utilizado para r
 
 
 <div id="créditocomercial" />
-<b>11. Crédito comercial</b>
+<b>12. Crédito comercial</b>
 
 Crédito comercial *(Menu > Financeiro > Crédito comercial)*, funciona como uma espécie de pré-pago, o cliente "compra créditos" antes de precisar usar.
 
@@ -572,7 +577,7 @@ Ao selecionar o histórico de créditos <img src="https://github.com/gislenetava
 
 
 <div id="darf" />
-<b>12. DARF</b>
+<b>13. DARF</b>
 
 Darf *(Menu > Financeiro > DARF)* -  *Sigla para Documento de Arrecadação de Receitas Federais*, pode- se emitir guia pelo sistema.
 
@@ -590,7 +595,7 @@ Ao finalizar o preenchimento dos campos, clique em <img src="https://github.com/
 
 
 <div id="despesasfixas" />
-<b>13. Despesas fixas</b>
+<b>14. Despesas fixas</b>
 
 Despesas fixas (*Menu > Financeiro > Despesas fixas*) *Ex.: Carnê de pagamento em 12 parcelas vão para o contas a pagar*.
 
@@ -615,7 +620,7 @@ Para encontrar o lançamento dessa despesa *(Menu > Financeiro > Contas a pagar)
 
 
 <div id="despesasrecorrentes" />
-<b>14. Despesas recorrentes</b>
+<b>15. Despesas recorrentes</b>
 
 Despesas recorrentes *(Menu > Financeiro > Despesas recorrentes)*, é um facilitador das despesas fixas anuais. *Ex.:* Aluguel lançado no ano de 2021 em 12 parcelas, é possível lançar essa despesa para o ano de 2022.
 
@@ -641,7 +646,7 @@ Pode-se verificar o lançamento da despesa recorrente pelo *Menu > Financeiro > 
 
 
 <div id="formasdepagamentos" />
-<b>15. Formas de pagamentos</b>
+<b>16. Formas de pagamentos</b>
 
 Formas de pagamentos *(Menu > Financeiro > Formas de pagamentos)*, possível cadastrar as formas de pagamentos.
 
@@ -678,7 +683,7 @@ Formas de pagamentos *(Menu > Financeiro > Formas de pagamentos)*, possível cad
 
 
 <div id="logsfinanceiros" />
-<b>16. Logs financeiros</b>
+<b>17. Logs financeiros</b>
 
 
 Logs financeiros *(Menu > Financeiro > Logs financeiros)*  são registros de eventos ocorridos dentro do Menu financeiro.
@@ -698,7 +703,7 @@ Selecionando a forma de pesquisa, o sistema retornará da seguinte maneira:
 
  
 <div id="pastas" />
-<b>17. Pastas</b>
+<b>18. Pastas</b>
 
 Pastas *(Menu > Financeiro > Pastas)* , tem a funcionalidade de organizar em qual pasta a conta se encontra. ***Ex.:** Mensalistas com dívidas, mas não vão efetuar o pagamento, por exemplo, podem ser inseridos na pasta **"inadimplentes"***.
 
@@ -746,7 +751,7 @@ Como mostrado na imagem anterior, o título marcado como inadimplentes é a prim
 
 
 <div id="planodecontas" />
-<b>18. Plano de contas</b>
+<b>19. Plano de contas</b>
 
 
 Plano de contas (*Menu > Financeiro > Plano de contas*) é possível cadastrar as contas de receitas e despesas do cartório.
@@ -817,7 +822,7 @@ Perceba que a subconta ficou com o número **1.2**, basta clicar em cima da subc
 
 
 <div id="receitasfixas" />
-<b>19. Receitas fixas</b>
+<b>20. Receitas fixas</b>
 
 
 Receitas fixas *(Menu > Financeiro > Receitas fixas)*, é possível cadastrar uma receita fixa do cartório.  **Ex.:** O cartório vai receber determinado valor em dez vezes. As dez parcelas vão para o contas a receber.
@@ -860,7 +865,7 @@ Para conferência das receitas fixas lançadas, acesse o (*Menu > Financeiro > C
 
 
 <div id="remessadeboleto" />
-<b>20. Remessa de boletos</b>
+<b>21. Remessa de boletos</b>
 
 Remessa de boletos *(Menu > Financeiro > Remessa de boletos)* , utilizada para gerar arquivo de remessa ao banco, para que o banco tenha conhecimento da cobrança registrada.  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/22_Remessa_Boletos_1.PNG" />
 
@@ -890,7 +895,7 @@ Esse arquivo será salvo na pasta conforme imagem a seguir:
 *Obs:* Esse caminho é salvo quando realizamos as configurações das contas financeiras para emissão de boleto autorizada pelo *(Menu > Financeiro > Contas Financeiras)*.
 
 <div id="retornodeboleto" />
-<b>21. Retorno de boletos</b>
+<b>22. Retorno de boletos</b>
 
 Retorno de boletos *(Menu > Financeiro > Retorno de boletos)* Utilizado para fazer download dos boletos pagos no dia anterior no banco para importar e dar baixa no Acsiv.
 
@@ -899,7 +904,7 @@ Retorno de boletos *(Menu > Financeiro > Retorno de boletos)* Utilizado para faz
 Como estamos em uma base de homologação não será possível apresentar a tela com os devidos títulos*(boletos)* , mas ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Retorno_Boletos_Importar.PNG" /> é possível pegar os títulos*(boletos)* que foram exportados do sistema do banco para serem importados dentro da Acsiv. Ao finalizar a importação, basta clicar no botão confirmar para finalizar o processo de retorno de boletos dentro do Acsiv. 
 
 <div id="tabelair" />
-<b>22. Tabela IR</b>   
+<b>23. Tabela IR</b>   
 
 
 Tabela IR *(Menu > Financeiro > Tabela IR)*.
@@ -922,7 +927,7 @@ Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bo
 
 
 <div id="transferências" />
-<b>23. Transferências</b> 
+<b>24. Transferências</b> 
 
 Transferências *(Menu > Financeiro > Transferências)*, utilizado para realizar transferências entre contas do cartório.
 
@@ -948,7 +953,7 @@ Logo, a transferência será registrada no Contas a pagar / Contas a receber, ac
 
 
 <div id="relatórios" />
-<b>24. Relatórios</b> 
+<b>25. Relatórios</b> 
 <br></br>
 Os Relatórios concentram um conjunto de informações com o objetivo de reportar resultados parciais ou totais de uma determinada prática do cartório.
 
