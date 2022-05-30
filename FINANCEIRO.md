@@ -5,7 +5,7 @@
 [3. BOLETOS](#boletos)<br>
 [4. CAIXA - APURAÇÃO](#caixaapuração)<br>
 [5. CAIXA - ENTRADAS](#caixaentradas)<br>
-[6. CAIXA SAÍDAS](#caixasaídas)<br>
+[6. CAIXA - SAÍDAS](#caixasaídas)<br>
 [7. CENTRO DE CUSTOS](#centrodecustos)<br>
 [8. CONDIÇÕES DE PAGAMENTOS](#condiçõesdepagamentos)<br>
 [9. CONTAS A PAGAR](#contasapagar)<br>
