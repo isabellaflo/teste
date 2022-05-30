@@ -137,6 +137,24 @@ Caixa - Apuração <i>(Menu > Financeiro > Caixa - Apuração)</i> Possível rea
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Caixa_Apura%C3%A7%C3%A3o/1.PNG" width="700" />
 </div>
 <br>
+Para abertura do caixa, basta selecionar <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Caixa_Apura%C3%A7%C3%A3o/Botao_Novo.PNG" />, como demonstrado a seguir:
+<br></br>
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Caixa_Apura%C3%A7%C3%A3o/1_1.PNG" />
+<br></br>
+
+**a. Código:** Gerado automaticamente pelo sistema.
+
+**b. Conta:** Possível selecionar a conta a ser aberta.
+
+**c. Situação:** Selecione qual a situação será realizada <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Caixa_Apura%C3%A7%C3%A3o/Botao_Fecha_Caixa.png" /> 
+* Aberto: Para abertura da conta.
+* Fechado: Para fechamento da conta. 
+
+**d. Dt. lançamento:** Data do lançamento.
+
+**e. Atendente:** Nome do funcionário responsável pela abertura/fechamento do caixa.
+
+**f. Observações :** Observação referente a abertura/fechamento do caixa.
 
 
 <div id="caixaentradas" />
