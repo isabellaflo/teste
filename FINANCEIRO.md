@@ -134,7 +134,7 @@ Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório em
 
 Caixa - Apuração <i>(Menu > Financeiro > Caixa - Apuração)</i> Possível realizar abertura e fechamento do caixa do cartório.
 <div align="center">
-<img src="" width="" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Caixa_Apura%C3%A7%C3%A3o/1.PNG" width="700" />
 </div>
 <br>
 
