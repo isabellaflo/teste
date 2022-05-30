@@ -384,6 +384,7 @@ Assim que a conta for quitada, na tela de contas a pagar será apresentada da se
 * *Estornar:* É possível estornar um título que foi quitado indevidamente.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_10.PNG" />
+Após estornar, o título retorna para títulos não quitados.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_11.PNG" />
 
