@@ -137,7 +137,9 @@ Caixa - Apuração <i>(Menu > Financeiro > Caixa - Apuração)</i> Possível rea
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Caixa_Apura%C3%A7%C3%A3o/1.PNG" width="700" />
 </div>
 <br>
-
+Para abertura do caixa, basta selecionar <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Caixa_Apura%C3%A7%C3%A3o/Botao_Novo.PNG" />
+<br></br>
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Caixa_Apura%C3%A7%C3%A3o/1_1.PNG" />
 
 <div id="caixaentradas" />
 <b>5. Caixa - Entradas </b>
