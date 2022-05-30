@@ -146,7 +146,7 @@ Para abertura do caixa, basta selecionar <img src="https://github.com/gislenetav
 
 **b. Conta:** Possível selecionar a conta a ser aberta.
 
-**c. Situação:** Selecione qual a situação será realizada <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Caixa_Apura%C3%A7%C3%A3o/Botao_Fecha_Caixa.png" /> 
+**c. Situação:** Selecione qual a situação será realizada <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Caixa_Apura%C3%A7%C3%A3o/Bot%C3%A3o_Situacao.png" />. 
 * Aberto: Para abertura da conta.
 * Fechado: Para fechamento da conta. 
 
@@ -154,7 +154,7 @@ Para abertura do caixa, basta selecionar <img src="https://github.com/gislenetav
 
 **e. Atendente:** Nome do funcionário responsável pela abertura/fechamento do caixa.
 
-**f. Observações :** Observação referente a abertura/fechamento do caixa.
+**f. Observações :** Observação referente a abertura/fechamento da conta.
 
 
 <div id="caixaentradas" />
