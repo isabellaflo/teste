@@ -142,18 +142,18 @@ Para abertura do caixa, basta selecionar <img src="https://github.com/gislenetav
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Caixa_Apura%C3%A7%C3%A3o/1_1.PNG" />
 <br></br>
 
-**a. Código:** Gerado automaticamente pelo sistema
-<br></br>
+**a. Código:** Gerado automaticamente pelo sistema.
+
 **b. Conta:** Possível selecionar a conta que o caixa será aberto.
-<br></br>
+
 **c. Situação:** Selecione qual a situação será realizada <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Caixa_Apura%C3%A7%C3%A3o/Botao_Fecha_Caixa.png" />.
-<br></br>
-**d. Dt. lançamento:**
-<br></br>
-**e. Atendente:**
-<br></br>
-**f. Observações :**
-<br></br>
+
+**d. Dt. lançamento:** Data do lançamento.
+
+**e. Atendente:** Nome do funcionário responsável pela abertura/fechamento do caixa.
+
+**f. Observações :** Observação referente a abertura/fechamento do caixa.
+
 
 <div id="caixaentradas" />
 <b>5. Caixa - Entradas </b>
