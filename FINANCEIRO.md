@@ -399,7 +399,7 @@ Após estornar, o título retorna para títulos não quitados.
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_13.PNG" />
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_15.PNG" />
 
-* *Taxas:* Possível definir a porcentagem da taxa, pelo <i>(Menu > Financeiro > Configurações > aba Contas a receber)</p>  conforme imagem a seguir:
+* *Taxas:* Possível definir a porcentagem da taxa, pelo <i>(Menu > Financeiro > Configurações > aba Contas a receber)</i></p>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Contas_apagar_configuracoes_taxas.PNG" />
 <br></br>
 Ao selecionar o título, é apresentado conforme imagem abaixo:
