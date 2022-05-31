@@ -428,7 +428,7 @@ Detalharemos uma conta a receber através de um recibo para mensalista, pelo *(M
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/10_Recibo.PNG" />
 
-Na forma de pagamento escolhemos o mensalista.
+Na forma de pagamento o mensalista esta selecionado.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/10_Recibo_1.PNG" />
 
@@ -436,19 +436,18 @@ Como ficará esse recibo no contas a receber:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_1.PNG" />
 
-Os títulos apresentados na tela na parte superior <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/N%C3%A3o_Quitados.PNG" /> significa que são títulos em abertos que não foram quitados ainda, após quitar, o mesmo aparecerá na parte inferior da tela <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Quitados.PNG" />
+Os títulos apresentados na tela na parte superior <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/N%C3%A3o_Quitados.PNG" /> significa que são títulos em abertos que não foram quitados ainda, após quitar, o mesmo aparecerá na parte inferior da tela <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Quitados.PNG" />.
 
 
-
-<center><i>Mostraremos algumas funcionalidades:</i></center>
+<div align="center"><i>Mostraremos algumas funcionalidades:</i></div>
 
 ---
 
 
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/pesquisar.PNG" />Pesquisa todas contas a receber do cartório. 
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/pesquisar.PNG" /> Pesquisa todas contas a receber do cartório. 
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/quitar.PNG" /> É possível quitar um ou mais títulos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/quitar.PNG" /> É possível quitar um ou mais títulos, conforme imagem a seguir:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_2.PNG" />
 Assim que a conta for quitada, na tela de contas a receber será apresentada da seguinte maneira:
