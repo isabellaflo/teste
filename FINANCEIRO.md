@@ -784,7 +784,7 @@ Plano de contas (*Menu > Financeiro > Plano de contas*) é possível cadastrar a
 
 
 
-Para criar um novo plano de contas, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Novo.PNG" />, depois em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Botao_novo.PNG" /> , neste exemplo criaremos o plano de conta *Receitas*. 
+Para criar um novo plano de contas, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Novo.PNG" /> depois em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Botao_novo.PNG" /> neste exemplo criaremos o plano de conta *Receitas*. 
 
 
 
@@ -794,7 +794,7 @@ A seguir, será demonstrado o plano de contas com suas subcontas.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_3.PNG" />
 
-Para criar uma subconta, selecione a conta pela qual será criada a subconta *ex.:* <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Despesas.PNG" />, em seguida em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Novo.PNG" /> .
+Para criar uma subconta, selecione a conta pela qual será criada a subconta *ex.:* <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Despesas.PNG" /> em seguida em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Novo.PNG" /> .
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_4.PNG" />
 
@@ -804,11 +804,12 @@ Para criar uma subconta, selecione a conta pela qual será criada a subconta *ex
 
 **c. Carnê leão:** Número da conta do carnê leão.
 
-**d. Descrição:** Descrição da conta, *ex.: Aluguel*.
+**d. Descrição:** Descrição da conta, <i>ex.: <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_contas_botao_aluguel.PNG" /></i>.
 
-**e. Conta superior:** Conta superior da conta criada, *ex.: 2.Despesas*.
 
-**f. Previsão mensal:** Valor previsto mensalmente para entrar/sair da conta.
+**e. Conta superior:** Conta superior da conta criada, <i>ex.: <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Despesas.PNG" /></i>.
+
+**f. Previsão mensal:** Valor previsto mensalmente para entrar/sair do plano de contas.
 
 **g. Marcação:** Recurso para filtrar a conta com um código interno, podendo utilizar esse filtro na emissão do relatório livro caixa *(Menu > Financeiro > Relatórios > R. Livro caixa)*.
 
@@ -816,13 +817,14 @@ Para criar uma subconta, selecione a conta pela qual será criada a subconta *ex
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Conta_de_resultados.PNG" /> Apura resultado financeiro, se desmarcar não será apresentado no relatório de livro caixa.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Contas_receber.PNG" /> Deve-se marcar quando se tratar de contas a receber *Ex.:* <font color = 'green'> Receitas</font>.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Contas_receber.PNG" /> Deve-se marcar quando se tratar de contas a receber <i>ex.: <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_contas_botao_receitas.PNG" /></i>.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_A_Pagar.PNG" /> Marcar quando se referir a contas a pagar *Ex.:*  <font color = 'red'> Despesas</font>.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_A_Pagar.PNG" /> Marcar quando se referir a contas a pagar *
+<i>ex.: <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Despesas.PNG" /></i>.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_N%C3%A3o_dedutivel.PNG" /> Com esta opção marcada o plano de conta não gera imposto de renda.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Recorrente.PNG" /> Quando se tratar de despesas recorrente, marque essa opção. *Ex.: Aluguel*.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Recorrente.PNG" /> Quando se tratar de despesas recorrente, marque essa opção. <i>ex.: <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_contas_botao_aluguel.PNG" /></i>..
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Desativo.PNG" /> Desativa o plano de contas.
 
@@ -832,17 +834,14 @@ Para criar uma subconta, selecione a conta pela qual será criada a subconta *ex
 
 Neste exemplo, foi criado a conta de aluguel como receita, mas se trata de uma despesa, basta clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Transferir_Conta.PNG" /> para transferir a conta.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_6.PNG" />  Subconta se encontra no plano de contas receitas com número **1.2**. Aluguel, a mesma será transferida para o plano de contas despesas número **2**..
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_6.PNG" />
+Subconta se encontra no plano de contas receitas com número **2.2**. Aluguel, a mesma será transferida para o plano de contas despesas número **2**..
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_7.PNG" />
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_8.PNG" />
 
 Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_sim.PNG" /> a subconta será transferida.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_9.PNG" /> 
-
-Perceba que a subconta ficou com o número **1.2**, basta clicar em cima da subconta <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Subconta_Aluguel.PNG" />  em seguida <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/abrir.PNG" />  para alterar para a numeração correta *ex.:*  **2.2**..
-
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_Contas_Finalizado.PNG" />
 
 
 <div id="receitasfixas" />
