@@ -552,7 +552,7 @@ Após programada a data, será apresentado na tela de contas a receber com a *Dt
 <div id="contasfinanceiras" />
 <b>11. Contas financeiras</b>
 
-Contas financeiras *(Menu > Financeiro > Contas financeiras)* , utilizado para realizar cadastro de alguma conta financeira,  se for o caixa físico do cartório, basta marcar tipo *Caixa* e colocar o nome desejado. Se for banco, deve-se preencher algumas outras informações, conforme imagem a seguir:
+Contas financeiras *(Menu > Financeiro > Contas financeiras)* , utilizado para realizar cadastro de conta financeira,  se for o caixa físico do cartório, basta marcar tipo *Caixa* e colocar o nome desejado. Se for banco, deve-se preencher algumas outras informações, conforme imagem a seguir:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/12_Contas_Financeiras_1.PNG" />
 
@@ -577,8 +577,8 @@ Contas financeiras *(Menu > Financeiro > Contas financeiras)* , utilizado para r
 ---
 
 
-
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/checkbox_n%C3%A3o_fecha_caixa.PNG" /> Ao marcar essa opção, não será apresentado nenhum informação nos relatórios do financeiro.
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/checkbox_desativada.PNG" />Ao marcar, será desativado essa conta.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/checkbox_emissao_de_boleto_autorizada.PNG" /> Quando o cartório trabalha com emissão de boletos, deve-se marcar o checkbox e preencher as informações conforme imagem abaixo. *OBS.: Essas informações são fornecidas pelo banco*. Mas se o cartório ainda não trabalha com emissão de boletos e gostaria de trabalhar. É necessário verificar se o banco é homologado,se sim, entrar em contato com o gerente, informar que quer emitir boleto de terceiros.
