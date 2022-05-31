@@ -924,7 +924,7 @@ Retorno de boletos *(Menu > Financeiro > Retorno de boletos)* Utilizado para faz
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Retorno_Boletos.PNG" />
 
-Como estamos em uma base de homologação não será possível apresentar a tela com os devidos títulos*(boletos)* , mas ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Retorno_Boletos_Importar.PNG" /> é possível pegar os títulos*(boletos)* que foram exportados do sistema do banco para serem importados dentro da Acsiv. Ao finalizar a importação, basta clicar no botão confirmar para finalizar o processo de retorno de boletos dentro do Acsiv. 
+Como estamos em uma base de homologação não será possível apresentar a tela com os devidos títulos*(boletos)* , mas ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Retorno_Boletos_Importar.PNG" /> é possível pegar os títulos<i>(boletos)</i> que foram exportados do sistema do banco para serem importados dentro do Acsiv. Ao finalizar a importação, basta clicar no botão confirmar para finalizar o processo de retorno de boletos dentro do Acsiv. 
 
 <div id="tabelair" />
 <b>23. Tabela IR</b>   
@@ -956,23 +956,24 @@ Transferências *(Menu > Financeiro > Transferências)*, utilizado para realizar
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/24_Transferencias_1.PNG" />
 
-Preencha os campos para a realização da transferência, nesse exemplo foi transferido um valor do *CAIXA* (caixa físico do cartório) para a conta bancária *ITAÚ* (conta bancário do cartório).
+Preencha os campos para a realização da transferência, nesse exemplo foi transferido um valor do *CAIXA* (caixa físico do cartório) para a conta bancária <i>SICOOB</i>nta bancário do cartório).
 
 Após o preenchimento dos campos, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Transferir_Bot%C3%A3o.PNG" /> para efetivar a transferência entre as contas.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/24_Transferencias_2.PNG" />
 
-Logo, a transferência será registrada no Contas a pagar / Contas a receber, acesse o (*Menu > Financeiro > contas a pagar / contas a receber).*
+Logo, a transferência será registrada no Contas a pagar / Contas a receber, <i>(Menu > Financeiro > contas a pagar / contas a receber).</i>
 
-*Contas a pagar:*
+
+<i>Contas a pagar:</i>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/24_Transferencias_3.PNG" />
 
-*Contas a receber:* 
+<i>Contas a receber:</i>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/24_Transferencias_4.PNG" />
 
-**OBS:** Vale lembrar que essa transferência acontece apenas dentro do cartório pelas contas cadastradas no  no (*Menu > Financeiro > Contas financeiras*) não movimenta a conta bancária real do cartório (*Controle interno*).
+**OBS:** Vale lembrar que essa transferência acontece apenas dentro do cartório pelas contas cadastradas no  no <i>(Menu > Financeiro > Contas financeiras)</i> não movimenta a conta bancária real do cartório <i>(Controle interno)</i>.
 
 
 <div id="relatórios" />
