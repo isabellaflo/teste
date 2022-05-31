@@ -987,7 +987,7 @@ Os Relatórios concentram um conjunto de informações com o objetivo de reporta
 </div>
 <br>
 
-Vale lembrar, que existe a possibilidade de realizar filtros na emissão do relatório. Com base no relatório de *contas a pagar* , segue exemplo: 
+Vale lembrar, que existe a possibilidade de realizar filtros na emissão do relatório, com base no relatório de <i>contas a pagar</i> , segue exemplo: 
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_2.PNG" />
 
@@ -1111,9 +1111,9 @@ Possível visualizar registros de contas financeiras do cartório.
 
 **d. Tipo:** Selecione entre os 2 tipos (Resumido ou Detalhado).
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Extrato_Contas_Exibir_Saldo.PNG" />.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Extrato_Contas_Exibir_Saldo.PNG" /> Exibe o saldo da conta.
 
-*Para filtrar uma determinada conta financeira, basta inserir os dados nas abas contas financeiras e formas de pagamento conforme exemplo abaixo:*
+<i>Para filtrar uma determinada conta financeira, basta inserir os dados nas abas contas financeiras e formas de pagamento conforme exemplo abaixo:</i>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Extrato_contas_Filtro_Contas_financeiras.PNG" />
 <br></br>
@@ -1164,7 +1164,7 @@ O fechamento de caixa consiste no retorno do processo diário de conferência da
 
 **e. Origem:** Selecione entre as 2 origem, Se foi praticado pelo caixa ou pelo balcão de notas <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Origem.png" />. 
 
-**f. Forma PG:** Selecione a forma que deseja visualizar no relatório,pois retorna no relatório apenas a forma de pagamento selecionada !<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Forma_De_Pagamento.png" /> .
+**f. Forma PG:** Há a possibilidade de filtrar uma forma de pagamento para ser apresentado no relatório <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Forma_De_Pagamento.png" /> .
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Exibir_saldo.PNG" /> Exibe o saldo anterior do caixa. 
 
@@ -1215,13 +1215,13 @@ Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as rece
 
    
 
-**Data do lançamento:** Data do dia do lançamento da despesa/receita <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/r.Livro_Auxiliar_Data_lancamento.PNG" />.
+**a. Data do lançamento:** Data do dia do lançamento da despesa/receita <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/r.Livro_Auxiliar_Data_lancamento.PNG" />.
 
-**Tipo:** Selecione entre os 4 tipos <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Tipo.PNG" /> de acordo com a necessidade.
+**b. Tipo:** Selecione entre os 4 tipos <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Tipo.PNG" /> de acordo com a necessidade.
 
-**Apuração:** Selecione a apuração correspondente <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Apuracao.PNG" />.
+**c. Apuração:** Selecione a apuração correspondente <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Apuracao.PNG" />.
 
-**Complemento:** Complemento para colocar no livro auxiliar conforme provimento nº 45/2015. Nele é possível colocar o número do livro, folha inicial, folha final para controle interno <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Complemento.PNG" />. 
+**d. Complemento:** Complemento para colocar no livro auxiliar conforme provimento nº 45/2015. Nele é possível colocar o número do livro, folha inicial, folha final para controle interno <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Complemento.PNG" />. 
 
 **Mais opções:**
 
@@ -1265,7 +1265,8 @@ Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as rece
 Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos dos serviços notariais e cartoriais que serão tributados mensalmente pelo imposto de renda pessoa física(*IRPF*) .
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_14.PNG" />
- *Gerar Documentos* <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Carne_Leao_Opcoes.png" /> é possível gerar guia DARF/Exportar Carnê Leão.
+
+ <i>Gerar Documentos</i> <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Carne_Leao_Opcoes.png" /> é possível gerar guia DARF/Exportar Carnê Leão.
 
 **a. Data inicial:** Data inicial automática do dia, mas poderá ser alterada caso necessário. 
 
@@ -1299,11 +1300,11 @@ Relatório plano de contas, retorna todos os lançamentos praticados no cartóri
 
  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_15.PNG" />
 
-**Data:** Selecione entre as 4 datas (Lançamento, vencimento, pagamento, liquidação).
+**a. Data:** Selecione entre as 4 datas (Lançamento, vencimento, pagamento, liquidação).
 
-**Dt. inicial:** Data inicial do dia, mas poderá ser alterada se necessário.
+**b. Dt. inicial:** Data inicial do dia, mas poderá ser alterada se necessário.
 
-**Dt. final:** Data final do dia, mas poderá ser alterada se necessário.
+**c. Dt. final:** Data final do dia, mas poderá ser alterada se necessário.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Aplicar_Somatorio.PNG" /> Aplica somatório no início de cada grupo.
 
@@ -1327,19 +1328,19 @@ Relatório Receita diário exibe as receitas diárias do cartório.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_16.PNG" />
 
-**Data inicial:** Data inicial do dia, mas poderá ser alterada se necessário.
+**a. Data inicial:** Data inicial do dia, mas poderá ser alterada se necessário.
 
-**Data final:** Data final do dia, mas poderá ser alterada se necessário.
+**b. Data final:** Data final do dia, mas poderá ser alterada se necessário.
 
-**Tipo:** Selecione entre os 4 tipos ( Resumido 1, Resumido 2, Detalhado 1, Detalhado 2).
+**c. Tipo:** Selecione entre os 4 tipos ( Resumido 1, Resumido 2, Detalhado 1, Detalhado 2).
 
-**Ordem:** Selecione entre as 2 ordens ( Cód. tabela, Código).
+**d. Ordem:** Selecione entre as 2 ordens ( Cód. tabela, Código).
 
-**Atendente:** Será possível selecionar por um funcionário em específico.
+**e. Atendente:** Será possível selecionar por um funcionário em específico.
 
-**Origem:** Origem que foi realizado o ato. Se foi praticado pelo caixa ou pelo balcão de notas.
+**f. Origem:** Origem que foi realizado o ato, se foi praticado pelo caixa ou pelo balcão de notas.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_CB_Exibir_Deposito_Previo_Convertido.PNG" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_CB_Exibir_Deposito_Previo_Convertido.PNG" /> Exibe depósito prévio convertido. 
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_CB_Nao_Agrupar_Por_Atendente.PNG" /> Não agrupa por atendente.
 
