@@ -579,12 +579,12 @@ Contas financeiras *(Menu > Financeiro > Contas financeiras)* , utilizado para r
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/checkbox_n%C3%A3o_fecha_caixa.PNG" /> Ao marcar essa opção, não será apresentado nenhum informação nos relatórios do financeiro.
 <br></br>
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/checkbox_desativada.PNG" />Ao marcar, será desativado essa conta.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/checkbox_desativada.PNG" /> Ao marcar, será desativado essa conta.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/checkbox_emissao_de_boleto_autorizada.PNG" /> Quando o cartório trabalha com emissão de boletos, deve-se marcar o checkbox e preencher as informações conforme imagem abaixo. *OBS.: Essas informações são fornecidas pelo banco*. Mas se o cartório ainda não trabalha com emissão de boletos e gostaria de trabalhar. É necessário verificar se o banco é homologado,se sim, entrar em contato com o gerente, informar que quer emitir boleto de terceiros.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/checkbox_emissao_de_boleto_autorizada.PNG" /> Quando o cartório trabalha com emissão de boletos, deve-se marcar o checkbox e preencher as informações conforme imagem abaixo. *OBS.: Essas informações são fornecidas pelo banco*. Mas se o cartório ainda não trabalha com emissão de boletos e gostaria de trabalhar. É necessário verificar se o banco é homologado,se sim, entrar em contato com o gerente, informar que quer emitir boleto de terceiros e solicitar as informações dos campos conforme imagem abaixo:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/12_Contas_Financeiras_2.PNG" />
-
+<br></br>
 **Aba Arquivos:** Só é preenchida depois que o aplicativo do banco estiver instalado na máquina.
 
 **Aba Especial:** É preenchida quando a conta está em nome de pessoa jurídica, por exemplo, mas por alguma razão é necessário que o boleto saia no CPF.
@@ -592,14 +592,15 @@ Contas financeiras *(Menu > Financeiro > Contas financeiras)* , utilizado para r
 
 <div id="créditocomercial" />
 <b>12. Crédito comercial</b>
-
-Crédito comercial *(Menu > Financeiro > Crédito comercial)*, funciona como uma espécie de pré-pago, o cliente "compra créditos" antes de precisar usar.
-
+<br></br>
+Crédito comercial <i>(Menu > Financeiro > Crédito comercial)</i>, funciona como uma espécie de pré-pago, o cliente<i>(Mensalista)</i> "compra créditos" antes de precisar usar.
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/13_Credito_Comercial_1.PNG" />
-
+<br></br>
 Ao selecionar o histórico de créditos <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Historico_creditos.PNG" /> é possível verificar todo o histórico de crédito do cliente.
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/13_Credito_Comercial_2.PNG" />
-
+<br></br>
 
 <div id="darf" />
 <b>13. DARF</b>
