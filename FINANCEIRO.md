@@ -424,10 +424,6 @@ A movimentação da tela conta a receber se dá através do lançamento do recib
 
 
 
-<p align="center"<i> Demonstraremos um recibo para mensalista do Cartório.</i></p>
-
----
-
 Detalharemos uma conta a receber através de um recibo para mensalista, pelo *(Menu > Cartório > Recibos)* para criar um novo recibo.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/10_Recibo.PNG" />
