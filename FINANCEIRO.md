@@ -392,14 +392,19 @@ Após estornar, o título retorna para títulos não quitados.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_12.PNG" />
 
-* *Liquidar:*  **Falta pegar informação com Alisson de como funciona**.
+* *Liquidar:*  Data que foi liquidada na conta do cartório, <i><b>Ex.:</b> Cliente realizou o pix agendado, a data de liquidação é a data que o cliente agendou.</i>
 
 * *Programar:* É possível programar a data que será quitado o título.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_13.PNG" />
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_15.PNG" />
 
-* *Taxas:*  **Falta pegar informação com Alisson de como funciona**.
+* *Taxas:* Possível definir a porcentagem, pelo <i>(Menu > Financeiro > Configurações > aba Contas a receber)</p>  é possível definir conforme imagem a seguir:
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Contas_apagar_configuracoes_taxas.PNG" />
+<br></br>
+Ao selecionar o título é apresentado conforme imagem abaixo:
+<br></br>
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Contas_apagar_configuracoes_taxas_fim.PNG" />
 
 * *Unificar:* É possível unificar dois títulos para pagar de uma só vez. *Obs.:* Precisa selecionar o credor antes de unificar os títulos conforme exemplo.
 
