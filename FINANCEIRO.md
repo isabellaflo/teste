@@ -713,7 +713,7 @@ Formas de pagamentos *(Menu > Financeiro > Formas de pagamentos)*, possível cad
 <b>17. Logs financeiros</b>
 
 
-Logs financeiros *(Menu > Financeiro > Logs financeiros)*  são registros de eventos ocorridos dentro do Menu financeiro.
+Logs financeiros *(Menu > Financeiro > Logs financeiros)*  são registros de eventos ocorridos dentro do <i>Menu financeiro</i>.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/18_Logs_financeiros_1.PNG" />
 
@@ -754,7 +754,6 @@ Para utilizar esta pasta, basta acessar o (*Menu > Financeiro > Contas a receber
 Pesquise o mensalista que precisa ser arquivado na pasta inadimplentes pelo binóculo <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Devedor.PNG" />.
 
 Neste exemplo vamos filtrar o *mensalista teste:*
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Devedor.PNG" />
 
 Selecione os títulos que devem ser arquivados na pasta e clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Contas_Receber_Botao_Abrir.PNG" />, será apresentado a seguinte tela:
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_5.PNG" />
@@ -765,16 +764,14 @@ Basta selecionar a pasta criada <img src="https://github.com/gislenetavaresacsiv
 
 
 Após preencher o campo pasta, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Contas_a_receber_Botao_Salvar.PNG" />
-para que o título seja salvo na pasta inadimplentes. Note que depois de salvo, o título não aparecerá mais na tela de contas as receber conforme imagem abaixo.
+para que o título seja salvo na pasta inadimplentes. Note que depois de salvo, o título não aparecerá mais na tela de contas as receber conforme imagem abaixo:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_7.PNG" />
 
 
-Também é possível pesquisar o título que foi arquivado na pasta inadimplentes, acessando o (*Menu > Financeiro > Contas a receber*), e pesquise pelo nome do cliente para que possa aparecer o título arquivado como inadimplentes.
+Também é possível pesquisar o título que foi arquivado na pasta inadimplentes, acessando o (*Menu > Financeiro > Contas a receber*), pesquise pelo nome do cliente para que possa aparecer o título arquivado como inadimplentes.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_8.PNG" />
-
-Como mostrado na imagem anterior, o título marcado como inadimplentes é a primeira linha.
 
 
 <div id="planodecontas" />
