@@ -617,7 +617,7 @@ Ao finalizar o preenchimento dos campos, clique em <img src="https://github.com/
 
 
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/14_Darf_3.PNG" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/14_Darf_3.PNG" width="400"/>
 
 
 <div id="despesasfixas" />
