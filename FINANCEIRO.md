@@ -666,7 +666,7 @@ Processo finalizado.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Despesas_recorrentes_lan%C3%A7adas.PNG" />
 
-Pode-se verificar o lançamento da despesa recorrente pelo *Menu > Financeiro > Contas a pagar.*
+Pode-se verificar o lançamento da despesa recorrente pelo <i>(Menu > Financeiro > Contas a pagar).</i>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/16_Despesas_recorrentes_3.PNG" />
 
@@ -697,13 +697,14 @@ Formas de pagamentos *(Menu > Financeiro > Formas de pagamentos)*, possível cad
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_ProgramadaD%2B.PNG" /> Data que será creditado na conta do cartório. *Ex.: Cartão de débito, usando d+1 o pagamento cairia no dia + 1*.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_ProgramadaFixa.PNG" /> Data fixa para ser creditada na conta do cartório. *Ex.: Cartão de crédito, dia fixo pro pagamento cair na conta.*
+
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Taxa.PNG" /> Taxa administrativa, utilizada quando houver necessidade.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_N%C3%A3o_Acrescentar.PNG" /> Selecionar de acordo com a forma que trabalha o cartão *Ex.: Cartexpress,etc.* 
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Permitir_Parcelamento.PNG" /> Segue a mesma funcionalidade do item anterior.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Realizar_analise.PNG" /> Refere-se ao item 1. Análise de crédito.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Realizar_analise.PNG" /> Refere-se ao item [1. Análise de crédito ](#analise).
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Desativada.PNG" /> Desativa a forma de pagamento.
 
