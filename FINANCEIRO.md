@@ -392,14 +392,19 @@ Após estornar, o título retorna para títulos não quitados.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_12.PNG" />
 
-* *Liquidar:*  **Falta pegar informação com Alisson de como funciona**.
+* *Liquidar:*  Data que foi liquidada na conta do cartório.
 
 * *Programar:* É possível programar a data que será quitado o título.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_13.PNG" />
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_15.PNG" />
 
-* *Taxas:*  **Falta pegar informação com Alisson de como funciona**.
+* *Taxas:* Possível definir a porcentagem da taxa, pelo <i>(Menu > Financeiro > Configurações > aba Contas a receber)</i></p>
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Contas_apagar_configuracoes_taxas.PNG" />
+<br></br>
+Ao selecionar o título, é apresentado conforme imagem abaixo:
+<br></br>
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Contas_apagar_configuracoes_taxas_fim.PNG" />
 
 * *Unificar:* É possível unificar dois títulos para pagar de uma só vez. *Obs.:* Precisa selecionar o credor antes de unificar os títulos conforme exemplo.
 
@@ -419,15 +424,11 @@ A movimentação da tela conta a receber se dá através do lançamento do recib
 
 
 
-<p align="center"<i> Demonstraremos um recibo para mensalista do Cartório.</i></p>
-
----
-
 Detalharemos uma conta a receber através de um recibo para mensalista, pelo *(Menu > Cartório > Recibos)* para criar um novo recibo.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/10_Recibo.PNG" />
 
-Na forma de pagamento escolhemos o mensalista.
+Na forma de pagamento o mensalista esta selecionado.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/10_Recibo_1.PNG" />
 
@@ -435,19 +436,18 @@ Como ficará esse recibo no contas a receber:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_1.PNG" />
 
-Os títulos apresentados na tela na parte superior <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/N%C3%A3o_Quitados.PNG" /> significa que são títulos em abertos que não foram quitados ainda, após quitar, o mesmo aparecerá na parte inferior da tela <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Quitados.PNG" />
+Os títulos apresentados na tela na parte superior <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/N%C3%A3o_Quitados.PNG" /> significa que são títulos em abertos que não foram quitados ainda, após quitar, o mesmo aparecerá na parte inferior da tela <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Quitados.PNG" />.
 
 
-
-<center><i>Mostraremos algumas funcionalidades:</i></center>
+<div align="center"><i>Mostraremos algumas funcionalidades:</i></div>
 
 ---
 
 
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/pesquisar.PNG" />Pesquisa todas contas a receber do cartório. 
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/pesquisar.PNG" /> Pesquisa todas contas a receber do cartório. 
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/quitar.PNG" /> É possível quitar um ou mais títulos.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/quitar.PNG" /> É possível quitar um ou mais títulos, conforme imagem a seguir:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_2.PNG" />
 Assim que a conta for quitada, na tela de contas a receber será apresentada da seguinte maneira:
@@ -468,9 +468,9 @@ Assim que a conta for quitada, na tela de contas a receber será apresentada da 
 ---
 
 
-
+<p align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Ferramentas_Receber.png" />
-
+</p>
 
 
 * *Alteração de valores:*  Ao selecionar o título é possível alterar os valores.
@@ -552,7 +552,7 @@ Após programada a data, será apresentado na tela de contas a receber com a *Dt
 <div id="contasfinanceiras" />
 <b>11. Contas financeiras</b>
 
-Contas financeiras *(Menu > Financeiro > Contas financeiras)* , utilizado para realizar cadastro de alguma conta financeira,  se for o caixa físico do cartório, basta marcar tipo *Caixa* e colocar o nome desejado. Se for banco, deve-se preencher algumas outras informações, conforme imagem a seguir:
+Contas financeiras *(Menu > Financeiro > Contas financeiras)* , utilizado para realizar cadastro de conta financeira,  se for o caixa físico do cartório, basta marcar tipo *Caixa* e colocar o nome desejado. Se for banco, deve-se preencher algumas outras informações, conforme imagem a seguir:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/12_Contas_Financeiras_1.PNG" />
 
@@ -577,14 +577,14 @@ Contas financeiras *(Menu > Financeiro > Contas financeiras)* , utilizado para r
 ---
 
 
-
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/checkbox_n%C3%A3o_fecha_caixa.PNG" /> Ao marcar essa opção, não será apresentado nenhum informação nos relatórios do financeiro.
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/checkbox_desativada.PNG" />Ao marcar, será desativado essa conta.
+<br></br>
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/checkbox_desativada.PNG" /> Ao marcar, será desativado essa conta.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/checkbox_emissao_de_boleto_autorizada.PNG" /> Quando o cartório trabalha com emissão de boletos, deve-se marcar o checkbox e preencher as informações conforme imagem abaixo. *OBS.: Essas informações são fornecidas pelo banco*. Mas se o cartório ainda não trabalha com emissão de boletos e gostaria de trabalhar. É necessário verificar se o banco é homologado,se sim, entrar em contato com o gerente, informar que quer emitir boleto de terceiros.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/checkbox_emissao_de_boleto_autorizada.PNG" /> Quando o cartório trabalha com emissão de boletos, deve-se marcar o checkbox e preencher as informações conforme imagem abaixo. *OBS.: Essas informações são fornecidas pelo banco*. Mas se o cartório ainda não trabalha com emissão de boletos e gostaria de trabalhar. É necessário verificar se o banco é homologado,se sim, entrar em contato com o gerente, informar que quer emitir boleto de terceiros e solicitar as informações dos campos conforme imagem abaixo:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/12_Contas_Financeiras_2.PNG" />
-
+<br></br>
 **Aba Arquivos:** Só é preenchida depois que o aplicativo do banco estiver instalado na máquina.
 
 **Aba Especial:** É preenchida quando a conta está em nome de pessoa jurídica, por exemplo, mas por alguma razão é necessário que o boleto saia no CPF.
@@ -592,14 +592,15 @@ Contas financeiras *(Menu > Financeiro > Contas financeiras)* , utilizado para r
 
 <div id="créditocomercial" />
 <b>12. Crédito comercial</b>
-
-Crédito comercial *(Menu > Financeiro > Crédito comercial)*, funciona como uma espécie de pré-pago, o cliente "compra créditos" antes de precisar usar.
-
+<br></br>
+Crédito comercial <i>(Menu > Financeiro > Crédito comercial)</i>, funciona como uma espécie de pré-pago, o cliente<i>(Mensalista)</i> "compra créditos" antes de precisar usar.
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/13_Credito_Comercial_1.PNG" />
-
+<br></br>
 Ao selecionar o histórico de créditos <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Historico_creditos.PNG" /> é possível verificar todo o histórico de crédito do cliente.
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/13_Credito_Comercial_2.PNG" />
-
+<br></br>
 
 <div id="darf" />
 <b>13. DARF</b>
@@ -616,7 +617,7 @@ Ao finalizar o preenchimento dos campos, clique em <img src="https://github.com/
 
 
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/14_Darf_3.PNG" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/14_Darf_3.PNG" width="400"/>
 
 
 <div id="despesasfixas" />
@@ -665,7 +666,7 @@ Processo finalizado.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Despesas_recorrentes_lan%C3%A7adas.PNG" />
 
-Pode-se verificar o lançamento da despesa recorrente pelo *Menu > Financeiro > Contas a pagar.*
+Pode-se verificar o lançamento da despesa recorrente pelo <i>(Menu > Financeiro > Contas a pagar).</i>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/16_Despesas_recorrentes_3.PNG" />
 
@@ -696,13 +697,14 @@ Formas de pagamentos *(Menu > Financeiro > Formas de pagamentos)*, possível cad
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_ProgramadaD%2B.PNG" /> Data que será creditado na conta do cartório. *Ex.: Cartão de débito, usando d+1 o pagamento cairia no dia + 1*.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_ProgramadaFixa.PNG" /> Data fixa para ser creditada na conta do cartório. *Ex.: Cartão de crédito, dia fixo pro pagamento cair na conta.*
+
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Taxa.PNG" /> Taxa administrativa, utilizada quando houver necessidade.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_N%C3%A3o_Acrescentar.PNG" /> Selecionar de acordo com a forma que trabalha o cartão *Ex.: Cartexpress,etc.* 
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Permitir_Parcelamento.PNG" /> Segue a mesma funcionalidade do item anterior.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Realizar_analise.PNG" /> Refere-se ao item 1. Análise de crédito.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Realizar_analise.PNG" /> Refere-se ao item [1. Análise de crédito ](#analise).
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Desativada.PNG" /> Desativa a forma de pagamento.
 
@@ -711,7 +713,7 @@ Formas de pagamentos *(Menu > Financeiro > Formas de pagamentos)*, possível cad
 <b>17. Logs financeiros</b>
 
 
-Logs financeiros *(Menu > Financeiro > Logs financeiros)*  são registros de eventos ocorridos dentro do Menu financeiro.
+Logs financeiros *(Menu > Financeiro > Logs financeiros)*  são registros de eventos ocorridos dentro do <i>Menu financeiro</i>.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/18_Logs_financeiros_1.PNG" />
 
@@ -752,7 +754,6 @@ Para utilizar esta pasta, basta acessar o (*Menu > Financeiro > Contas a receber
 Pesquise o mensalista que precisa ser arquivado na pasta inadimplentes pelo binóculo <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Devedor.PNG" />.
 
 Neste exemplo vamos filtrar o *mensalista teste:*
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Devedor.PNG" />
 
 Selecione os títulos que devem ser arquivados na pasta e clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Contas_Receber_Botao_Abrir.PNG" />, será apresentado a seguinte tela:
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_5.PNG" />
@@ -763,16 +764,14 @@ Basta selecionar a pasta criada <img src="https://github.com/gislenetavaresacsiv
 
 
 Após preencher o campo pasta, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Contas_a_receber_Botao_Salvar.PNG" />
-para que o título seja salvo na pasta inadimplentes. Note que depois de salvo, o título não aparecerá mais na tela de contas as receber conforme imagem abaixo.
+para que o título seja salvo na pasta inadimplentes. Note que depois de salvo, o título não aparecerá mais na tela de contas as receber conforme imagem abaixo:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_7.PNG" />
 
 
-Também é possível pesquisar o título que foi arquivado na pasta inadimplentes, acessando o (*Menu > Financeiro > Contas a receber*), e pesquise pelo nome do cliente para que possa aparecer o título arquivado como inadimplentes.
+Também é possível pesquisar o título que foi arquivado na pasta inadimplentes, acessando o (*Menu > Financeiro > Contas a receber*), pesquise pelo nome do cliente para que possa aparecer o título arquivado como inadimplentes.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_8.PNG" />
-
-Como mostrado na imagem anterior, o título marcado como inadimplentes é a primeira linha.
 
 
 <div id="planodecontas" />
