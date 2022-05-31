@@ -468,9 +468,9 @@ Assim que a conta for quitada, na tela de contas a receber será apresentada da 
 ---
 
 
-
+<p align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Ferramentas_Receber.png" />
-
+</p>
 
 
 * *Alteração de valores:*  Ao selecionar o título é possível alterar os valores.
