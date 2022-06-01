@@ -1260,6 +1260,7 @@ Possível visualizar registros de contas financeiras do cartório.
 Possível visualizar os registros dos mensalistas do cartório.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_8.PNG" />
+<br></br>
 
 **a. Dt. inicial:** Data inicial do dia, mas poderá ser alterada.
 
@@ -1268,10 +1269,12 @@ Possível visualizar os registros dos mensalistas do cartório.
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Extrato_Mensalistas_Nao_Exibir_Mensalistas_Com_Credito.PNG" /> Não exibe no relatório os mensalistas com crédito.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Extrato_Mensalistas_Nao_Exibir_Saldo_Anterior.PNG" /> Não exibe o saldo anterior dos mensalistas no relatório.
+<br></br>
 
-Na aba *Clientes (Mensalistas)*  é possível filtrar por um determinado cliente.
+Na aba <i>Clientes (Mensalistas)</i>  é possível filtrar por um determinado cliente.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_9.PNG" /> 
+<br></br>
 
 <div id="rfechamentodecaixa" />
 <b>R. Fechamento de caixa</b>
@@ -1282,7 +1285,8 @@ Na aba *Clientes (Mensalistas)*  é possível filtrar por um determinado cliente
 
 O fechamento de caixa consiste no retorno do processo diário de conferência das entradas e saídas do cartório.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_10.PNG" />    
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_10.PNG" />  
+<br></br>
 
 **a. Dt. inicial:** Data inicial do dia, mas poderá ser alterada.
 
@@ -1295,22 +1299,27 @@ O fechamento de caixa consiste no retorno do processo diário de conferência da
 **e. Origem:** Selecione entre as 2 origem, Se foi praticado pelo caixa ou pelo balcão de notas <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Origem.png" />. 
 
 **f. Forma PG:** Há a possibilidade de filtrar uma forma de pagamento para ser apresentado no relatório <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Forma_De_Pagamento.png" /> .
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Exibir_saldo.PNG" /> Exibe o saldo anterior do caixa. 
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_Caixa_exibir_saldo_marcado.PNG" />
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Agrupar_funcionario.PNG" /> Agrupa os atos por funcionário.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_caixa_agrupar_func_emissao.PNG" />
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Agrupar_plano_contas.PNG" /> Agrupa o plano de contas.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_caixa_agrupar_plano_contas.PNG" />
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Exibir_taxas.PNG" />  Exibe a taxa do cartão como uma saída no relatório.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_caixa_taxa_cartao.PNG" />
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Exibir_caixa_entrada.PNG" /> Apresentadas apenas as contas "Caixa" entradas.
 
@@ -1320,11 +1329,12 @@ O fechamento de caixa consiste no retorno do processo diário de conferência da
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_com_credito_mensalista.PNG" /> Pagamentos com créditos de mensalista serão apresentados.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_exibir_troco.PNG" /> Exibe troco devolvido ao cliente como uma saída no relatório. *Ex.: Valor total do recibo  58.83, valor recebido 60.00, troco 1.17 devolvido ao cliente*.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_exibir_troco.PNG" /> Exibe troco devolvido ao cliente como uma saída no relatório. <i><b>Ex.:</b> Valor total do recibo  58.83, valor recebido 60.00, troco 1.17 devolvido ao cliente</i>.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_caixa_exibir_troco_saida_emiss%C3%A3o.PNG" />
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_caixa_exibir_troco_entrada.PNG" /> Exibe troco como entrada.
+<br></br>
 
 <div id="rlivroauxiliar" />
 <b>R. Livro auxiliar</b>
@@ -1333,16 +1343,17 @@ O fechamento de caixa consiste no retorno do processo diário de conferência da
 <br></br>
 
 
-Segundo a corregedoria do CNJ (*Conselho Nacional de Justiça*), a escrituração do livro auxiliar se trata da receita e da despesa pelos responsáveis pelas delegações do serviço extrajudicial de notas e de registro. 
+Segundo a corregedoria do CNJ <i>(Conselho Nacional de Justiça)</i>, a escrituração do livro auxiliar se trata da receita e da despesa pelos responsáveis pelas delegações do serviço extrajudicial de notas e de registro. 
 
 Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as receitas e despesas do cartório.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_11.PNG" />
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_termo_abertura.PNG" /> Termo de abertura  utilizado para assinatura digital do livro, se configurado pelo *(Menu > Cartório > Configurações > Aba Livros)*  é possível  criar um texto pre definido *(Texto criado conforme a necessidade do cartório)* , podendo criar o texto no termo de  abertura quanto no termo de encerramento conforme imagem a seguir:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Botao_termo_abertura_Configuracao.PNG" />
-
+<br></br>
    
 
 **a. Data do lançamento:** Data do dia do lançamento da despesa/receita <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/r.Livro_Auxiliar_Data_lancamento.PNG" />.
@@ -1352,6 +1363,7 @@ Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as rece
 **c. Apuração:** Selecione a apuração correspondente <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Apuracao.PNG" />.
 
 **d. Complemento:** Complemento para colocar no livro auxiliar conforme provimento nº 45/2015. Nele é possível colocar o número do livro, folha inicial, folha final para controle interno <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Complemento.PNG" />. 
+<br></br>
 
 **Mais opções:**
 
@@ -1380,10 +1392,13 @@ Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as rece
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Termo_Abertura_Encerramento.PNG" /> Exibe o termo de abertura e encerramento.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Selecionar_Atos.PNG" /> Seleciona os atos específicos para ser apresentados no relatório.
+<br></br>
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/R.Livro_Auxiliar_Selecionar_Atos_Emissao.PNG" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/R_Livro_Auxiliar_Selecionar_Atos.PNG" />
+<br></br>
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Selecionar_Atos_Emiss%C3%A3o_fim.PNG" />
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/R_Livro_Auxiliar_Selecionar_Atos_Emissao.PNG" />
+<br></br>
 
 <div id="rlivrocaixa" />
 <b>R. Livro caixa</b>
