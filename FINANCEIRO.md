@@ -54,7 +54,7 @@ O objetivo será explicar os campos que compõe esse formulário, demonstrando c
 <b>1. Análise de crédito</b>
 <br></br>
 
-Análise de crédito *(Menu > Financeiro > Análise de crédito)* pode ser utilizada como uma análise de crédito dos mensalistas do cartório. Bastando cadastrar um limite de crédito e informar o nível de risco de habilitar crédito para determinado cliente.
+Análise de crédito <i>(Menu > Financeiro > Análise de crédito)</i> pode ser utilizada como uma análise de crédito dos mensalistas do cartório. Bastando cadastrar um limite de crédito e informar o nível de risco de habilitar crédito para determinado cliente.
 
 <div align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/2_Analise_De_Credito.PNG" width="700" />
@@ -62,21 +62,22 @@ Análise de crédito *(Menu > Financeiro > Análise de crédito)* pode ser utili
 
 **a. Cedente:** Funcionário que realizou a análise de crédito.
 
-**b. Tomador:** Mensalista *(Cliente)* analisado.
+**b. Tomador:** Mensalista <i>(Cliente)</i> analisado.
 
-**c.  Análise:**  Analisa a situação do mensalista *(Cliente)* antes de liberar o crédito.
+**c.  Análise:**  Analisa a situação do mensalista <i>(Cliente)</i> antes de liberar o crédito.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/2_1.png" /> selecionar as consultas realizadas durante a análise do cliente *(Mensalista)*.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/2_1.png" /> Selecionar as consultas realizadas durante a análise do cliente <i>(Mensalista)</i>.
 
 **d. Nível de risco:**  O nível de risco varia de 0 a 9, sendo 0 muito seguro habilitar crédito e 9 muito arriscado. 
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/2_2.png" /> Crédito habilitado do nível de risco, é possível habilitar o crédito.
 
-**e. Limite de crédito:**  Valor a liberar de crédito ao mensalista *(Cliente)*.
+**e. Limite de crédito:**  Valor a liberar de crédito ao mensalista <i>(Cliente)</i>.
 
-**f. Limite parcela:**  Limite da parcela a liberar ao mensalista *(Cliente).*
+**f. Limite parcela:**  Limite da parcela a liberar ao mensalista <i>(Cliente)</i>.
 
-**g. Observações:** É possível colocar alguma observação referente ao cliente (*Mensalista*).
+**g. Observações:** É possível colocar alguma observação referente ao cliente <i>(Mensalista)</i>.
+<br></br>
 
 
 <div id="bancos" />
@@ -95,13 +96,13 @@ Bancos <i>(Menu > Financeiro > Bancos)</i> é possível cadastrar banco, inserin
 **c. Nome:** Nome do banco.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/3_1.png" /> É possível desativar o banco se necessário.
-
+<br></br>
 
 <div id="boletos" />
 <b>3. Boletos</b>
 <br></br>
 
-Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório emite boletos. Ao salvar, o Acsiv cria um registro em contas a Receber.  
+Boletos <i>(Menu > Financeiro > Boletos)</i> utilizado quando o próprio cartório emite boletos. Ao salvar, o Acsiv cria um registro em contas a Receber.  
 
 <div align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/4_Boletos.PNG" width="700" />
@@ -127,6 +128,7 @@ Boletos *(Menu > Financeiro > Boletos)* utilizado quando o próprio cartório em
 **i. Forma de pagto.:** Forma de pagamento que será pago o boleto.
 
 **j. Conta:** Conta pela qual será creditado o boleto.
+<br></br>
 
 <div id="caixaapuração" />
 <b>4. Caixa - Apuração</b>
@@ -155,7 +157,7 @@ Para abertura do caixa, basta selecionar <img src="https://github.com/gislenetav
 **e. Atendente:** Nome do funcionário responsável pela abertura/fechamento do caixa.
 
 **f. Observações :** Observação referente a abertura/fechamento da conta.
-
+<br></br>
 
 <div id="caixaentradas" />
 <b>5. Caixa - Entradas </b>
@@ -191,6 +193,7 @@ Para abertura do caixa, basta selecionar <img src="https://github.com/gislenetav
 **l. Dt. liquidação:** Data da efetivação do valor na conta do cartório. <i><b>Ex.:</b> Entrada realizada via pix programado para o dia seguinte, a data de liquidação, será o dia que foi liquidado na conta do cartório.</i> 
 
 **m. N°controle:** Possível colocar o número de controle, se o cartório trabalhar com ele.
+<br></br>
 
 
 <div id="caixasaídas" />
@@ -227,6 +230,7 @@ Caixa - Saídas <i>(Menu - Financeiro - Caixas - Saídas)</i> Utilizado para rea
 **l. Dt. liquidação:**  Data da efetivação do valor na conta do cartório. <i><b>Ex.:</b> Saída realizada via Transferência bancária  programada para o dia seguinte, a data de liquidação, será o dia que foi liquidado na conta do cartório.</i>
 
 **m. N° controle:**  Possível colocar o número de controle, se o cartório trabalhar com ele.
+<br></br>
 
 
 <div id="centrodecustos" />
@@ -244,12 +248,12 @@ Caixa - Saídas <i>(Menu - Financeiro - Caixas - Saídas)</i> Utilizado para rea
 <div align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/7_Centro_Custo_2.PNG" width="700" />
 </div>
-<br>
+<br></br>
 
 <div align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/7_Centro_Custo_3.PNG" width="700" />
 </div>
-<br>
+<br></br>
 
 **a. Código:** Gerado automaticamente pelo sistema.
 
@@ -260,6 +264,7 @@ Caixa - Saídas <i>(Menu - Financeiro - Caixas - Saídas)</i> Utilizado para rea
 **d. Conta superior:** Conta superior criada no Centro de custos.
 
 Para desativar a conta, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/3_1.png" /> para concluir a operação.
+<br></br>
 
 
 <div id="condiçõesdepagamentos" />
@@ -296,6 +301,7 @@ Exemplificando:
 **g. Parcela mínima:** Valor da parcela mínima da condição do parcelamento.
 
 **h. Ajuste de data:**  Ajuste de data. <i><b>Ex.:</b> 15 dias pra frente.</i> 
+<br></br>
 
 
 <div id="contasapagar" />
@@ -432,7 +438,7 @@ Ao selecionar o título, é apresentado conforme imagem abaixo:
 <div id="contasareceber"/>
 <b>10. Contas a receber</b>
 <br></br>
-Conseguimos localizar todas as contas a receber do cartório,  pelo *(Menu > Financeiro > Contas a receber).* 
+Conseguimos localizar todas as contas a receber do cartório,  pelo <i>(Menu > Financeiro > Contas a receber).</i> 
 
 A movimentação da tela conta a receber se dá através do lançamento do recibo com mensalista (*cliente*), mas podemos lançar o contas a receber direto nessa tela caso houver necessidade.
 
@@ -519,6 +525,7 @@ Assim que a conta for quitada, na tela de contas a receber será apresentada da 
 <br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_9.PNG" />
 <br></br>
+
 * *Duplicatas:* É possível gerar duplicatas referente ao título selecionado.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_10.PNG" />
@@ -663,7 +670,7 @@ Ao finalizar o preenchimento dos campos, clique em <img src="https://github.com/
 <b>14. Despesas fixas</b>
 <br></br>
 
-Despesas fixas (*Menu > Financeiro > Despesas fixas*) *Ex.: Carnê de pagamento em 12 parcelas vão para o contas a pagar*.
+Despesas fixas <i>(Menu > Financeiro > Despesas fixas)</i> <i><b>Ex.:</b> Carnê de pagamento em 12 parcelas vão para o contas a pagar</i>.
 
 Em seguida, será apresentada a tela para preenchimento das despesas fixas. 
 
@@ -687,7 +694,8 @@ Clique novamente em <img src="https://github.com/gislenetavaresacsiv/teste/blob/
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/15_Despesas_fixas_6.PNG" />
 <br></br>
 
-Para encontrar o lançamento dessa despesa *(Menu > Financeiro > Contas a pagar)* ,pesquise pelo nome do credor para encontrar os títulos.
+Para encontrar o lançamento dessa despesa <i>(Menu > Financeiro > Contas a pagar)</i> ,pesquise pelo nome do credor para encontrar os títulos.
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/15_Despesas_fixas_7.PNG" />
 <br></br>
 
@@ -789,6 +797,7 @@ Para realizar o filtro de um log especifico, preencha o campo com o filtro que n
 <br></br>
 
 Selecionando a forma de pesquisa, o sistema retornará da seguinte maneira:
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/18_Logs_financeiros_4.PNG" />
 <br></br>
 
@@ -814,6 +823,7 @@ Clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_criacao_desativar.PNG" /> A pasta será desativada.
 
 Ao criar a pasta,  a mesma será apresentada da seguinte maneira:
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_3.PNG" />
 
 Para utilizar esta pasta, basta acessar o <i>(Menu > Financeiro > Contas a receber).</i>
@@ -884,10 +894,10 @@ Para criar uma subconta, selecione a conta pela qual será criada a subconta <b>
 
 **c. Carnê leão:** Número da conta do carnê leão.
 
-**d. Descrição:** Descrição da conta, <i>ex.: <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_contas_botao_aluguel.PNG" /></i>.
+**d. Descrição:** Descrição da conta, <i><b>ex.:</b> <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_contas_botao_aluguel.PNG" /></i>.
 
 
-**e. Conta superior:** Conta superior da conta criada, <i>ex.: <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Despesas.PNG" /></i>.
+**e. Conta superior:** Conta superior da conta criada, <i><b>ex.:</b> <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Despesas.PNG" /></i>.
 
 **f. Previsão mensal:** Valor previsto mensalmente para entrar/sair do plano de contas.
 
@@ -901,11 +911,11 @@ Para criar uma subconta, selecione a conta pela qual será criada a subconta <b>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Contas_receber.PNG" /> Deve-se marcar quando se tratar de contas a receber <i>ex.: <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_contas_botao_receitas.PNG" /></i>.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_A_Pagar.PNG" /> Marcar quando se referir a contas a pagar
-<i>ex.: <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Despesas.PNG" /></i>.
+<i><b>ex.:</b> <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Despesas.PNG" /></i>.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_N%C3%A3o_dedutivel.PNG" /> Com esta opção marcada o plano de conta não gera imposto de renda.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Recorrente.PNG" /> Quando se tratar de despesas recorrente, marque essa opção. <i>ex.: <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_contas_botao_aluguel.PNG" /></i>..
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Recorrente.PNG" /> Quando se tratar de despesas recorrente, marque essa opção. <i><b>ex.:</b> <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_contas_botao_aluguel.PNG" /></i>..
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Desativo.PNG" /> Desativa o plano de contas.
 
@@ -950,7 +960,7 @@ Receitas fixas <i>(Menu > Financeiro > Receitas fixas)</i>, é possível cadastr
 
 **c. Histórico:** Histórico referente a receita lançada.
 
-**d. Complemento:** A forma que será lançado as parcelas. <i>Ex.: Mês/Ano, Parcela.</i> 
+**d. Complemento:** A forma que será lançado as parcelas. <i><b>Ex.:</b> Mês/Ano, Parcela.</i> 
 
 **e. Documento:** Para colocar o número do documento se o cartório trabalhar com essa opção.
 
@@ -989,7 +999,9 @@ Para conferência das receitas fixas lançadas, acesse o <i>(Menu > Financeiro >
 <b>21. Remessa de boletos</b>
 <br></br>
 
-Remessa de boletos <i>(Menu > Financeiro > Remessa de boletos)</i> , utilizada para gerar arquivo de remessa ao banco, para que o banco tenha conhecimento da cobrança registrada.  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/22_Remessa_Boletos_1.PNG" />
+Remessa de boletos <i>(Menu > Financeiro > Remessa de boletos)</i> , utilizada para gerar arquivo de remessa ao banco, para que o banco tenha conhecimento da cobrança registrada. 
+<br></br>
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/22_Remessa_Boletos_1.PNG" />
 <br></br>
 
 **Tipo:** Selecione entre os 2 tipos <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Remessa_Boleto_Tipo.png" /> .
@@ -1164,7 +1176,6 @@ Demonstraremos como inserir filtros nos relatórios:
 <b>R. Boletos</b> 
 <br></br>
 
-<br></br>
 <div align="center"><i>Relatório Boletos:</i></div>  
 <br></br>
 Relatório de boletos retorna todos os boletos gerados dentro do sistema.
