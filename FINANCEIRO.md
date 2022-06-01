@@ -1125,22 +1125,25 @@ Demonstraremos como inserir filtros nos relatórios:
 * **Centro de custos:** É possível selecionar um centro de custo no filtro do relatório.
 
 * **Grupos econômicos:**  Possibilidade de colocar grupo econômico no filtro.
+<br></br>
 
   <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/ConsolidarCartorios.PNG" /> Utilizado para o cartório que tem mais de um cartório em um banco.
 
   <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Contas_Pagar_Curva.PNG" /> Aplica a curva de experiência ABC, também chamada de análise de Pareto ou regra 80/20.
+  <br></br>
 
-  Ao selecionar o checkbox *aplicar curva abc* será apresentado a porcentagem <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Contas_A_Pagar_Porcentagem_Curva.PNG" />. 
+  Ao selecionar o checkbox <i>aplicar curva abc</i> será apresentado a porcentagem <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Contas_A_Pagar_Porcentagem_Curva.PNG" />. 
 
-  
 
-  Ao selecionar o período desejado, basta clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Contas_A_Pagar_Bot%C3%A3o_Visualizar.PNG" />  para emissão do relatório conforme imagem a seguir.
+  Ao selecionar o período desejado, basta clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Contas_A_Pagar_Bot%C3%A3o_Visualizar.PNG" />  para emissão do relatório conforme imagem a seguir:
+  <br></br>
 
   <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_3.PNG" />
 
   <br></br>
 
   <div align="center"><i>Botões:</i></div> 
+  <br></br>
 
   <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_visualizar.PNG" /> Ao realizar os filtros necessários, clique em visualizar para ter acesso ao relatório.
 
@@ -1154,17 +1157,21 @@ Demonstraremos como inserir filtros nos relatórios:
 
   <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_email.PNG" /> Possibilidade de enviar o arquivo via e-mail, selecionando uma das opções <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_email_opcoes.png" />.
 
-  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_checkbox_separador_linhas.PNG" /> Tem a funcionalidade de organizar a visualização do relatório.   
+  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_checkbox_separador_linhas.PNG" /> Tem a funcionalidade de organizar a visualização do relatório.  
+  <br></br>
    
 <div id="rboletos" />
 <b>R. Boletos</b> 
+<br></br>
 
 <br></br>
 <div align="center"><i>Relatório Boletos:</i></div>  
 <br></br>
 Relatório de boletos retorna todos os boletos gerados dentro do sistema.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_4.PNG" />
+<br></br>
 
 **a. Data:** Selecione entre as 3  opções para visualização <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Boletos_Datas.png" />.
 
@@ -1173,18 +1180,19 @@ Relatório de boletos retorna todos os boletos gerados dentro do sistema.
 **c. Dt. final:** Data final automática do dia, mas poderá ser alterada. 
 
 **d. Conta:** É possível selecionar a conta pela qual será emitida o relatório.
+<br></br>
 
 <div id="rcontasapagar" />
 <b>R. Contas a pagar</b> 
-
-
 <br></br>
+
 <div align="center"><i>Relatório Contas a pagar:</i></div>  
 <br></br>
 
 No relatório de contas a pagar, é possível identificar o lançamento de todas as contas a pagar do cartório.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_5.PNG" />
+<br></br>
 
 **a. Situação:** Poderá selecionar entre as 4 situações  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Contas_Pagar_Situacao.png" />.
 
@@ -1197,6 +1205,7 @@ No relatório de contas a pagar, é possível identificar o lançamento de todas
 **e. Relatório:** Pode-se filtrar entre as 4 opções  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Contas_Pagar_Relatorio.png" />. 
 
 **f. Tipo:** Possibilidade de emissão por <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Contas_Pagar_Tipo.PNG" />. 
+<br></br>
      
 <div id="rcontasareceber" />
 <b>R. Contas a receber</b>
@@ -1205,15 +1214,16 @@ No relatório de contas a pagar, é possível identificar o lançamento de todas
 <br></br>
 
 Relatório de contas a receber, são concentrados todas as contas a receber do cartório.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_6.PNG" /> 
+<br></br>
 
 Os campos tem as mesmas funcionalidades do relatório de contas a pagar, o que difere, que agora se trata do relatório de contas a receber.
+<br></br>
 
 <div id="rextratodecontas" />
 <b>R. Extrato de contas</b>
- 
-<br></br>
 <div align="center"><i>Relatório Extrato de contas:</i></div>  
 <br></br>
 
@@ -1221,6 +1231,7 @@ Os campos tem as mesmas funcionalidades do relatório de contas a pagar, o que d
 Possível visualizar registros de contas financeiras do cartório.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_7.PNG" /> 
+<br></br>
 
 **a. Dt. inicial:** Data inicial do dia, mas poderá ser alterada.
 
@@ -1231,6 +1242,7 @@ Possível visualizar registros de contas financeiras do cartório.
 **d. Tipo:** Selecione entre os 2 tipos (Resumido ou Detalhado).
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Extrato_Contas_Exibir_Saldo.PNG" /> Exibe o saldo da conta.
+<br></br>
 
 <i>Para filtrar uma determinada conta financeira, basta inserir os dados nas abas contas financeiras e formas de pagamento conforme exemplo abaixo:</i>
 
@@ -1238,11 +1250,10 @@ Possível visualizar registros de contas financeiras do cartório.
 <br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Extrato_Contas_Filtro_Formas_Pagamento.PNG" />
+<br></br>
 
 <div id="rextratodemensalistas" />
 <b>R. Extrato de mensalistas</b>
-   
-<br></br>
 <div align="center"><i>Relatório Extrato de mensalistas:</i></div>  
 <br></br>
 
