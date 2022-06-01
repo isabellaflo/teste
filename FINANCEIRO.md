@@ -770,32 +770,40 @@ Formas de pagamentos <i>(Menu > Financeiro > Formas de pagamentos)</i>, possíve
 
 <div id="logsfinanceiros" />
 <b>17. Logs financeiros</b>
+<br></br>
 
-
-Logs financeiros *(Menu > Financeiro > Logs financeiros)*  são registros de eventos ocorridos dentro do <i>Menu financeiro</i>.
+Logs financeiros <i>(Menu > Financeiro > Logs financeiros)</i>  são registros de eventos ocorridos dentro do <i>Menu financeiro</i>.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/18_Logs_financeiros_1.PNG" />
+<br></br>
 
 Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Logs_Financeiros_botao_pesquisar.PNG" /> será apresentado todos os logs financeiros do cartório.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/18_Logs_financeiros_2.PNG" />
+<br></br>
 
 Para realizar o filtro de um log especifico, preencha o campo com o filtro que necessita realizar a pesquisa.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/18_Logs_financeiros_3.png" />
+<br></br>
 
 Selecionando a forma de pesquisa, o sistema retornará da seguinte maneira:
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/18_Logs_financeiros_4.PNG" />
+<br></br>
 
  
 <div id="pastas" />
 <b>18. Pastas</b>
+<br></br>
 
-Pastas *(Menu > Financeiro > Pastas)* , tem a funcionalidade de organizar em qual pasta a conta se encontra. ***Ex.:** Mensalistas com dívidas, mas não vão efetuar o pagamento, por exemplo, podem ser inseridos na pasta **"inadimplentes"***.
+Pastas <i>(Menu > Financeiro > Pastas)</i> , tem a funcionalidade de organizar em qual pasta a conta se encontra. ***Ex.:** Mensalistas com dívidas, mas não vão efetuar o pagamento, por exemplo, podem ser inseridos na pasta **"inadimplentes"***.
 
 Clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Novo.PNG" /> para criar a pasta.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_2.PNG" />
+<br></br>
 
 **a. Código:** Gerado automaticamente pelo sistema.
 
@@ -808,54 +816,67 @@ Clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C
 Ao criar a pasta,  a mesma será apresentada da seguinte maneira:
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_3.PNG" />
 
-Para utilizar esta pasta, basta acessar o (*Menu > Financeiro > Contas a receber*).
+Para utilizar esta pasta, basta acessar o <i>(Menu > Financeiro > Contas a receber).</i>
 
 Pesquise o mensalista que precisa ser arquivado na pasta inadimplentes pelo binóculo <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Devedor.PNG" />.
+<br></br>
 
-Neste exemplo vamos filtrar o *mensalista teste:*
+Neste exemplo vamos filtrar o <i>mensalista teste:</i>
 
 Selecione os títulos que devem ser arquivados na pasta e clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Contas_Receber_Botao_Abrir.PNG" />, será apresentado a seguinte tela:
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_5.PNG" />
+<br></br>
 
 Basta selecionar a pasta criada <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pasta_selecionando_pasta.png" />.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_6.PNG" />
+<br></br>
 
 
 Após preencher o campo pasta, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Contas_a_receber_Botao_Salvar.PNG" />
 para que o título seja salvo na pasta inadimplentes. Note que depois de salvo, o título não aparecerá mais na tela de contas as receber conforme imagem abaixo:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_7.PNG" />
+<br></br>
 
 
 Também é possível pesquisar o título que foi arquivado na pasta inadimplentes, acessando o (*Menu > Financeiro > Contas a receber*), pesquise pelo nome do cliente para que possa aparecer o título arquivado como inadimplentes.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_8.PNG" />
+<br></br>
 
 
 <div id="planodecontas" />
 <b>19. Plano de contas</b>
+<br></br>
 
 
-Plano de contas (*Menu > Financeiro > Plano de contas*) é possível cadastrar as contas de receitas e despesas do cartório.
+Plano de contas <i>(Menu > Financeiro > Plano de contas)</i> é possível cadastrar as contas de receitas e despesas do cartório.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_Contas.PNG" />
+ <br></br>
 
 
-
-Para criar um novo plano de contas, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Novo.PNG" /> depois em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Botao_novo.PNG" /> neste exemplo criaremos o plano de conta *Receitas*. 
-
+Para criar um novo plano de contas, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Novo.PNG" /> depois em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Botao_novo.PNG" /> neste exemplo criaremos o plano de conta <i>Receitas</i>. 
+<br></br>
 
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_2.PNG" />
+<br></br>
 
 A seguir, será demonstrado o plano de contas com suas subcontas.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_3.PNG" />
+<br></br>
 
-Para criar uma subconta, selecione a conta pela qual será criada a subconta *ex.:* <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Despesas.PNG" /> em seguida em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Novo.PNG" /> .
+Para criar uma subconta, selecione a conta pela qual será criada a subconta <b>ex.:</b> <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Despesas.PNG" /> em seguida em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Novo.PNG" /> .
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_4.PNG" />
+<br></br>
 
 **a. Código:** Gerado automaticamente pelo sistema.
 
@@ -870,15 +891,16 @@ Para criar uma subconta, selecione a conta pela qual será criada a subconta *ex
 
 **f. Previsão mensal:** Valor previsto mensalmente para entrar/sair do plano de contas.
 
-**g. Marcação:** Recurso para filtrar a conta com um código interno, podendo utilizar esse filtro na emissão do relatório livro caixa *(Menu > Financeiro > Relatórios > R. Livro caixa)*.
+**g. Marcação:** Recurso para filtrar a conta com um código interno, podendo utilizar esse filtro na emissão do relatório livro caixa <i>(Menu > Financeiro > Relatórios > R. Livro caixa)</i>.
 
 **h. Observações:** Pode-se colocar observações referente ao plano de contas criado.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Conta_de_resultados.PNG" /> Apura resultado financeiro, se desmarcar não será apresentado no relatório de livro caixa.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Contas_receber.PNG" /> Deve-se marcar quando se tratar de contas a receber <i>ex.: <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_contas_botao_receitas.PNG" /></i>.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_A_Pagar.PNG" /> Marcar quando se referir a contas a pagar *
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_A_Pagar.PNG" /> Marcar quando se referir a contas a pagar
 <i>ex.: <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Despesas.PNG" /></i>.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_N%C3%A3o_dedutivel.PNG" /> Com esta opção marcada o plano de conta não gera imposto de renda.
@@ -887,29 +909,40 @@ Para criar uma subconta, selecione a conta pela qual será criada a subconta *ex
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Desativo.PNG" /> Desativa o plano de contas.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Transferir_Conta.PNG" /> *Transferir conta:* Possível transferir uma conta para dentro de outra ou transferir para fora.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Transferir_Conta.PNG" /> <i>Transferir conta:</i> Possível transferir uma conta para dentro de outra ou transferir para fora.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_5.PNG" />
+<br></br>
 
 Neste exemplo, foi criado a conta de aluguel como receita, mas se trata de uma despesa, basta clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Transferir_Conta.PNG" /> para transferir a conta.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_6.PNG" />
-Subconta se encontra no plano de contas receitas com número **2.2**. Aluguel, a mesma será transferida para o plano de contas despesas número **2**..
+<br></br>
+Subconta se encontra no plano de contas receitas com número <b>2.2</b>. Aluguel, a mesma será transferida para o plano de contas despesas número <b>2</b>.
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_7.PNG" />
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_8.PNG" />
+<br></br>
 
 Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_sim.PNG" /> a subconta será transferida.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/20_Plano_Contas_9.PNG" /> 
+<br></br>
 
 
 <div id="receitasfixas" />
 <b>20. Receitas fixas</b>
+<br></br>
 
 
-Receitas fixas *(Menu > Financeiro > Receitas fixas)*, é possível cadastrar uma receita fixa do cartório.  **Ex.:** O cartório vai receber determinado valor em dez vezes. As dez parcelas vão para o contas a receber.
+Receitas fixas <i>(Menu > Financeiro > Receitas fixas)</i>, é possível cadastrar uma receita fixa do cartório.  <b>Ex.:</b> O cartório vai receber determinado valor em dez vezes. As dez parcelas vão para o contas a receber.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/21_Receitas_fixas_1.PNG" />
+<br></br>
 
 **a. Devedor:** Devedor do título a receber.
 
@@ -917,7 +950,7 @@ Receitas fixas *(Menu > Financeiro > Receitas fixas)*, é possível cadastrar um
 
 **c. Histórico:** Histórico referente a receita lançada.
 
-**d. Complemento:** A forma que será lançado as parcelas. *Ex.: Mês/Ano, Parcela.* 
+**d. Complemento:** A forma que será lançado as parcelas. <i>Ex.: Mês/Ano, Parcela.</i> 
 
 **e. Documento:** Para colocar o número do documento se o cartório trabalhar com essa opção.
 
@@ -926,30 +959,37 @@ Receitas fixas *(Menu > Financeiro > Receitas fixas)*, é possível cadastrar um
 **g. Valor parcela:** Valor a ser cobrado por cada parcela.
 
 **h. Total:** Valor total do parcelamento.
+<br></br>
 
 Preencha as informações conforme os passos passados:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/21_Receitas_fixas_2.PNG" />
+<br></br>
 
 Após preencher, basta selecionar o botão <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Gerar.PNG" /> para gerar a receita fixa.
 
 Será apresentado a seguinte tela:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/21_Receitas_fixas_3.PNG" />
+<br></br>
 
 As parcelas foram geradas, mas para finalizar o processo, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Gerar.PNG" />.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/21_Receitas_fixas_4.PNG" />
+<br></br>
 
-Para conferência das receitas fixas lançadas, acesse o (*Menu > Financeiro > Contas a receber*), pesquise pelo nome do devedor como imagem a seguir:
+Para conferência das receitas fixas lançadas, acesse o <i>(Menu > Financeiro > Contas a receber)</i>, pesquise pelo nome do devedor como imagem a seguir:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/21_Receitas_fixas_5.PNG" />
+<br></br>
 
 
 <div id="remessadeboleto" />
 <b>21. Remessa de boletos</b>
+<br></br>
 
-Remessa de boletos *(Menu > Financeiro > Remessa de boletos)* , utilizada para gerar arquivo de remessa ao banco, para que o banco tenha conhecimento da cobrança registrada.  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/22_Remessa_Boletos_1.PNG" />
+Remessa de boletos <i>(Menu > Financeiro > Remessa de boletos)</i> , utilizada para gerar arquivo de remessa ao banco, para que o banco tenha conhecimento da cobrança registrada.  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/22_Remessa_Boletos_1.PNG" />
 
 **Tipo:** Selecione entre os 2 tipos <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Remessa_Boleto_Tipo.png" /> .
 
