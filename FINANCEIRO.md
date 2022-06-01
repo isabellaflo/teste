@@ -161,7 +161,7 @@ Para abertura do caixa, basta selecionar <img src="https://github.com/gislenetav
 <b>5. Caixa - Entradas </b>
 <br></br>
 
- Caixa - Entradas <i>(Menu > Financeiro > Caixa - Entradas)</i> Utilizado para realizar os lançamentos das receitas do cartório. <i>Ex.: "Valores que entraram para o cartório".</i> 
+ Caixa - Entradas <i>(Menu > Financeiro > Caixa - Entradas)</i> Utilizado para realizar os lançamentos das receitas do cartório. <i><b>Ex.:</b> "Valores que entraram para o cartório".</i> 
 
 <div align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/5_Caixa_Entradas.PNG" width="700" />
@@ -182,13 +182,13 @@ Para abertura do caixa, basta selecionar <img src="https://github.com/gislenetav
 
 **g. Plano de contas:** Selecione o plano de contas para o recebimento da entrada.
 
-**h. Histórico:** Histórico conforme achar viável. <i>Ex: Recebimentos diversos ref. mês 08/2021.</i>
+**h. Histórico:** Histórico conforme achar viável. <i><b>Ex:</b> Recebimentos diversos ref. mês 08/2021.</i>
 
 **i. Forma de pagto.:** Forma de pagamento escolhida para realizada da entrada.
 
 **j. Conta:** Conta escolhida para receber o valor da entrada.
 
-**l. Dt. liquidação:** Data da efetivação do valor na conta do cartório. <i>Ex.: Entrada realizada via pix programado para o dia seguinte, a data de liquidação, será o dia que foi liquidado na conta do cartório.</i> 
+**l. Dt. liquidação:** Data da efetivação do valor na conta do cartório. <i><b>Ex.:</b> Entrada realizada via pix programado para o dia seguinte, a data de liquidação, será o dia que foi liquidado na conta do cartório.</i> 
 
 **m. N°controle:** Possível colocar o número de controle, se o cartório trabalhar com ele.
 
@@ -196,7 +196,7 @@ Para abertura do caixa, basta selecionar <img src="https://github.com/gislenetav
 <div id="caixasaídas" />
 <b>6. Caixa - Saídas </b>
 <br></br>
-Caixa - Saídas <i>(Menu - Financeiro - Caixas - Saídas)</i> Utilizado para realizar todas as saídas (despesas) do cartório. <i>Ex.: "Valores que saíram do cartório".</i>  
+Caixa - Saídas <i>(Menu - Financeiro - Caixas - Saídas)</i> Utilizado para realizar todas as saídas (despesas) do cartório. <i><b>Ex.:</b> "Valores que saíram do cartório".</i>  
 
 
 <div align="center">
@@ -218,13 +218,13 @@ Caixa - Saídas <i>(Menu - Financeiro - Caixas - Saídas)</i> Utilizado para rea
 
 **g. Plano contas:** É possível selecionar o plano de contas para registro da saída.
 
-**h. Histórico:** Histórico referente a saída, *ex.:  Cemig ref. Mês 08/2021.* 
+**h. Histórico:** Histórico referente a saída, <i><b>ex.:</b>  Cemig ref. Mês 08/2021.</i> 
 
 **i. Forma de pagto.:** Forma de pagamento que será realizada a saída.
 
 **j. Conta:**  Conta que será realizado a saída.
 
-**l. Dt. liquidação:**  Data da efetivação do valor na conta do cartório. <i>Ex.: Saída realizada via Transferência bancária  programada para o dia seguinte, a data de liquidação, será o dia que foi liquidado na conta do cartório.</i>
+**l. Dt. liquidação:**  Data da efetivação do valor na conta do cartório. <i><b>Ex.:</b> Saída realizada via Transferência bancária  programada para o dia seguinte, a data de liquidação, será o dia que foi liquidado na conta do cartório.</i>
 
 **m. N° controle:**  Possível colocar o número de controle, se o cartório trabalhar com ele.
 
@@ -232,7 +232,7 @@ Caixa - Saídas <i>(Menu - Financeiro - Caixas - Saídas)</i> Utilizado para rea
 <div id="centrodecustos" />
 <b>7. Centro de custos</b>
 <br></br>
-É utilizado para cadastrar algum centro de custo. <i>Ex.: cartório possui dois veículos, e quer ter controle sobre gastos/rendimento desses dois veículos. Nesse caso, eles poderiam cadastrar centros de custos, sendo as placas dos veículos.</i> Podemos acessar essa tela pelo <i>Menu > Financeiro > Centro de custos</i>.
+É utilizado para cadastrar algum centro de custo. <i>Ex.: cartório possui dois veículos, e quer ter controle sobre gastos/rendimento desses dois veículos. Nesse caso, eles poderiam cadastrar centros de custos, sendo as placas dos veículos.</i> Podemos acessar essa tela pelo <i>(Menu > Financeiro > Centro de custos)</i>.
 <br></br>
 <div align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/7_Centro_Custo_1.PNG" width="700" />
@@ -255,7 +255,7 @@ Caixa - Saídas <i>(Menu - Financeiro - Caixas - Saídas)</i> Utilizado para rea
 
 **b. Conta:** Conta criada no centro de custos.
 
-**c. Descrição:** Neste exemplo foi utilizado a placa de um veículo com descrição.
+**c. Descrição:** Neste exemplo foi utilizado a placa de um veículo para descrição.
 
 **d. Conta superior:** Conta superior criada no Centro de custos.
 
@@ -285,9 +285,9 @@ Exemplificando:
 
 **b. Ordem:**  Ordem que será apresentado a condição de pagamento.
 
-**c. Descrição:** Descrição do parcelamento <i>Ex.:</i> CARTEXPRESS.
+**c. Descrição:** Descrição do parcelamento <i><b>Ex.:</b></i> CARTEXPRESS.
 
-**d. Vencimentos:**  Utilizado para colocar a forma que o pagamento deverá ocorrer. <i>Ex.:</i> 30/60/90 ou 0/15/45 dias.
+**d. Vencimentos:**  Utilizado para colocar a forma que o pagamento deverá ocorrer. <i><b>Ex.:</b></i> 30/60/90 ou 0/15/45 dias.
 
 **e. Fórmula:** Selecione entre os 5 fórmulas <i>(Nenhuma, Juro simples, Juro composto, Taxa de acréscimo, Taxa de desconto).</i> 
 
@@ -295,7 +295,7 @@ Exemplificando:
 
 **g. Parcela mínima:** Valor da parcela mínima da condição do parcelamento.
 
-**h. Ajuste de data:**  Ajuste de data. <i>Ex.: 15 dias pra frente.</i> 
+**h. Ajuste de data:**  Ajuste de data. <i><b>Ex.:</b> 15 dias pra frente.</i> 
 
 
 <div id="contasapagar" />
@@ -336,22 +336,24 @@ Os títulos apresentados na tela na parte superior <img src="https://github.com/
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/quitar.PNG" /> Botão realizado para quitar os títulos.
 
-
+<p>
 Selecione o título que deseja quitar.
+ </p>
 <p align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_2.PNG" />
 </p>
-
+<p>
 Ao selecionar, será apresentado a seguinte tela:
-
+</p>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_3.PNG" />
-
+<br></br>
+<p>
 Assim que a conta for quitada, na tela de contas a pagar será apresentada da seguinte maneira:
-
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_4.PNG" />
-
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/abrir.PNG" />  possível abrir a conta a pagar selecionada para ter acesso as informações.
-
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_5.PNG" /><br><br>
 
 
@@ -370,34 +372,43 @@ Assim que a conta for quitada, na tela de contas a pagar será apresentada da se
 * *Alteração de valores:*  Ao selecionar o título é possível alterar os valores.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_6.PNG" />
+<br></br>
 
 * *Alterações de vencimentos:*  É possível alterar os vencimentos dos títulos.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_7.PNG" />
+<br></br>
 
 * *Desmembrar*: É possível desmembrar o título. *obs.:* Para desmembrar o título além de selecionar a parcela, o credor precisa esta selecionado.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_8.PNG" />
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_9.PNG" />
+<br></br>
 
 * *Estornar:* É possível estornar um título que foi quitado indevidamente.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_10.PNG" />
+<br></br>
 Após estornar, o título retorna para títulos não quitados.
-
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_11.PNG" />
+<br></br>
 
 * *Excluir títulos:* Possível excluir títulos lançados indevidamente. 
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_12.PNG" />
+<br></br>
 
 * *Liquidar:*  Data que foi liquidada na conta do cartório.
 
 * *Programar:* É possível programar a data que será quitado o título.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_13.PNG" />
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_15.PNG" />
+<br></br>
 
 * *Taxas:* Possível definir a porcentagem da taxa, pelo <i>(Menu > Financeiro > Configurações > aba Contas a receber)</i></p>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Contas_apagar_configuracoes_taxas.PNG" />
@@ -405,19 +416,22 @@ Após estornar, o título retorna para títulos não quitados.
 Ao selecionar o título, é apresentado conforme imagem abaixo:
 <br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Contas_apagar_configuracoes_taxas_fim.PNG" />
+<br></br>
 
 * *Unificar:* É possível unificar dois títulos para pagar de uma só vez. *Obs.:* Precisa selecionar o credor antes de unificar os títulos conforme exemplo.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_16.PNG" />
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_17.PNG" />
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/9_Contas_A_Pagar_18.PNG" /><br>
-
+<br></br>
 
 <div id="contasareceber"/>
 <b>10. Contas a receber</b>
-
+<br></br>
 Conseguimos localizar todas as contas a receber do cartório,  pelo *(Menu > Financeiro > Contas a receber).* 
 
 A movimentação da tela conta a receber se dá através do lançamento do recibo com mensalista (*cliente*), mas podemos lançar o contas a receber direto nessa tela caso houver necessidade.
@@ -427,16 +441,20 @@ A movimentação da tela conta a receber se dá através do lançamento do recib
 Detalharemos uma conta a receber através de um recibo para mensalista, pelo *(Menu > Cartório > Recibos)* para criar um novo recibo.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/10_Recibo.PNG" />
+<br></br>
 
 Na forma de pagamento o mensalista esta selecionado.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/10_Recibo_1.PNG" />
+<br></br>
 
 Como ficará esse recibo no contas a receber:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_1.PNG" />
+<br></br>
 
 Os títulos apresentados na tela na parte superior <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/N%C3%A3o_Quitados.PNG" /> significa que são títulos em abertos que não foram quitados ainda, após quitar, o mesmo aparecerá na parte inferior da tela <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Quitados.PNG" />.
+<br></br>
 
 
 <div align="center"><i>Mostraremos algumas funcionalidades:</i></div>
@@ -448,17 +466,23 @@ Os títulos apresentados na tela na parte superior <img src="https://github.com/
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/pesquisar.PNG" /> Pesquisa todas contas a receber do cartório. 
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/quitar.PNG" /> É possível quitar um ou mais títulos, conforme imagem a seguir:
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_2.PNG" />
+<br></br>
 Assim que a conta for quitada, na tela de contas a receber será apresentada da seguinte maneira:
+<br></br>
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_3.png" /><br>
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_3.png" />
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Novo.PNG" /> Para criar um novo título direto do contas a receber.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/abrir.PNG" /> Possível abrir um título.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_4.PNG" />
+<br></br>
 
 
 <p align="center">
@@ -467,100 +491,111 @@ Assim que a conta for quitada, na tela de contas a receber será apresentada da 
 
 ---
 
-
 <p align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Ferramentas_Receber.png" />
 </p>
-
+<br></br>
 
 * *Alteração de valores:*  Ao selecionar o título é possível alterar os valores.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_5.PNG" />
+<br></br>
 
 * *Alteração de vencimentos:* Altera a data de vencimento do título.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_6.PNG" />
+<br></br>
 
 * *Boletos:* Para emissão de boletos pelo sistema. 
 
 **OBS:** *Para emitir boletos pelo sistema, precisa verificar se o banco é homologado no sistema, se sim, entrar em contato com o gerente do banco informando que gostaria de emitir boletos de terceiros.* 
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_7.PNG" />
+<br></br>
 
 * *Desmembrar:* Utilizado para desmembrar títulos.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_8.PNG" />
-
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_9.PNG" />
-
+<br></br>
 * *Duplicatas:* É possível gerar duplicatas referente ao título selecionado.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_10.PNG" />
-
-
-
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_11.PNG" />
+<br></br>
 
 * *Estornar:* Pode-se estornar um título quitado.
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_12.PNG " />
+<br></br>
 
 * *Excluir títulos:* É Possível excluir títulos.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_13.PNG" />
+<br></br>
 
 * *Liquidar:* Há possibilidade de liquidar um título após quitado.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_14.PNG" />
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_15.PNG" />
+<br></br>
 
 * *Notas promissórias:* É possível emitir notas promissórias dos títulos.
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Notas_Promissorias_Contas_receber.PNG" />
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Notas_Promissorias_Contas_receber_Editado.PNG" />
+<br></br>
 
 * *Programar:* O sistema permite programar a data do recebimento do título.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_16.PNG" />
+<br></br>
 
 Após programada a data, será apresentado na tela de contas a receber com a *Dt. Programação* preenchida.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_17.PNG" />
+<br></br>
 
 * *Recibos:* É Possível emitir um recibo do título que foi quitado.
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Recibos_Contas_Receber.PNG" />
-
-
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Recibos_Contas_Receber_Emitido_Editado.PNG" />
+<br></br>
 
 * *Taxas:* É Possível configurar uma taxa caso seja necessário.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_18.PNG" />
-
-
-
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_19.PNG" />
+<br></br>
 
 * *Unificar:* É possível unificar títulos.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_20.PNG" />
-
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/11_Contas_Receber_21.PNG" />
+<br></br>
 
 
 <div id="contasfinanceiras" />
 <b>11. Contas financeiras</b>
-
-Contas financeiras *(Menu > Financeiro > Contas financeiras)* , utilizado para realizar cadastro de conta financeira,  se for o caixa físico do cartório, basta marcar tipo *Caixa* e colocar o nome desejado. Se for banco, deve-se preencher algumas outras informações, conforme imagem a seguir:
+<br></br>
+Contas financeiras <i>(Menu > Financeiro > Contas financeiras)</i> , utilizado para realizar cadastro de conta financeira,  se for o caixa físico do cartório, basta marcar tipo <i>Caixa</i> e colocar o nome desejado. Se for banco, deve-se preencher algumas outras informações, conforme imagem a seguir:
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/12_Contas_Financeiras_1.PNG" />
+<br></br>
 
 **a. Código:**  Gerado automaticamente pelo sistema.
 
 **b.Cartório:** Utilizado para colocar nome do cartório.
 
-**c.Tipo:** Selecione entre os 2 tipos *(Caixa, Bancária)* , *ex.: Caixa físico do cartório ou banco*.
+**c.Tipo:** Selecione entre os 2 tipos <i>(Caixa, Bancária)</i> , <b>ex.:</b> <i>Caixa físico do cartório ou banco</i>.
 
  **d.Conta:**  Pode-se colocar a conta do banco.
 
@@ -585,6 +620,7 @@ Contas financeiras *(Menu > Financeiro > Contas financeiras)* , utilizado para r
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/12_Contas_Financeiras_2.PNG" />
 <br></br>
+
 **Aba Arquivos:** Só é preenchida depois que o aplicativo do banco estiver instalado na máquina.
 
 **Aba Especial:** É preenchida quando a conta está em nome de pessoa jurídica, por exemplo, mas por alguma razão é necessário que o boleto saia no CPF.
@@ -604,109 +640,132 @@ Ao selecionar o histórico de créditos <img src="https://github.com/gislenetava
 
 <div id="darf" />
 <b>13. DARF</b>
+<br></br>
 
 Darf *(Menu > Financeiro > DARF)* -  *Sigla para Documento de Arrecadação de Receitas Federais*, pode- se emitir guia pelo sistema.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/14_Darf_1.PNG" />
+<br></br>
 
 Basta preencher os dados para emissão da guia, conforme imagem a seguir:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/14_Darf_2.PNG" />
+<br></br>
 
 Ao finalizar o preenchimento dos campos, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Bot%C3%A3o_Visualizar.PNG" /> para imprimir a guia DARF.
 
 
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/14_Darf_3.PNG" width="400"/>
-
+<br></br>
 
 <div id="despesasfixas" />
 <b>14. Despesas fixas</b>
+<br></br>
 
 Despesas fixas (*Menu > Financeiro > Despesas fixas*) *Ex.: Carnê de pagamento em 12 parcelas vão para o contas a pagar*.
 
 Em seguida, será apresentada a tela para preenchimento das despesas fixas. 
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/15_Despesas_fixas_1.PNG" />
+<br></br>
 
 Com todas informações preenchidas, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Gerar.PNG" />.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/15_Despesas_fixas_2.PNG" />
+<br></br>
 
 Agora, com as despesas fixas gerada será apresentada a seguinte tela:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/15_Despesas_fixas_5.PNG" />
+<br></br>
 
 Clique novamente em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Botao_Gerar.PNG" /> para concluir a geração dos títulos.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/15_Despesas_fixas_6.PNG" />
+<br></br>
 
 Para encontrar o lançamento dessa despesa *(Menu > Financeiro > Contas a pagar)* ,pesquise pelo nome do credor para encontrar os títulos.
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/15_Despesas_fixas_7.PNG" />
-
+<br></br>
 
 <div id="despesasrecorrentes" />
 <b>15. Despesas recorrentes</b>
+<br></br>
 
-Despesas recorrentes *(Menu > Financeiro > Despesas recorrentes)*, é um facilitador das despesas fixas anuais. *Ex.:* Aluguel lançado no ano de 2021 em 12 parcelas, é possível lançar essa despesa para o ano de 2022.
+Despesas recorrentes <i>(Menu > Financeiro > Despesas recorrentes)</i>, é um facilitador das despesas fixas anuais. <b><i>Ex.:</b></i> Aluguel lançado no ano de 2021 em 12 parcelas, é possível lançar essa despesa para o ano de 2022.
 
 Exemplificando um fornecedor lançado no ano de 2021.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/16_Despesas_recorrentes_1.PNG" />
+<br></br>
 
-Para gerar a despesa recorrente, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Despesas_recorrentes_pesquisar.PNG" />, depois em (*Adicionar/Remover filtro*) <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Despesas_recorrentes_filtro.PNG" /> para buscar a despesa.
+Para gerar a despesa recorrente, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Despesas_recorrentes_pesquisar.PNG" />, depois em <i>(Adicionar/Remover filtro)</i> <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Despesas_recorrentes_filtro.PNG" /> para buscar a despesa.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/16_Despesas_recorrentes_2.PNG" />
+<br></br>
 
 Selecione o botão <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Despesas_recorrentes_Botao_gerar.PNG" /> para gerar a despesa recorrente.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Despesas_recorrentes_vencimentos.png" />
+<br></br>
 
 Processo finalizado.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Despesas_recorrentes_lan%C3%A7adas.PNG" />
+<br></br>
 
 Pode-se verificar o lançamento da despesa recorrente pelo <i>(Menu > Financeiro > Contas a pagar).</i>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/16_Despesas_recorrentes_3.PNG" />
+<br></br>
 
 
 <div id="formasdepagamentos" />
 <b>16. Formas de pagamentos</b>
+<br></br>
 
-Formas de pagamentos *(Menu > Financeiro > Formas de pagamentos)*, possível cadastrar as formas de pagamentos.
+Formas de pagamentos <i>(Menu > Financeiro > Formas de pagamentos)</i>, possível cadastrar as formas de pagamentos.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/17_Formas_pagamentos_2.PNG" />
+<br></br>
 
 **a. Código:** Gerado automaticamente pelo sistema.
 
 **b. Ordem:** Ordem que vai aparecer na tela de pagamentos, em recibos quando for selecionar a forma de pagamento, veja que a forma de pagamento dinheiro é a primeira a ser apresentada, pois a mesma esta com a Ordem 1 conforme imagem anterior.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/17_Formas_pagamentos_3.PNG" />
+<br></br>
 
-**c. Descrição:** Descrição do formato do pagamento. *Ex.: Dinheiro, cheque, cartão,pix,transferência,etc.*
+**c. Descrição:** Descrição do formato do pagamento. <i><b>Ex.:</b> Dinheiro, cheque, cartão,pix,transferência,etc.</i>
 
-**d. Conta padrão:** Conta que será creditada. *Ex. Caixa do cartório, Itaú,Sicoob,etc.*
+**d. Conta padrão:** Conta que será creditada. <i><b>Ex.:</b> Caixa do cartório, Itaú,Sicoob,etc.</i>
 
-**e. Liquidação:**  Selecione entre as 4 opções *(Automática, Manual, Programada d+, Programada fixa)*.  
+**e. Liquidação:**  Selecione entre as 4 opções <i>(Automática, Manual, Programada d+, Programada fixa)</i>. 
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Automatica.PNG" /> Quando a forma de pagamento for dinheiro, cai automaticamente.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Manual.PNG" /> Forma de pagamento cheque ou boleto, é necessário consultar o extrato bancário para validar se o dinheiro já se encontra na conta.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_ProgramadaD%2B.PNG" /> Data que será creditado na conta do cartório. *Ex.: Cartão de débito, usando d+1 o pagamento cairia no dia + 1*.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_ProgramadaD%2B.PNG" /> Data que será creditado na conta do cartório. <i><b>Ex.:</b> Cartão de débito, usando d+1 o pagamento cairia no dia + 1</i>.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_ProgramadaFixa.PNG" /> Data fixa para ser creditada na conta do cartório. *Ex.: Cartão de crédito, dia fixo pro pagamento cair na conta.*
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_ProgramadaFixa.PNG" /> Data fixa para ser creditada na conta do cartório. <i><b>Ex.:</b> Cartão de crédito, dia fixo pro pagamento cair na conta.</i>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Taxa.PNG" /> Taxa administrativa, utilizada quando houver necessidade.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_N%C3%A3o_Acrescentar.PNG" /> Selecionar de acordo com a forma que trabalha o cartão *Ex.: Cartexpress,etc.* 
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_N%C3%A3o_Acrescentar.PNG" /> Selecionar de acordo com a forma que trabalha o cartão <i><b>Ex.:</b> Cartexpress,etc.</b></i>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Permitir_Parcelamento.PNG" /> Segue a mesma funcionalidade do item anterior.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Realizar_analise.PNG" /> Refere-se ao item [1. Análise de crédito ](#analise).
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Desativada.PNG" /> Desativa a forma de pagamento.
+<br></br>
 
 
 <div id="logsfinanceiros" />
