@@ -990,6 +990,7 @@ Para conferência das receitas fixas lançadas, acesse o <i>(Menu > Financeiro >
 <br></br>
 
 Remessa de boletos <i>(Menu > Financeiro > Remessa de boletos)</i> , utilizada para gerar arquivo de remessa ao banco, para que o banco tenha conhecimento da cobrança registrada.  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/22_Remessa_Boletos_1.PNG" />
+<br></br>
 
 **Tipo:** Selecione entre os 2 tipos <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Remessa_Boleto_Tipo.png" /> .
 
@@ -1006,15 +1007,20 @@ Remessa de boletos <i>(Menu > Financeiro > Remessa de boletos)</i> , utilizada p
 **Layout:** Layout de informações entre bancos e empresas.
 
 **Tabela de títulos:** Apresenta todos os boletos gerados para a conta seleciona.
+<br></br>
 
 Após realizar o preenchimento dos campos, basta clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Remessa_Boleto_Botao_Gerar.PNG" />, será gerado um arquivo em txt ,pelo qual será usado para importar dentro do sistema do banco, nesse exemplo utilizamos a conta Sicoob.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/22_Remessa_Boletos_2.PNG" />  
+<br></br>
 
 Esse arquivo será salvo na pasta conforme imagem a seguir:
+<br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Remessa_Boleto_Salva.PNG" />
+<br></br>
 
-*Obs:* Esse caminho é salvo quando realizamos as configurações das contas financeiras para emissão de boleto autorizada pelo *(Menu > Financeiro > Contas Financeiras)*.
+*Obs:* Esse caminho é salvo quando realizamos as configurações das contas financeiras para emissão de boleto autorizada pelo <i>(Menu > Financeiro > Contas Financeiras)</i>.
 
 <div id="retornodeboleto" />
 <b>22. Retorno de boletos</b>
