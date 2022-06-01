@@ -1024,24 +1024,29 @@ Esse arquivo será salvo na pasta conforme imagem a seguir:
 
 <div id="retornodeboleto" />
 <b>22. Retorno de boletos</b>
+<br></br>
 
-Retorno de boletos *(Menu > Financeiro > Retorno de boletos)* Utilizado para fazer download dos boletos pagos no dia anterior no banco para importar e dar baixa no Acsiv.
+Retorno de boletos <i>(Menu > Financeiro > Retorno de boletos)</i> Utilizado para fazer download dos boletos pagos no dia anterior no banco para importar e dar baixa no Acsiv.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Retorno_Boletos.PNG" />
+<br></br>
 
-Como estamos em uma base de homologação não será possível apresentar a tela com os devidos títulos*(boletos)* , mas ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Retorno_Boletos_Importar.PNG" /> é possível pegar os títulos<i>(boletos)</i> que foram exportados do sistema do banco para serem importados dentro do Acsiv. Ao finalizar a importação, basta clicar no botão confirmar para finalizar o processo de retorno de boletos dentro do Acsiv. 
+Como estamos em uma base de homologação não será possível apresentar a tela com os devidos títulos<i>(boletos)</i> , mas ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Retorno_Boletos_Importar.PNG" /> é possível pegar os títulos<i>(boletos)</i> que foram exportados do sistema do banco para serem importados dentro do Acsiv. Ao finalizar a importação, basta clicar no botão confirmar para finalizar o processo de retorno de boletos dentro do Acsiv. 
+<br></br>
 
 <div id="tabelair" />
 <b>23. Tabela IR</b>   
+<br></br>
 
-
-Tabela IR *(Menu > Financeiro > Tabela IR)*.
+Tabela IR <i>(Menu > Financeiro > Tabela IR)</i>.
 
 **IMPOSTO DE RENDA (IR)**
 
 É por meio dessa tabela que o sistema consegue calcular a porcentagem para gerar o imposto de renda. 
 
+<div align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/TabelaIR.PNG" />
+ </div>
 
 **a. Ano:** Selecione o ano para gerar a tabela IR.
 
@@ -1050,24 +1055,32 @@ Tabela IR *(Menu > Financeiro > Tabela IR)*.
 
 
 Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Tabela_Gerar.PNG" /> é possível visualizar.
+<br></br>
 
+<div align="center">
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/TabelaIR_Gerada.PNG" />
-
+</div>
+<br></br>
 
 <div id="transferências" />
 <b>24. Transferências</b> 
+<br></br>
 
-Transferências *(Menu > Financeiro > Transferências)*, utilizado para realizar transferências entre contas do cartório.
+Transferências <i>(Menu > Financeiro > Transferências)</i>, utilizado para realizar transferências entre contas do cartório.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/24_Transferencias_1.PNG" />
+<br></br>
 
-Preencha os campos para a realização da transferência, nesse exemplo foi transferido um valor do *CAIXA* (caixa físico do cartório) para a conta bancária <i>SICOOB</i>nta bancário do cartório).
+Preencha os campos para a realização da transferência, nesse exemplo foi transferido um valor do <i>CAIXA</i> (caixa físico do cartório) para a conta bancária <i>SICOOB</i>nta bancário do cartório).
 
 Após o preenchimento dos campos, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Transferir_Bot%C3%A3o.PNG" /> para efetivar a transferência entre as contas.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/24_Transferencias_2.PNG" />
+<br></br>
 
 Logo, a transferência será registrada no Contas a pagar / Contas a receber, <i>(Menu > Financeiro > contas a pagar / contas a receber).</i>
+<br></br>
 
 
 <i>Contas a pagar:</i>
@@ -1079,6 +1092,7 @@ Logo, a transferência será registrada no Contas a pagar / Contas a receber, <i
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/24_Transferencias_4.PNG" />
 
 **OBS:** Vale lembrar que essa transferência acontece apenas dentro do cartório pelas contas cadastradas no  no <i>(Menu > Financeiro > Contas financeiras)</i> não movimenta a conta bancária real do cartório <i>(Controle interno)</i>.
+<br></br>
 
 
 <div id="relatórios" />
