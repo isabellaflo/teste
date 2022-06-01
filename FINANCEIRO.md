@@ -1407,17 +1407,20 @@ Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as rece
 <br></br>
 
 
-Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos dos serviços notariais e cartoriais que serão tributados mensalmente pelo imposto de renda pessoa física(*IRPF*) .
+Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos dos serviços notariais e cartoriais que serão tributados mensalmente pelo imposto de renda pessoa física<i>(IRPF)</i>.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_14.PNG" />
+<br></br>
 
  <i>Gerar Documentos</i> <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Carne_Leao_Opcoes.png" /> é possível gerar guia DARF/Exportar Carnê Leão.
+ <br></br>
 
 **a. Data inicial:** Data inicial automática do dia, mas poderá ser alterada caso necessário. 
 
 **b. Data final:** Data final automática do dia, mas poderá ser alterada caso necessário.
 
-**c. Marcação PC:** Quando criado o plano de contas (*PC*) pelo (*Menu > Financeiro > Plano de contas*), com o campo *Marcação PC* preenchido, é possível filtrar essa marcação para ser apresentada no relatório.
+**c. Marcação PC:** Quando criado o plano de contas <i>(PC)</i> pelo <i>(Menu > Financeiro > Plano de contas)</i>, com o campo <i>Marcação PC</i> preenchido, é possível filtrar essa marcação para ser apresentada no relatório.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Agrupar_Plano_Contas.PNG" /> Agrupa plano de contas  na apresentação do relatório.
 
@@ -1427,13 +1430,14 @@ Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Nao_Exibir_Ato_Especial.PNG" /> O ato especial não será apresentado.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_N%C3%A3o_Exibir_Lancamentos_nao_dedutiveis.PNG" /> Não será apresentado lançamentos que foi definido no plano de contas *(Menu > Financeiro > Plano de contas)*  como "Não dedutíveis".
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_N%C3%A3o_Exibir_Lancamentos_nao_dedutiveis.PNG" /> Não será apresentado lançamentos que foi definido no plano de contas <i>(Menu > Financeiro > Plano de contas)</i>  como "Não dedutíveis".
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Exibir_Somente_Contas_Resultado.PNG" /> Exibe apenas contas que foram definidas como contas de resultado no plano de contas.  
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Exibir_deposito_previo.PNG" /> Exibe atos lançados no recibo (*Menu > Cartório > Recibos*) como depósito prévio.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Exibir_deposito_previo.PNG" /> Exibe atos lançados no recibo <i>(Menu > Cartório > Recibos)</i> como depósito prévio.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Exibir_Emolumentos_liquidos.PNG" /> Exibe emolumentos líquidos.
+<br></br>
    
 <div id="rplanodecontas" />
 <b>R. Plano de contas</b>
@@ -1441,9 +1445,10 @@ Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos
 <div align="center"><i>Relatório Plano de contas:</i></div>  
 <br></br>
 
-Relatório plano de contas, retorna todos os lançamentos praticados no cartório que foram definidos no  plano de contas (*Menu > Financeiro > Plano de contas*).
+Relatório plano de contas, retorna todos os lançamentos praticados no cartório que foram definidos no  plano de contas <i>(Menu > Financeiro > Plano de contas).</i>
 
  <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_15.PNG" />
+ <br></br>
 
 **a. Data:** Selecione entre as 4 datas (Lançamento, vencimento, pagamento, liquidação).
 
@@ -1453,25 +1458,30 @@ Relatório plano de contas, retorna todos os lançamentos praticados no cartóri
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Aplicar_Somatorio.PNG" /> Aplica somatório no início de cada grupo.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Exibir_Somente.PNG" /> Exibe somente contas que foram marcadas como contas de resultados na criação do plano de contas *(Menu > Financeiro > Plano de contas)*.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Exibir_Somente.PNG" /> Exibe somente contas que foram marcadas como contas de resultados na criação do plano de contas <i>(Menu > Financeiro > Plano de contas).</i>
+<br></br>
 
-*Para visualizar apenas um plano de contas em específico, basta inserir o mesmo conforme imagem a seguir:* 
+<i>Para visualizar apenas um plano de contas em específico, basta inserir o mesmo conforme imagem a seguir:</i> 
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Filtro.PNG" />
+<br></br>
 
 Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Botao_Visualizar.PNG" /> será exibido o relatório como abaixo:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Visualiza%C3%A7%C3%A3o.PNG" />
+<br></br>
 
 <div id="rreceitadiária" />
 <b>R. Receita diária</b>
-<br></br>
 <div align="center"><i>Relatório Receita diária:</i></div>  
 <br></br>
 
 Relatório Receita diário exibe as receitas diárias do cartório.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_16.PNG" />
+<br></br>
 
 **a. Data inicial:** Data inicial do dia, mas poderá ser alterada se necessário.
 
@@ -1500,8 +1510,10 @@ Relatório Receita diário exibe as receitas diárias do cartório.
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_CB_Exibir_Pagamentos_Mensalistas.PNG" /> Exibe pagamentos de mensalistas.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_Nao_Exibir_Ato_Especial.PNG" /> Não exibe ato especial.
+<br></br>
 
 **Observações:** Ao preencher será exibida no relatório.
+<br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_CB_Observacao.PNG" />
 
