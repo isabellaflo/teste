@@ -1307,7 +1307,7 @@ O fechamento de caixa consiste no retorno do processo diário de conferência da
 
 **d. Atendente:** Emitir o relatório por um atendente em específico. <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Atendente.png" />
 
-**e. Origem:** Selecione entre as 2 origem, Se foi praticado pelo caixa ou pelo balcão de notas <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Origem.png" />. 
+**e. Origem:** Selecione entre as 2 origem, se foi praticado pelo caixa ou pelo balcão de notas <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Origem.png" />. 
 
 **f. Forma PG:** Há a possibilidade de filtrar uma forma de pagamento para ser apresentado no relatório <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Forma_De_Pagamento.png" /> .
 <br></br>
